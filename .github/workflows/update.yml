@@ -1,6 +1,4 @@
 # Daily update for the public GitHub list "Remote jobs open to applicants in India".
-# NOT INSTALLED HERE. Copy this file to .github/workflows/update.yml in the new public repository
-# (suggested name: remote-jobs-open-to-india), next to scripts/github-job-list.mjs.
 #
 # It needs no secrets: it reads ROLIVA's public export and commits README.md and data.json only when they changed.
 # Fails closed: if the export cannot be fetched or validated, yesterday's list stays. After 72 hours without a good
@@ -27,9 +25,9 @@ jobs:
       LIST: remote-india
       BASE_URL: https://rolivajobs.com
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: '22'
 
