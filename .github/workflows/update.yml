@@ -1,0 +1,62 @@
+# Daily update for the public GitHub list "Remote jobs open to applicants in India".
+# NOT INSTALLED HERE. Copy this file to .github/workflows/update.yml in the new public repository
+# (suggested name: remote-jobs-open-to-india), next to scripts/github-job-list.mjs.
+#
+# It needs no secrets: it reads ROLIVA's public export and commits README.md and data.json only when they changed.
+# Fails closed: if the export cannot be fetched or validated, yesterday's list stays. After 72 hours without a good
+# update the table is replaced with a "paused" notice. The run is marked failed each time, so GitHub emails the owner.
+name: Update list
+
+on:
+  schedule:
+    - cron: '30 2 * * *'   # 02:30 UTC (08:00 IST), once a day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-list
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      LIST: remote-india
+      BASE_URL: https://rolivajobs.com
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Build the list from ROLIVA's public export
+        id: build
+        continue-on-error: true
+        run: node scripts/github-job-list.mjs --out . --list "$LIST" --base-url "$BASE_URL"
+
+      - name: Pause the list if it has not updated for 72 hours
+        if: steps.build.outcome == 'failure'
+        run: |
+          set +e
+          node scripts/github-job-list.mjs --out . --list "$LIST" --pause-if-stale 72
+          code=$?
+          if [ "$code" -ne 0 ] && [ "$code" -ne 4 ]; then exit "$code"; fi
+
+      - name: Commit only if something changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md data.json
+          if git diff --cached --quiet; then echo 'No changes.'; exit 0; fi
+          git commit -m "Update list $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Report a failed update
+        if: steps.build.outcome == 'failure'
+        run: |
+          echo "::error::The export could not be fetched or validated. Yesterday's list was kept (or paused after 72 hours)."
+          exit 1
