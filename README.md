@@ -2,7 +2,7 @@
 
 A daily-updated list of **remote roles whose own listing says they are open to candidates in India**, in an Indian region, across APAC, or worldwide. Every role was confirmed open on the employer’s own hiring system within the last 72 hours.
 
-**Last updated:** 2026-10-04 21:49 UTC · **Roles:** 121
+**Last updated:** 2026-10-05 02:42 UTC · **Roles:** 121
 
 > **Read the full listing before you apply.** The employer, not this list, decides who is eligible.
 > Never pay anyone to apply for a job.
