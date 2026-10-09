@@ -1,15 +1,138 @@
 {
  "list": "remote-india",
  "title": "Remote jobs open to applicants in India",
- "generated_at": "2026-10-08T02:40:45.708Z",
+ "generated_at": "2026-10-09T02:41:40.039Z",
  "source": "https://rolivajobs.com",
  "licence": {
   "selection_and_arrangement": "CC-BY-4.0",
   "job_facts": "Belong to their publishers; each row links to the original posting."
  },
  "paused": false,
- "count": 122,
+ "count": 124,
  "jobs": [
+  {
+   "id": "9f119a68-9eb5-4011-ab5a-9ed9c7f15faa",
+   "title": "Senior Software Engineer - Reliability",
+   "company": "Atlan",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-10-08",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-software-engineer-reliability-atlan-9f119a68-9eb5-4011-ab5a-9ed9c7f15faa",
+   "apply_url": "https://jobs.ashbyhq.com/atlan/20fe5046-b287-40f6-990f-842ad75526e5/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-08T09:19:44.253Z",
+   "last_checked_at": "2026-10-08T21:21:36.261Z"
+  },
+  {
+   "id": "044c5122-2851-4fe9-919d-5447b2964ae5",
+   "title": "Recruiter, GTM",
+   "company": "GitLab",
+   "location": "Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "recruiter",
+    "label": "Recruiter"
+   },
+   "posted_date": "2026-10-08",
+   "roliva_url": "https://rolivajobs.com/jobs/recruiter-gtm-gitlab-044c5122-2851-4fe9-919d-5447b2964ae5",
+   "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869149002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-08T15:39:10.816Z",
+   "last_checked_at": "2026-10-08T21:49:51.617Z"
+  },
+  {
+   "id": "a95e4c4f-92d3-4d4b-921c-1bcbf3476d6e",
+   "title": "Recruiter, R&D",
+   "company": "GitLab",
+   "location": "Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "recruiter",
+    "label": "Recruiter"
+   },
+   "posted_date": "2026-10-08",
+   "roliva_url": "https://rolivajobs.com/jobs/recruiter-r-d-gitlab-a95e4c4f-92d3-4d4b-921c-1bcbf3476d6e",
+   "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-08T15:39:10.816Z",
+   "last_checked_at": "2026-10-08T21:49:51.617Z"
+  },
+  {
+   "id": "8bb78352-feb3-4102-be04-04b32a35fb83",
+   "title": "Machine Learning Engineer (L3)",
+   "company": "Twilio",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "machine-learning-engineer",
+    "label": "Machine learning engineer"
+   },
+   "posted_date": "2026-10-08",
+   "roliva_url": "https://rolivajobs.com/jobs/machine-learning-engineer-l3-twilio-8bb78352-feb3-4102-be04-04b32a35fb83",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-08T15:34:37.766Z",
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
+  },
+  {
+   "id": "571df991-91f7-4280-a46f-1269e211b77a",
+   "title": "Onboarding Operations Specialist 1",
+   "company": "Twilio",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-08",
+   "roliva_url": "https://rolivajobs.com/jobs/onboarding-operations-specialist-1-twilio-571df991-91f7-4280-a46f-1269e211b77a",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261279",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-08T15:34:37.766Z",
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
+  },
+  {
+   "id": "cf8cf6d8-7b7c-48f5-b4eb-8ea7ae3eb9cb",
+   "title": "Principal, Machine Learning Engineer (L5)",
+   "company": "Twilio",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "machine-learning-engineer",
+    "label": "Machine learning engineer"
+   },
+   "posted_date": "2026-10-08",
+   "roliva_url": "https://rolivajobs.com/jobs/principal-machine-learning-engineer-l5-twilio-cf8cf6d8-7b7c-48f5-b4eb-8ea7ae3eb9cb",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258597",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-08T15:34:37.766Z",
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
+  },
+  {
+   "id": "9c9dea65-087e-4679-aa0e-2336490fb8d4",
+   "title": "Staff Machine Learning Engineer (L4)",
+   "company": "Twilio",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "machine-learning-engineer",
+    "label": "Machine learning engineer"
+   },
+   "posted_date": "2026-10-08",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-machine-learning-engineer-l4-twilio-9c9dea65-087e-4679-aa0e-2336490fb8d4",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-08T15:34:37.766Z",
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
+  },
   {
    "id": "b5069de5-b2df-4e77-bb36-4d469933d7e9",
    "title": "Sr. Product Designer",
@@ -26,7 +149,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/0ef426a8-6be5-4eb2-b28c-27cc96a18bd2/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-07T09:14:06.531Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "fe6d902b-3822-4400-88f8-20d9f4963340",
@@ -44,7 +167,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/49e6048a-578a-4af3-a769-e40c0f3ebccd/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-07T09:14:06.531Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "8c43abe5-66d3-436d-993e-7457cbb27df0",
@@ -59,7 +182,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/356d08ba-6119-4c76-93ad-362ca7283569/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-07T21:24:18.893Z"
+   "last_checked_at": "2026-10-08T21:41:15.882Z"
   },
   {
    "id": "1700cc52-8aa0-48e2-ba2c-c7a902ce7ac8",
@@ -74,7 +197,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/1713bfd7-a63b-4dd4-b6e7-b0b8b8560a4a/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-07T21:24:18.893Z"
+   "last_checked_at": "2026-10-08T21:41:15.882Z"
   },
   {
    "id": "057fc3e0-6d85-422c-b242-55f9de51efa8",
@@ -89,7 +212,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/ef0a1e14-40ee-43d2-aab9-59fc9f6a4b8c/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-07T21:24:18.893Z"
+   "last_checked_at": "2026-10-08T21:41:15.882Z"
   },
   {
    "id": "5e799e5b-ac64-434e-84c0-f3f5ce40c3cb",
@@ -104,7 +227,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/bd230a18-2ff4-493c-8555-8476bf7de0e4/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-07T21:24:18.893Z"
+   "last_checked_at": "2026-10-08T21:41:15.882Z"
   },
   {
    "id": "93024226-7eca-408f-b052-fbc37e09630c",
@@ -122,7 +245,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/12b62688-b19b-42a9-b35d-bb53d63326e6/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-06T09:01:15.997Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "41a9eaf5-fd60-408a-bb5b-4312a71acf74",
@@ -140,7 +263,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8236865",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-06T09:04:15.962Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "4c2e9d93-385d-4a03-90f6-41f2902a1fd0",
@@ -155,7 +278,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-05T15:04:32.191Z",
-   "last_checked_at": "2026-10-07T21:24:18.893Z"
+   "last_checked_at": "2026-10-08T21:41:15.882Z"
   },
   {
    "id": "44abca69-74d6-4983-918f-ef2d27b06fc3",
@@ -173,7 +296,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/7dd65f11-f2f6-43fd-bff4-da44f959a47c/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-05T08:56:22.089Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "6206ed76-cbb7-419a-820b-1bf83c8f6b8e",
@@ -191,7 +314,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8239751",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-05T08:59:34.110Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "62b0a073-74bd-40c8-b944-b35a3a82a04c",
@@ -206,7 +329,7 @@
    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8859694002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:04:14.146Z",
-   "last_checked_at": "2026-10-07T21:31:08.347Z"
+   "last_checked_at": "2026-10-08T21:49:51.617Z"
   },
   {
    "id": "5798c3d6-e898-4699-988e-5b6c01e2f0dc",
@@ -224,7 +347,7 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/9ba81415-2033-4b72-af4a-d9d2f288abaa/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:48:13.562Z",
-   "last_checked_at": "2026-10-07T21:12:39.503Z"
+   "last_checked_at": "2026-10-08T21:21:36.261Z"
   },
   {
    "id": "4b92e9b9-97e9-48c4-b9b0-cad4d8f32650",
@@ -242,7 +365,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/f7a500e3-5307-4162-ad84-a495e71a3383/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "38b06c7a-8bd4-4e88-9588-5d99f9f4c733",
@@ -260,7 +383,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/7d30dacd-ee0e-4a40-a7ab-d13c737566ee/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "0191859e-dfff-43b0-80ce-468146e03951",
@@ -275,7 +398,7 @@
    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8857611002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:04:14.146Z",
-   "last_checked_at": "2026-10-07T21:31:08.347Z"
+   "last_checked_at": "2026-10-08T21:49:51.617Z"
   },
   {
    "id": "217ea16c-72c2-4e2e-ba3c-533c9b1bf27a",
@@ -290,7 +413,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/a8a41c4e-8b6c-4db7-affc-5cc5cafcbef4/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "eb9d80e8-7a88-40e1-a30a-d849af28c348",
@@ -305,40 +428,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/6385dde4-4655-4d9c-91d0-03f89228047e/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
-  },
-  {
-   "id": "b2f61c4f-fe6e-4a55-b885-81b4fab400af",
-   "title": "Staff Product Manager - Email Growth",
-   "company": "HighLevel",
-   "location": "India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": {
-    "slug": "product-manager",
-    "label": "Product manager"
-   },
-   "posted_date": "2026-09-30",
-   "roliva_url": "https://rolivajobs.com/jobs/staff-product-manager-email-growth-highlevel-b2f61c4f-fe6e-4a55-b885-81b4fab400af",
-   "apply_url": "https://jobs.lever.co/gohighlevel/8e0c1e7a-77a8-4116-9687-227bd66e7b52/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T03:08:51.401Z"
-  },
-  {
-   "id": "c2dd7af7-896c-49e6-bc91-1ec5122255a0",
-   "title": "Phone Numbers Operations Specialist L2",
-   "company": "Twilio",
-   "location": "Remote - India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": null,
-   "posted_date": "2026-09-30",
-   "roliva_url": "https://rolivajobs.com/jobs/phone-numbers-operations-specialist-l2-twilio-c2dd7af7-896c-49e6-bc91-1ec5122255a0",
-   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8231571",
-   "source_ats": "greenhouse",
-   "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-07T03:10:48.765Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "4b3807ed-8047-47b9-bcc6-dee5a251a0b7",
@@ -356,7 +446,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/2ed5358c-1960-4063-a0ea-f5ae4207c426/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "f83347d0-6ed8-42d7-9207-6d1aac600d76",
@@ -374,7 +464,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/67bfdfa4-ba58-4419-b8c1-be26705bfb97/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "f4fb0f14-b9e6-432c-930b-588a5c3869bb",
@@ -392,7 +482,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/69f404bd-1e27-4cbe-95ea-8850d81b0736/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "d7a55f03-66dc-4244-9a6c-3bf22bc986a9",
@@ -410,7 +500,7 @@
    "apply_url": "https://www.harness.io/company/jobs/apply?gh_jid=5239607007&gh_jid=5239607007",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:54:36.949Z",
-   "last_checked_at": "2026-10-07T21:25:05.854Z"
+   "last_checked_at": "2026-10-08T21:43:39.289Z"
   },
   {
    "id": "ca37f791-3273-4d79-a756-f9a31690681f",
@@ -425,7 +515,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/39718784-e43b-43b6-9fee-5a33975e7640/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "a6b6960d-4d47-4806-a17b-de6907b350ad",
@@ -440,7 +530,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/830505ba-65b7-4e0b-8681-f84eaef2a337/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "9098c522-e680-4263-b1f1-670937ba2612",
@@ -458,7 +548,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4eb09872-4256-45b7-b754-634ba1a2f0c7/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "936257da-b78c-43e8-8f0a-bb1263434087",
@@ -473,7 +563,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/a63519fb-48a6-4d4f-8d44-d08fbec8c85d/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "67003c0b-ff7d-4a74-ab3d-aee1bb7c7f1b",
@@ -491,7 +581,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/e4867c68-18b1-41f7-9c49-538f69082203/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "bea34888-b4e2-4dd7-ba2a-ca4291e6c268",
@@ -509,7 +599,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/5b51c71b-a61e-41e4-82e3-7fa4deb2678a/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-06T15:02:49.772Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "83766b9e-dde0-4cff-bd7c-1c9df484c1c2",
@@ -524,7 +614,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8213730",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-07T15:24:55.000Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "f84bdcbf-8a26-4780-951d-651a2f6e0680",
@@ -542,7 +632,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/8a1ba5ad-c2a8-428d-9244-4d39ecc6849b/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "1a42a2be-12cd-461d-9656-f94f64121554",
@@ -557,7 +647,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/d65c5aee-cb44-4c4e-9f5d-969650da151b/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T03:22:21.349Z"
   },
   {
    "id": "c2261b1c-bf9b-427d-8691-c90a88b9050a",
@@ -572,7 +662,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/9b47be08-219e-4c47-94cb-8a915cdfcab8/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "c9f01fd2-a456-47ff-89bf-8808e84d0a19",
@@ -587,7 +677,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/75ce4a5c-f6f9-4f96-b886-e714744bc7ab/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "8fdf82e5-67d2-46e5-bc5c-d18c602b2ebb",
@@ -605,7 +695,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/0dcefcc6-3306-40d5-a8b2-3a227718e51c/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "d18f5133-8a49-412b-9755-980726507ea0",
@@ -623,7 +713,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/41b2ff30-1410-41ce-8d22-ea5f57b90081/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "7c5e4080-d5ef-4906-806c-552165b15b6f",
@@ -641,7 +731,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/afea98b1-aede-481c-b27d-2cb88dc325b4/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "3e3ee7a0-69f0-4bcd-a1d6-9d34aa077dcd",
@@ -656,7 +746,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/d0f7208a-f9fb-4d59-a8c4-e1cde9ee0612/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "ac41fa50-08d0-479f-9c53-0301d3ebc835",
@@ -671,7 +761,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/eaa99351-a05c-4ad8-be4f-ad4ef7e25809/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "30c5b56f-99f3-46ff-9170-835ca2acc940",
@@ -686,7 +776,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/92002249-671d-4d08-96b0-e87c1d6082cb/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "74d0466d-2d1c-42c8-8a38-2143d1de26da",
@@ -701,7 +791,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/a718fab2-3fc6-4acd-b364-883f5fc59cac/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "55ed203b-f42a-4881-815e-e5098c368865",
@@ -716,7 +806,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/2d078c69-5573-4ddb-a531-445b462c9160/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "28993498-7b68-4488-82ed-aa459f2239fb",
@@ -731,7 +821,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/ba929ad2-f1b4-4ee7-bdb8-e01b74b3969b/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "cbb8b9db-5c5d-4b77-b583-6b9fac9bdf8b",
@@ -746,7 +836,25 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/254ef24c-ff4b-42c9-8b43-603e55e650a3/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
+  },
+  {
+   "id": "a3bcd1ea-e120-4f69-bc58-c0c9f6eee909",
+   "title": "Group Product Manager - Commerce",
+   "company": "HighLevel",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "product-manager",
+    "label": "Product manager"
+   },
+   "posted_date": "2026-09-15",
+   "roliva_url": "https://rolivajobs.com/jobs/group-product-manager-commerce-highlevel-a3bcd1ea-e120-4f69-bc58-c0c9f6eee909",
+   "apply_url": "https://jobs.lever.co/gohighlevel/d1b43230-872c-4b16-8f3a-863b02a7b6c2/apply",
+   "source_ats": "lever",
+   "first_seen_at": "2026-10-04T20:53:50.443Z",
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "be412a94-74fa-4eba-ae90-afb3c5bf8ea3",
@@ -764,7 +872,25 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/95e5b2ba-03d6-4ff5-82fb-6a4ae287558e/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
+  },
+  {
+   "id": "8a305ac4-caaa-4b0f-9f9e-f2f346d4f710",
+   "title": "Sr. Engineering Manager - Commerce",
+   "company": "HighLevel",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "engineering-manager",
+    "label": "Engineering manager"
+   },
+   "posted_date": "2026-09-15",
+   "roliva_url": "https://rolivajobs.com/jobs/sr-engineering-manager-commerce-highlevel-8a305ac4-caaa-4b0f-9f9e-f2f346d4f710",
+   "apply_url": "https://jobs.lever.co/gohighlevel/2f4ed5d8-9f38-4afc-ab71-bd0eda7aa892/apply",
+   "source_ats": "lever",
+   "first_seen_at": "2026-10-08T09:23:27.556Z",
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "4c706180-bb8c-472f-a33f-705eb722f51b",
@@ -782,7 +908,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/473d2174-f5bb-4721-9ee2-4867cba38174/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "2ea73700-8ae8-43e7-8ee2-230b96f6b0ff",
@@ -797,7 +923,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/b4f73bb7-d3ec-4886-9509-3feaf28a7d60/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "e90e57cb-c49a-49e5-b521-7f8567531167",
@@ -812,7 +938,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/2e98a975-95da-4d26-b3b6-a0708fbcee42/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "65fb7349-05a0-4d35-b20c-9608814f7b79",
@@ -827,7 +953,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/ab0b9373-1219-4194-ae9a-6bdf50891749/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "3c6b6082-fcd2-4e90-bff6-a5bd9bef9456",
@@ -845,7 +971,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/ffc2572e-12ce-4ad2-a0cd-7e8eca60a185/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "14a25570-9564-4a04-91d9-dd47fbd3bdc2",
@@ -860,7 +986,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/c15f855e-3993-4b13-8561-4a93273112eb/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "f0ad1758-fe6f-41ee-97fa-d04da130302b",
@@ -878,7 +1004,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/c21521ab-8af1-4ab4-bfdb-e5117da4e616/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "d9baaada-f8f3-4173-aaeb-03279de1c886",
@@ -893,7 +1019,7 @@
    "apply_url": "https://www.rubrik.com/company/careers/departments/job.8130441?gh_jid=8130441",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:59:00.847Z",
-   "last_checked_at": "2026-10-07T21:27:36.873Z"
+   "last_checked_at": "2026-10-08T21:46:04.385Z"
   },
   {
    "id": "63c82ff6-5d1e-4b03-96d3-076c39fd88cb",
@@ -911,7 +1037,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8176810",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-06T09:04:15.962Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "dad36f77-5113-4eb9-b500-da40e615f309",
@@ -929,7 +1055,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4313ec17-52ae-46a7-8cad-ff9c53c7e826/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "30b8fc3c-7c6b-4cfe-8ece-09968800ec80",
@@ -944,7 +1070,7 @@
    "apply_url": "https://jobs.ashbyhq.com/kong/b435e044-45ab-4395-a681-24131c63ca0e/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:52:56.338Z",
-   "last_checked_at": "2026-10-07T21:18:49.916Z"
+   "last_checked_at": "2026-10-08T21:24:56.923Z"
   },
   {
    "id": "aa60f68e-5c43-4cdf-9d73-680e9e2b01cf",
@@ -962,7 +1088,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8167571?gh_jid=8167571",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-07T21:34:35.210Z"
+   "last_checked_at": "2026-10-08T21:52:58.973Z"
   },
   {
    "id": "b4eb1f28-8454-4b0b-a884-5bc2f9d773ae",
@@ -980,7 +1106,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-07T21:34:35.210Z"
+   "last_checked_at": "2026-10-08T21:52:58.973Z"
   },
   {
    "id": "976d7c07-3575-4950-83bf-0c297e0936a6",
@@ -998,7 +1124,7 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4962161101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-02T11:45:00.134Z",
-   "last_checked_at": "2026-10-08T02:27:32.273Z"
+   "last_checked_at": "2026-10-09T00:41:39.459Z"
   },
   {
    "id": "1e5673ec-c55c-4af1-bb6b-cffda0c1bf2f",
@@ -1013,7 +1139,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/87c769f3-78b0-4015-b099-1a5fa86c36ed/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "a708eb13-a853-456e-9fb6-c9f8dc975ca0",
@@ -1028,7 +1154,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/b9842bed-a568-4035-90f5-9261baa0d15b/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "13ad662f-117a-4939-8769-da31115937ef",
@@ -1043,7 +1169,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/6b5a902d-49ea-4fa9-ab67-d6e88c361695/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-07T21:24:18.893Z"
+   "last_checked_at": "2026-10-08T21:41:15.882Z"
   },
   {
    "id": "3ef2edb5-74de-4386-81e6-7992ca7238c0",
@@ -1058,7 +1184,7 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/107864a1-7090-4a0c-9cd5-a1c6478ff2b2/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:48:13.562Z",
-   "last_checked_at": "2026-10-07T21:12:39.503Z"
+   "last_checked_at": "2026-10-08T21:21:36.261Z"
   },
   {
    "id": "67e31c18-3243-4fb5-bde5-ec063c29bcff",
@@ -1076,7 +1202,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8138870",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "4d2c2670-16d8-48fb-bb25-a7437fd7f0f4",
@@ -1094,7 +1220,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4eac1849-29f4-4556-95fa-db283607c936/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "79d49674-dfe6-4b70-b300-62388edc21e5",
@@ -1112,7 +1238,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/1690c983-943c-4eb9-b9dc-0fef04118442/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "ffd30ddd-b7fa-4cab-a81e-3857a317e414",
@@ -1130,7 +1256,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/beedd6df-f9f3-4e18-9820-0e6a296487d8/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "c25d2637-2e9d-405a-8bc7-ffc9f7390151",
@@ -1148,7 +1274,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/13cbdf7e-ec82-4a0f-aec1-3bc55add776d/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "7242d363-7d9c-4966-b60c-d7028f2d95df",
@@ -1163,7 +1289,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/af017d44-96d3-4ee7-9684-b414376a71b9/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-07T21:24:18.893Z"
+   "last_checked_at": "2026-10-08T09:31:58.110Z"
   },
   {
    "id": "fe561ff4-e4ab-45f8-b817-ee58520054f0",
@@ -1181,7 +1307,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/fc267177-ceaf-46c5-b7e8-d96098f47782/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "1b27d342-76f2-477f-8ea9-53e55fc6f965",
@@ -1199,7 +1325,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/7d3eed7a-fbd5-4ec2-a087-890300efaf6a/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "21cbc3bf-a88e-4525-bc2a-2c80fbe4b412",
@@ -1214,7 +1340,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8122777?gh_jid=8122777",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-07T21:34:35.210Z"
+   "last_checked_at": "2026-10-08T21:52:58.973Z"
   },
   {
    "id": "ac1222f5-65d0-43e3-943c-954f34e90c76",
@@ -1232,7 +1358,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/7cc61c43-4203-467c-8b67-721925cb0fd1/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "f9154651-3e03-401b-be7e-7d36a57a6a72",
@@ -1247,7 +1373,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104438",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "8f0df670-6d06-4593-a1f3-6425a384f980",
@@ -1262,7 +1388,7 @@
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637736002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:42:49.740Z",
-   "last_checked_at": "2026-10-07T22:44:12.036Z"
+   "last_checked_at": "2026-10-08T23:04:33.649Z"
   },
   {
    "id": "ef775862-7d11-4603-afd4-c4da5c93ece2",
@@ -1280,7 +1406,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8079801",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-06T09:04:15.962Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "3dbc9fa9-4673-4c11-8dbc-de9c7d92f4db",
@@ -1298,7 +1424,7 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4939598101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-02T11:45:00.134Z",
-   "last_checked_at": "2026-10-08T02:27:32.273Z"
+   "last_checked_at": "2026-10-09T00:41:39.459Z"
   },
   {
    "id": "794a9137-246a-423e-a7aa-bce28955c9a9",
@@ -1316,7 +1442,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/a569233d-a1d9-47b0-8a28-2f3357ba3d6e/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "b070f1a6-3360-42b8-afb9-68cbf538f7f9",
@@ -1334,7 +1460,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/6f56b0ef-8931-4c6c-a275-231f4161d4f2/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "ebc9daa3-5ee0-41e1-9686-135fb0c90709",
@@ -1352,7 +1478,7 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/254c1250-953b-4323-8d18-9fe5e41d8d7d/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:48:13.562Z",
-   "last_checked_at": "2026-10-07T21:12:39.503Z"
+   "last_checked_at": "2026-10-08T21:21:36.261Z"
   },
   {
    "id": "467277aa-a3b8-4eac-8a91-931668ee433c",
@@ -1370,7 +1496,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4b47b634-8c59-4c17-be9f-d9be921bfa53/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "acf0d6b9-42e0-466d-9e83-a6db6459d6a9",
@@ -1385,7 +1511,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/a571b8e4-8176-4e31-aab6-2287ee810236/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-07T21:24:18.893Z"
+   "last_checked_at": "2026-10-08T21:41:15.882Z"
   },
   {
    "id": "e76cc99f-d151-4ac4-bb76-702006cbfa6e",
@@ -1400,7 +1526,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8054055?gh_jid=8054055",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-07T21:34:35.210Z"
+   "last_checked_at": "2026-10-08T21:52:58.973Z"
   },
   {
    "id": "1a2050a8-4095-4a5c-a23a-e501cdece0ba",
@@ -1418,7 +1544,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8054153?gh_jid=8054153",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-07T21:34:35.210Z"
+   "last_checked_at": "2026-10-08T21:52:58.973Z"
   },
   {
    "id": "972b5ea9-3f48-4527-842c-60f832462ff2",
@@ -1433,7 +1559,7 @@
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530855002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:42:49.740Z",
-   "last_checked_at": "2026-10-07T22:44:12.036Z"
+   "last_checked_at": "2026-10-08T23:04:33.649Z"
   },
   {
    "id": "8c1d6e30-497e-47dc-ab51-2985d635ae1b",
@@ -1451,7 +1577,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/90873fda-95c3-4d21-bae8-c5a30f5b7ac8/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-07T21:24:18.893Z"
+   "last_checked_at": "2026-10-08T03:25:48.748Z"
   },
   {
    "id": "ae70fffb-2b8e-4d14-bbfa-4ab003357d31",
@@ -1466,22 +1592,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/55b21715-6e89-456e-af07-0b17b1e455e8/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-07T21:24:18.893Z"
-  },
-  {
-   "id": "9fb04725-fdbe-46e3-aad4-bb304911a805",
-   "title": "Revenue Strategy & Operations - APAC",
-   "company": "ElevenLabs",
-   "location": "Singapore",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": null,
-   "posted_date": "2026-07-08",
-   "roliva_url": "https://rolivajobs.com/jobs/revenue-strategy-operations-apac-elevenlabs-9fb04725-fdbe-46e3-aad4-bb304911a805",
-   "apply_url": "https://jobs.ashbyhq.com/elevenlabs/0bbf2519-4f28-4de3-836a-aabc302050d7/application",
-   "source_ats": "ashby",
-   "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-07T09:16:47.786Z"
+   "last_checked_at": "2026-10-08T21:41:15.882Z"
   },
   {
    "id": "9e6242d3-3cd9-482c-a44a-f954657c2ffc",
@@ -1496,7 +1607,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/8529412e-dd5e-4e04-b0af-0c980f16c623/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "c10f03a0-f3ec-4913-af72-659db07a20f0",
@@ -1511,7 +1622,7 @@
    "apply_url": "https://jobs.lever.co/BTSE/84f251e0-2125-4708-a522-c0e268e3df0a/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-02T11:42:22.616Z",
-   "last_checked_at": "2026-10-07T22:39:50.076Z"
+   "last_checked_at": "2026-10-08T21:54:20.169Z"
   },
   {
    "id": "5d196deb-6534-4f46-bd5a-ad9f666ec65a",
@@ -1529,7 +1640,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/29c16f45-a4ca-4eb8-bc4a-1738dc9219c1/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "645735c0-2089-45e0-b219-044f3bf6b5a0",
@@ -1547,7 +1658,7 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4915166101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-02T11:45:00.134Z",
-   "last_checked_at": "2026-10-08T02:27:32.273Z"
+   "last_checked_at": "2026-10-09T00:41:39.459Z"
   },
   {
    "id": "b7e08341-8960-4c94-abf9-97646982c5f3",
@@ -1562,7 +1673,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7781659",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-06T09:04:15.962Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "d8cb9553-68c6-444b-9397-d7e5f26426de",
@@ -1580,7 +1691,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/b3553b34-22d5-414c-81a0-ef7f2d627259/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "b7101ace-d0d8-4b58-844c-45b0f603711e",
@@ -1595,7 +1706,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/d541f10d-0202-4327-a229-625f95843189/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "f55cc77d-504b-45e9-a828-8175cffe3962",
@@ -1613,7 +1724,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-07T21:34:35.210Z"
+   "last_checked_at": "2026-10-08T21:52:58.973Z"
   },
   {
    "id": "6362ecff-9b51-4633-9cbe-ba399109c983",
@@ -1628,7 +1739,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/d08363ec-acf3-4610-b13f-e70c9054ea98/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T03:22:21.349Z"
   },
   {
    "id": "865b766d-a8e9-483c-90fe-fd4fd1694ab3",
@@ -1646,7 +1757,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/028074ee-aff8-4129-b2a0-f376800d084a/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "33388851-886e-4bcd-89bd-99ffd59fc04b",
@@ -1664,7 +1775,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8001804",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "bd3e127f-13d7-43dd-87cf-f8b7705b438b",
@@ -1679,7 +1790,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7966928",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "c4cfe0f3-ae88-4704-a56a-2ffd81ebb8f0",
@@ -1697,7 +1808,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7996776",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "63bd118b-6c40-46d2-9c76-68ad6e44a13f",
@@ -1715,7 +1826,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/7739592?gh_jid=7739592",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-07T21:34:35.210Z"
+   "last_checked_at": "2026-10-08T21:52:58.973Z"
   },
   {
    "id": "dc68e36f-6341-4b64-9379-fa58f0264b8e",
@@ -1730,7 +1841,7 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/8e3252f6-90fc-4ec5-abb7-6363df2df55a/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:48:13.562Z",
-   "last_checked_at": "2026-10-07T21:12:39.503Z"
+   "last_checked_at": "2026-10-08T21:21:36.261Z"
   },
   {
    "id": "3f8efa68-4bb3-4201-a792-0cdb79246f1d",
@@ -1748,7 +1859,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7917665",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-07T15:24:55.000Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "01e5998c-df03-43a1-a7a1-91107657bb3f",
@@ -1763,22 +1874,7 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4874410101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-02T11:45:00.134Z",
-   "last_checked_at": "2026-10-08T02:27:32.273Z"
-  },
-  {
-   "id": "505f3fbd-6a2b-4594-a8fb-a44d4f608afa",
-   "title": "Application Engineer",
-   "company": "HighLevel",
-   "location": "India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": null,
-   "posted_date": "2026-05-22",
-   "roliva_url": "https://rolivajobs.com/jobs/application-engineer-highlevel-505f3fbd-6a2b-4594-a8fb-a44d4f608afa",
-   "apply_url": "https://jobs.lever.co/gohighlevel/92965a0b-946a-4b31-ab79-4582582cee60/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T03:08:51.401Z"
+   "last_checked_at": "2026-10-09T00:41:39.459Z"
   },
   {
    "id": "61a12da0-59e4-45bc-ae6b-4d4bdc643d69",
@@ -1793,7 +1889,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/aa1ac843-c6a4-471f-8783-de8089e9d325/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "66c72e59-1f33-43c5-9c91-b313e351ea16",
@@ -1808,22 +1904,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7825089",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
-  },
-  {
-   "id": "bb4ba382-96da-470f-91a6-eee3e7e2eb7d",
-   "title": "SDE III - Whatsapp Voice",
-   "company": "HighLevel",
-   "location": "India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": null,
-   "posted_date": "2026-04-21",
-   "roliva_url": "https://rolivajobs.com/jobs/sde-iii-whatsapp-voice-highlevel-bb4ba382-96da-470f-91a6-eee3e7e2eb7d",
-   "apply_url": "https://jobs.lever.co/gohighlevel/384b2340-7c0b-4806-a951-4fd261c78b12/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T03:08:51.401Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "f4f106b4-3468-4815-98c5-744a0fa2f935",
@@ -1838,22 +1919,7 @@
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8503068002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:42:49.740Z",
-   "last_checked_at": "2026-10-07T22:44:12.036Z"
-  },
-  {
-   "id": "9ace7a40-a05b-421c-9cf1-806149a53806",
-   "title": "Software Development Engineer III || LC Phone",
-   "company": "HighLevel",
-   "location": "India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": null,
-   "posted_date": "2026-03-23",
-   "roliva_url": "https://rolivajobs.com/jobs/software-development-engineer-iii-lc-phone-highlevel-9ace7a40-a05b-421c-9cf1-806149a53806",
-   "apply_url": "https://jobs.lever.co/gohighlevel/8c804228-51e3-4633-8ef5-3962e17c87f8/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T03:08:51.401Z"
+   "last_checked_at": "2026-10-08T23:04:33.649Z"
   },
   {
    "id": "f79d29d6-3e30-4ca7-852c-8c1c545ce465",
@@ -1868,7 +1934,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7657993",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-07T21:26:29.652Z"
+   "last_checked_at": "2026-10-08T21:44:44.518Z"
   },
   {
    "id": "60bc5d6d-03a0-408b-baf3-a7e6dc5516b4",
@@ -1883,7 +1949,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/ce928065-f2cf-4412-a5e7-32677e6f4e4b/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "55bbdd0f-5c19-4337-859b-3bd0341626ee",
@@ -1901,7 +1967,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/c78966d6-0f24-41ba-b792-b3ee9bb716c1/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "8c904ab4-b175-41e7-829a-1d6a88b22cf2",
@@ -1919,7 +1985,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/13a4725e-8511-47f6-a0b6-3db420ad5930/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "049ae4e6-c6a1-465c-9438-5c1212e412bb",
@@ -1934,7 +2000,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/7606826?gh_jid=7606826",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-07T21:34:35.210Z"
+   "last_checked_at": "2026-10-08T21:52:58.973Z"
   },
   {
    "id": "27e5c08b-f7b1-4539-8d71-26c72a665bf4",
@@ -1952,7 +2018,7 @@
    "apply_url": "https://careers.airbnb.com/positions/7525479?gh_jid=7525479",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:01:52.911Z",
-   "last_checked_at": "2026-10-07T21:29:43.040Z"
+   "last_checked_at": "2026-10-08T21:48:44.542Z"
   },
   {
    "id": "e900f8dd-9908-46b3-946a-82ad51867665",
@@ -1967,7 +2033,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/6abd14a6-7a91-4c98-9938-72701818d08e/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "8377f095-433a-418d-805d-0788e3016976",
@@ -1982,25 +2048,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4ec92bca-2593-4081-85fb-c8288147939d/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T21:21:08.957Z"
-  },
-  {
-   "id": "b2a75af4-f2b2-4aa3-af8a-cbca7965e775",
-   "title": "Lead Engineer - Funnels (Full-stack)",
-   "company": "HighLevel",
-   "location": "India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": {
-    "slug": "software-engineer",
-    "label": "Software engineer"
-   },
-   "posted_date": "2025-12-05",
-   "roliva_url": "https://rolivajobs.com/jobs/lead-engineer-funnels-full-stack-highlevel-b2a75af4-f2b2-4aa3-af8a-cbca7965e775",
-   "apply_url": "https://jobs.lever.co/gohighlevel/4a731f0c-fab0-4574-8834-0b4c8ec0ca6c/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-07T03:08:51.401Z"
+   "last_checked_at": "2026-10-08T21:32:13.018Z"
   },
   {
    "id": "a947e35b-e9ab-48a9-aa3f-dfc923570291",
@@ -2015,7 +2063,7 @@
    "apply_url": "https://jobs.lever.co/yuno/7f25515f-dad5-4918-909b-cbd5349f2090/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-02T11:46:27.317Z",
-   "last_checked_at": "2026-10-08T01:27:37.374Z"
+   "last_checked_at": "2026-10-09T00:53:37.475Z"
   }
  ]
 }
