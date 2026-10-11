@@ -1,15 +1,66 @@
 {
  "list": "remote-india",
  "title": "Remote jobs open to applicants in India",
- "generated_at": "2026-10-10T00:55:09.565Z",
+ "generated_at": "2026-10-11T02:23:38.695Z",
  "source": "https://rolivajobs.com",
  "licence": {
   "selection_and_arrangement": "CC-BY-4.0",
   "job_facts": "Belong to their publishers; each row links to the original posting."
  },
  "paused": false,
- "count": 127,
+ "count": 300,
  "jobs": [
+  {
+   "id": "91f1cab8-5b47-4e82-801b-28e7c2b9a302",
+   "title": "Head of Finance",
+   "company": "Kantiv",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-10",
+   "roliva_url": "https://rolivajobs.com/jobs/head-of-finance-kantiv-91f1cab8-5b47-4e82-801b-28e7c2b9a302",
+   "apply_url": "https://jobs.ashbyhq.com/kantiv/0ffc1a6a-253b-4c57-b20d-62cd671baeed/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:04:15.846Z",
+   "last_checked_at": "2026-10-11T00:19:44.305Z"
+  },
+  {
+   "id": "3322ab6e-f5c9-4a42-a545-754ce86c9ce2",
+   "title": "Senior Engineer, Software",
+   "company": "AlphaSense",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-10-09",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-engineer-software-alphasense-3322ab6e-f5c9-4a42-a545-754ce86c9ce2",
+   "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8881638002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:47:54.597Z",
+   "last_checked_at": "2026-10-11T00:06:33.979Z"
+  },
+  {
+   "id": "b23193d9-79af-49c1-8c77-7c460ce5da8f",
+   "title": "Senior Engineer, Software",
+   "company": "AlphaSense India",
+   "location": "Remote - Europe; Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-10-09",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-engineer-software-alphasense-india-b23193d9-79af-49c1-8c77-7c460ce5da8f",
+   "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8821396002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:31.383Z",
+   "last_checked_at": "2026-10-11T00:08:42.303Z"
+  },
   {
    "id": "3c7eb1cc-ed9f-4ac3-a682-302d7f3a0c85",
    "title": "Forward Deployed Engineer",
@@ -23,7 +74,7 @@
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771566002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-09T11:15:16.838Z",
-   "last_checked_at": "2026-10-09T23:26:38.351Z"
+   "last_checked_at": "2026-10-10T23:36:46.576Z"
   },
   {
    "id": "3e0326cd-b070-45cd-88e9-372caea15caf",
@@ -38,7 +89,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/f5db8c96-78e9-43c2-9930-50dc1fdfc381/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-09T09:37:17.633Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "ec238b45-94aa-413c-93d8-3fef20d374e7",
@@ -53,7 +104,52 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/41ccaff8-e8d4-425f-a347-9dd6468e8396/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-09T15:39:48.317Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "c911494a-7303-492c-aa85-f76dc022b318",
+   "title": "Senior Integration Engineer",
+   "company": "Legion",
+   "location": "Remote, Bangalore, India",
+   "eligibility": "india-region",
+   "eligibility_text": "A region in India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-09",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-integration-engineer-legion-c911494a-7303-492c-aa85-f76dc022b318",
+   "apply_url": "https://job-boards.greenhouse.io/legion/jobs/8009922003",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:04:59.462Z",
+   "last_checked_at": "2026-10-11T00:14:56.453Z"
+  },
+  {
+   "id": "d5bab68f-2917-4085-8540-11e38160a477",
+   "title": "Voice Talent Required - Hindi (female) - Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-09",
+   "roliva_url": "https://rolivajobs.com/jobs/voice-talent-required-hindi-female-remote-lilt-production-d5bab68f-2917-4085-8540-11e38160a477",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/595406e4-7f1a-43ee-9aef-edc769483408/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "c2f8ad03-6ccb-44e8-a740-0d59441a2997",
+   "title": "General (Non Tech) Job Template",
+   "company": "Socure",
+   "location": "Hub - Bangalore",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-09",
+   "roliva_url": "https://rolivajobs.com/jobs/general-non-tech-job-template-socure-c2f8ad03-6ccb-44e8-a740-0d59441a2997",
+   "apply_url": "https://jobs.ashbyhq.com/socure/e419e1ac-c457-431a-bd5e-f656beecefc9/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:04:16.517Z",
+   "last_checked_at": "2026-10-11T00:18:16.100Z"
   },
   {
    "id": "80776dff-9f34-4db4-9962-d110169b5d60",
@@ -68,7 +164,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8256431",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-09T22:04:40.613Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
   },
   {
    "id": "b88b8343-702a-4464-9294-0916f5099d06",
@@ -86,7 +182,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8267554",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-09T22:04:40.613Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
   },
   {
    "id": "9f119a68-9eb5-4011-ab5a-9ed9c7f15faa",
@@ -104,7 +200,7 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/20fe5046-b287-40f6-990f-842ad75526e5/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-08T09:19:44.253Z",
-   "last_checked_at": "2026-10-09T21:25:19.171Z"
+   "last_checked_at": "2026-10-10T21:26:52.896Z"
   },
   {
    "id": "9adb27d3-e9a9-4470-bab2-f1c45fa8bea4",
@@ -122,7 +218,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8265918?gh_jid=8265918",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-09T03:56:33.111Z",
-   "last_checked_at": "2026-10-09T22:12:53.086Z"
+   "last_checked_at": "2026-10-10T22:17:31.192Z"
   },
   {
    "id": "044c5122-2851-4fe9-919d-5447b2964ae5",
@@ -140,7 +236,7 @@
    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869149002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-08T15:39:10.816Z",
-   "last_checked_at": "2026-10-09T22:09:35.237Z"
+   "last_checked_at": "2026-10-10T22:14:24.997Z"
   },
   {
    "id": "a95e4c4f-92d3-4d4b-921c-1bcbf3476d6e",
@@ -158,7 +254,25 @@
    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-08T15:39:10.816Z",
-   "last_checked_at": "2026-10-09T22:09:35.237Z"
+   "last_checked_at": "2026-10-10T22:14:24.997Z"
+  },
+  {
+   "id": "43a8e180-ef3e-4da7-a777-350b9f0973b6",
+   "title": "ServiceNow Senior Software Engineer- SecOps",
+   "company": "NewRocket",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-10-08",
+   "roliva_url": "https://rolivajobs.com/jobs/servicenow-senior-software-engineer-secops-newrocket-43a8e180-ef3e-4da7-a777-350b9f0973b6",
+   "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6220124004&gh_jid=6220124004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:12:55.376Z",
+   "last_checked_at": "2026-10-11T00:24:11.802Z"
   },
   {
    "id": "8bb78352-feb3-4102-be04-04b32a35fb83",
@@ -176,7 +290,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-08T15:34:37.766Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
   },
   {
    "id": "571df991-91f7-4280-a46f-1269e211b77a",
@@ -191,7 +305,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261279",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-08T15:34:37.766Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
   },
   {
    "id": "cf8cf6d8-7b7c-48f5-b4eb-8ea7ae3eb9cb",
@@ -209,7 +323,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258597",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-08T15:34:37.766Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
   },
   {
    "id": "9c9dea65-087e-4679-aa0e-2336490fb8d4",
@@ -227,7 +341,25 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-08T15:34:37.766Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
+  },
+  {
+   "id": "3e656bc9-8320-4bec-8121-86be8a864a8c",
+   "title": "Account Executive - Commercial",
+   "company": "Zscaler",
+   "location": "Remote - Tamil Nadu, India",
+   "eligibility": "india-region",
+   "eligibility_text": "A region in India named by the employer",
+   "role": {
+    "slug": "account-executive",
+    "label": "Account executive"
+   },
+   "posted_date": "2026-10-08",
+   "roliva_url": "https://rolivajobs.com/jobs/account-executive-commercial-zscaler-3e656bc9-8320-4bec-8121-86be8a864a8c",
+   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5258577007",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T11:46:33.932Z",
+   "last_checked_at": "2026-10-10T23:50:22.759Z"
   },
   {
    "id": "b5069de5-b2df-4e77-bb36-4d469933d7e9",
@@ -245,7 +377,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/0ef426a8-6be5-4eb2-b28c-27cc96a18bd2/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-07T09:14:06.531Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "fe6d902b-3822-4400-88f8-20d9f4963340",
@@ -263,7 +395,22 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/49e6048a-578a-4af3-a769-e40c0f3ebccd/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-07T09:14:06.531Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "9d9867a7-69bc-4f07-abef-3b5612a13dde",
+   "title": "Al Lead Developer",
+   "company": "Valtech",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-07",
+   "roliva_url": "https://rolivajobs.com/jobs/al-lead-developer-valtech-9d9867a7-69bc-4f07-abef-3b5612a13dde",
+   "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4982463101",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T17:59:12.861Z",
+   "last_checked_at": "2026-10-11T00:01:08.313Z"
   },
   {
    "id": "8c43abe5-66d3-436d-993e-7457cbb27df0",
@@ -278,7 +425,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/356d08ba-6119-4c76-93ad-362ca7283569/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-09T21:53:40.389Z"
+   "last_checked_at": "2026-10-10T21:57:27.822Z"
   },
   {
    "id": "1700cc52-8aa0-48e2-ba2c-c7a902ce7ac8",
@@ -293,7 +440,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/1713bfd7-a63b-4dd4-b6e7-b0b8b8560a4a/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-09T21:53:40.389Z"
+   "last_checked_at": "2026-10-10T21:57:27.822Z"
   },
   {
    "id": "057fc3e0-6d85-422c-b242-55f9de51efa8",
@@ -308,7 +455,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/ef0a1e14-40ee-43d2-aab9-59fc9f6a4b8c/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-09T21:53:40.389Z"
+   "last_checked_at": "2026-10-10T21:57:27.822Z"
   },
   {
    "id": "5e799e5b-ac64-434e-84c0-f3f5ce40c3cb",
@@ -323,7 +470,7 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/bd230a18-2ff4-493c-8555-8476bf7de0e4/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-09T21:53:40.389Z"
+   "last_checked_at": "2026-10-10T21:57:27.822Z"
   },
   {
    "id": "93024226-7eca-408f-b052-fbc37e09630c",
@@ -341,7 +488,37 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/12b62688-b19b-42a9-b35d-bb53d63326e6/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-06T09:01:15.997Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "81924175-4e58-4121-9a20-b4687ada3589",
+   "title": "Technical Account Manager(India, Remote)",
+   "company": "Level Ai",
+   "location": "India, Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-06",
+   "roliva_url": "https://rolivajobs.com/jobs/technical-account-manager-india-remote-level-ai-81924175-4e58-4121-9a20-b4687ada3589",
+   "apply_url": "https://jobs.ashbyhq.com/level-ai/f400fe39-1df1-444a-9486-33cca6a6d811/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:56:08.133Z",
+   "last_checked_at": "2026-10-11T00:56:08.133Z"
+  },
+  {
+   "id": "2480ce7d-ef32-4461-8cbb-0aa2c9016d16",
+   "title": "Voyage Analyst",
+   "company": "Sofarocean",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-06",
+   "roliva_url": "https://rolivajobs.com/jobs/voyage-analyst-sofarocean-2480ce7d-ef32-4461-8cbb-0aa2c9016d16",
+   "apply_url": "https://jobs.ashbyhq.com/sofarocean/222b9352-a88b-4863-b420-b93d778b6784/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:08:28.019Z",
+   "last_checked_at": "2026-10-11T00:24:12.853Z"
   },
   {
    "id": "41a9eaf5-fd60-408a-bb5b-4312a71acf74",
@@ -359,7 +536,55 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8236865",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-06T09:04:15.962Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
+  },
+  {
+   "id": "bfea8180-cf36-463a-92cb-537731c548cd",
+   "title": "Email Marketing Manager",
+   "company": "Valerie Group",
+   "location": "India(Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "marketing-manager",
+    "label": "Marketing manager"
+   },
+   "posted_date": "2026-10-06",
+   "roliva_url": "https://rolivajobs.com/jobs/email-marketing-manager-valerie-group-bfea8180-cf36-463a-92cb-537731c548cd",
+   "apply_url": "https://jobs.ashbyhq.com/valerie-group/0874b9b1-38c0-435e-9f50-40d2f48dd665/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:14:56.472Z",
+   "last_checked_at": "2026-10-11T00:14:56.472Z"
+  },
+  {
+   "id": "d1377ea9-aa67-43aa-b8af-bb207a3fc245",
+   "title": "HR Business Partner",
+   "company": "Weave",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-06",
+   "roliva_url": "https://rolivajobs.com/jobs/hr-business-partner-weave-d1377ea9-aa67-43aa-b8af-bb207a3fc245",
+   "apply_url": "https://jobs.ashbyhq.com/weave/bd8a016a-1ed3-4a5f-b4aa-f2fcba0f01dd/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:02:57.625Z",
+   "last_checked_at": "2026-10-11T00:17:06.852Z"
+  },
+  {
+   "id": "b9579f6d-b6d7-4ffa-af93-899ecd04599f",
+   "title": "ML - GenAI Engineer, Voice & Speech",
+   "company": "Weave",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-06",
+   "roliva_url": "https://rolivajobs.com/jobs/ml-genai-engineer-voice-speech-weave-b9579f6d-b6d7-4ffa-af93-899ecd04599f",
+   "apply_url": "https://jobs.ashbyhq.com/weave/2518c1b8-3ffc-40e5-a968-c013e760c3f5/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:02:57.625Z",
+   "last_checked_at": "2026-10-11T00:17:06.852Z"
   },
   {
    "id": "4c2e9d93-385d-4a03-90f6-41f2902a1fd0",
@@ -374,7 +599,25 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-05T15:04:32.191Z",
-   "last_checked_at": "2026-10-09T21:53:40.389Z"
+   "last_checked_at": "2026-10-10T21:57:27.822Z"
+  },
+  {
+   "id": "db913391-d727-4297-a5c7-1172f3e19326",
+   "title": "Senior iOS Engineer",
+   "company": "Epic Kids Inc.",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-10-05",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-ios-engineer-epic-kids-inc-db913391-d727-4297-a5c7-1172f3e19326",
+   "apply_url": "https://job-boards.greenhouse.io/epickids/jobs/8013195003",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:11:48.928Z",
+   "last_checked_at": "2026-10-11T00:23:09.288Z"
   },
   {
    "id": "44abca69-74d6-4983-918f-ef2d27b06fc3",
@@ -392,7 +635,37 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/7dd65f11-f2f6-43fd-bff4-da44f959a47c/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-05T08:56:22.089Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "913ec38f-bd5a-4e59-9c45-3c2b08e6a365",
+   "title": "Forward Deployed Engineer - Agents(Remote)",
+   "company": "Level Ai",
+   "location": "India, Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-05",
+   "roliva_url": "https://rolivajobs.com/jobs/forward-deployed-engineer-agents-remote-level-ai-913ec38f-bd5a-4e59-9c45-3c2b08e6a365",
+   "apply_url": "https://jobs.ashbyhq.com/level-ai/a71f73a6-5964-4420-a789-107dd6b3d66a/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:56:08.133Z",
+   "last_checked_at": "2026-10-11T00:56:08.133Z"
+  },
+  {
+   "id": "1c729843-a565-48af-9439-3e43bcaa9387",
+   "title": "Finance Operations - Associate",
+   "company": "Riveron",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-05",
+   "roliva_url": "https://rolivajobs.com/jobs/finance-operations-associate-riveron-1c729843-a565-48af-9439-3e43bcaa9387",
+   "apply_url": "https://jobs.ashbyhq.com/riveron/fe9024d0-6a24-418d-a9bc-80615cd0a1e0/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:57:04.957Z",
+   "last_checked_at": "2026-10-11T00:12:12.976Z"
   },
   {
    "id": "6206ed76-cbb7-419a-820b-1bf83c8f6b8e",
@@ -410,7 +683,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8239751",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-05T08:59:34.110Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
   },
   {
    "id": "62b0a073-74bd-40c8-b944-b35a3a82a04c",
@@ -425,7 +698,7 @@
    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8859694002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:04:14.146Z",
-   "last_checked_at": "2026-10-09T22:09:35.237Z"
+   "last_checked_at": "2026-10-10T22:14:24.997Z"
   },
   {
    "id": "5798c3d6-e898-4699-988e-5b6c01e2f0dc",
@@ -443,7 +716,25 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/9ba81415-2033-4b72-af4a-d9d2f288abaa/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:48:13.562Z",
-   "last_checked_at": "2026-10-09T21:25:19.171Z"
+   "last_checked_at": "2026-10-10T21:26:52.896Z"
+  },
+  {
+   "id": "04ab1a6e-a014-41f8-bd35-15750ab927aa",
+   "title": "Data & Analytics Engineer",
+   "company": "Curvionblue",
+   "location": "Philippines",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "data-engineer",
+    "label": "Data engineer"
+   },
+   "posted_date": "2026-10-01",
+   "roliva_url": "https://rolivajobs.com/jobs/data-analytics-engineer-curvionblue-04ab1a6e-a014-41f8-bd35-15750ab927aa",
+   "apply_url": "https://jobs.ashbyhq.com/curvionblue/51a47ca3-ec66-4597-8e4a-31365efd80c5/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:11:54.345Z",
+   "last_checked_at": "2026-10-11T00:27:24.866Z"
   },
   {
    "id": "4b92e9b9-97e9-48c4-b9b0-cad4d8f32650",
@@ -461,7 +752,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/f7a500e3-5307-4162-ad84-a495e71a3383/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "38b06c7a-8bd4-4e88-9588-5d99f9f4c733",
@@ -479,7 +770,133 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/7d30dacd-ee0e-4a40-a7ab-d13c737566ee/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "1bfbe358-d538-4932-92a3-99a42b3ac617",
+   "title": "South Asian Software Engineers: Coding Tasks for AI Evaluation",
+   "company": "Terac",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-10-01",
+   "roliva_url": "https://rolivajobs.com/jobs/south-asian-software-engineers-coding-tasks-for-ai-evaluation-terac-1bfbe358-d538-4932-92a3-99a42b3ac617",
+   "apply_url": "https://jobs.ashbyhq.com/terac/838fdc44-67e3-402b-a425-841ecf383a7c/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:09:31.804Z",
+   "last_checked_at": "2026-10-11T00:25:16.317Z"
+  },
+  {
+   "id": "0fa75b49-7ba7-4d54-a8ad-b55d23db7790",
+   "title": "Sales Recruiting Sourcer (Contract), APAC",
+   "company": "Trm Labs",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "recruiter",
+    "label": "Recruiter"
+   },
+   "posted_date": "2026-10-01",
+   "roliva_url": "https://rolivajobs.com/jobs/sales-recruiting-sourcer-contract-apac-trm-labs-0fa75b49-7ba7-4d54-a8ad-b55d23db7790",
+   "apply_url": "https://jobs.ashbyhq.com/trm-labs/b4b4a875-a2b9-436e-9505-32c481b9dd2a/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:06:12.995Z",
+   "last_checked_at": "2026-10-11T00:21:03.694Z"
+  },
+  {
+   "id": "055861c0-7995-4372-ab0b-b25701ab8087",
+   "title": "Senior Sales Recruiter (Contract), APAC",
+   "company": "Trm Labs",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "recruiter",
+    "label": "Recruiter"
+   },
+   "posted_date": "2026-10-01",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-sales-recruiter-contract-apac-trm-labs-055861c0-7995-4372-ab0b-b25701ab8087",
+   "apply_url": "https://jobs.ashbyhq.com/trm-labs/4609e7c5-b5c1-421e-87c3-cc256193b6ba/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:06:12.995Z",
+   "last_checked_at": "2026-10-11T00:21:03.694Z"
+  },
+  {
+   "id": "f117a3d1-f870-428f-b449-3f4595501f48",
+   "title": "Investment Banking AI Research Contributor",
+   "company": "Aptura",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-30",
+   "roliva_url": "https://rolivajobs.com/jobs/investment-banking-ai-research-contributor-aptura-f117a3d1-f870-428f-b449-3f4595501f48",
+   "apply_url": "https://jobs.ashbyhq.com/aptura/b75a9a20-1678-4915-aedc-16c9120039b1/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T02:19:48.250Z",
+   "last_checked_at": "2026-10-11T02:19:48.250Z"
+  },
+  {
+   "id": "a9c7df42-769e-4904-95d8-a1daa88cdd39",
+   "title": "Investor Relations AI Research Contributor",
+   "company": "Aptura",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-30",
+   "roliva_url": "https://rolivajobs.com/jobs/investor-relations-ai-research-contributor-aptura-a9c7df42-769e-4904-95d8-a1daa88cdd39",
+   "apply_url": "https://jobs.ashbyhq.com/aptura/39d684ad-5d1a-4cd2-b3ce-bb85c7bdc5e5/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T02:19:48.250Z",
+   "last_checked_at": "2026-10-11T02:19:48.250Z"
+  },
+  {
+   "id": "2467ec7a-af75-4705-9c2a-a214889d4abf",
+   "title": "Presentation Specialist AI Researcher",
+   "company": "Aptura",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-30",
+   "roliva_url": "https://rolivajobs.com/jobs/presentation-specialist-ai-researcher-aptura-2467ec7a-af75-4705-9c2a-a214889d4abf",
+   "apply_url": "https://jobs.ashbyhq.com/aptura/af7f5279-f454-42b8-ac54-69d273a08d2b/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T02:19:48.250Z",
+   "last_checked_at": "2026-10-11T02:19:48.250Z"
+  },
+  {
+   "id": "c13b412a-6fc3-44a3-97ac-806cd8596713",
+   "title": "Private Equity AI Research Contributor",
+   "company": "Aptura",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-30",
+   "roliva_url": "https://rolivajobs.com/jobs/private-equity-ai-research-contributor-aptura-c13b412a-6fc3-44a3-97ac-806cd8596713",
+   "apply_url": "https://jobs.ashbyhq.com/aptura/a6a22d35-afde-49fa-bb60-d80c96488440/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T02:19:48.250Z",
+   "last_checked_at": "2026-10-11T02:19:48.250Z"
+  },
+  {
+   "id": "1c265b81-bbfc-4330-aa7b-b3d7551a60b4",
+   "title": "Transaction Advisory AI Research Contributor",
+   "company": "Aptura",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-30",
+   "roliva_url": "https://rolivajobs.com/jobs/transaction-advisory-ai-research-contributor-aptura-1c265b81-bbfc-4330-aa7b-b3d7551a60b4",
+   "apply_url": "https://jobs.ashbyhq.com/aptura/01935c27-3bd4-48f1-9479-74625ac74f0c/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T02:19:48.250Z",
+   "last_checked_at": "2026-10-11T02:19:48.250Z"
   },
   {
    "id": "0191859e-dfff-43b0-80ce-468146e03951",
@@ -494,7 +911,7 @@
    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8857611002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:04:14.146Z",
-   "last_checked_at": "2026-10-09T22:09:35.237Z"
+   "last_checked_at": "2026-10-10T22:14:24.997Z"
   },
   {
    "id": "217ea16c-72c2-4e2e-ba3c-533c9b1bf27a",
@@ -509,7 +926,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/a8a41c4e-8b6c-4db7-affc-5cc5cafcbef4/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "eb9d80e8-7a88-40e1-a30a-d849af28c348",
@@ -524,7 +941,187 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/6385dde4-4655-4d9c-91d0-03f89228047e/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "e8761c68-7ced-4c46-b09a-94bcb3523222",
+   "title": "ServiceNow Operations Lead - TSM/OMT",
+   "company": "NewRocket",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-30",
+   "roliva_url": "https://rolivajobs.com/jobs/servicenow-operations-lead-tsm-omt-newrocket-e8761c68-7ced-4c46-b09a-94bcb3523222",
+   "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6211750004&gh_jid=6211750004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:12:55.376Z",
+   "last_checked_at": "2026-10-11T00:24:11.802Z"
+  },
+  {
+   "id": "b25d2bdd-83e3-4a62-b764-f24f02b90327",
+   "title": "ServiceNow Senior Software Engineer - TSM/OMT",
+   "company": "NewRocket",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-30",
+   "roliva_url": "https://rolivajobs.com/jobs/servicenow-senior-software-engineer-tsm-omt-newrocket-b25d2bdd-83e3-4a62-b764-f24f02b90327",
+   "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6211748004&gh_jid=6211748004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:12:55.376Z",
+   "last_checked_at": "2026-10-11T00:24:11.802Z"
+  },
+  {
+   "id": "1393b546-78d8-479a-a5b6-022c87ebcb4e",
+   "title": "Staff Engineer, Software",
+   "company": "AlphaSense",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-29",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-engineer-software-alphasense-1393b546-78d8-479a-a5b6-022c87ebcb4e",
+   "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8790001002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:47:54.597Z",
+   "last_checked_at": "2026-10-11T00:06:33.979Z"
+  },
+  {
+   "id": "034f36a5-5351-4f35-91d1-d68ba620dcf5",
+   "title": "Staff Engineer, Software",
+   "company": "AlphaSense India",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-29",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-engineer-software-alphasense-india-034f36a5-5351-4f35-91d1-d68ba620dcf5",
+   "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8855146002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:31.383Z",
+   "last_checked_at": "2026-10-11T00:08:42.303Z"
+  },
+  {
+   "id": "7e3fc285-969e-4390-bd45-055bb2423ec1",
+   "title": "ServiceNow Senior Software Engineer- ITSM/Service Catalog/Integration",
+   "company": "NewRocket",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-29",
+   "roliva_url": "https://rolivajobs.com/jobs/servicenow-senior-software-engineer-itsm-service-catalog-integration-n-7e3fc285-969e-4390-bd45-055bb2423ec1",
+   "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6210380004&gh_jid=6210380004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:12:55.376Z",
+   "last_checked_at": "2026-10-11T00:24:11.802Z"
+  },
+  {
+   "id": "0e9eac08-e7e7-46fc-a396-526504c007e7",
+   "title": "Medical Biller, Specialty DME",
+   "company": "Versemedical",
+   "location": "Manila",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-29",
+   "roliva_url": "https://rolivajobs.com/jobs/medical-biller-specialty-dme-versemedical-0e9eac08-e7e7-46fc-a396-526504c007e7",
+   "apply_url": "https://jobs.ashbyhq.com/versemedical/c303b88a-c68e-4c05-8ef3-3a639c36b40b/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:10:58.189Z",
+   "last_checked_at": "2026-10-11T00:25:16.308Z"
+  },
+  {
+   "id": "f236aeda-c439-45a2-82b1-1e418395c4c7",
+   "title": "PowerPoint Contributor - Finance",
+   "company": "Aptura",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-28",
+   "roliva_url": "https://rolivajobs.com/jobs/powerpoint-contributor-finance-aptura-f236aeda-c439-45a2-82b1-1e418395c4c7",
+   "apply_url": "https://jobs.ashbyhq.com/aptura/60456619-c98c-4188-a858-91f4aa725644/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T02:19:48.250Z",
+   "last_checked_at": "2026-10-11T02:19:48.250Z"
+  },
+  {
+   "id": "9f6fea57-6157-4ffb-a8ef-d66c4d3d6bfb",
+   "title": "Supervisor, Business and Competitive Intelligence",
+   "company": "Precision for Medicine",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-28",
+   "roliva_url": "https://rolivajobs.com/jobs/supervisor-business-and-competitive-intelligence-precision-for-medicin-9f6fea57-6157-4ffb-a8ef-d66c4d3d6bfb",
+   "apply_url": "https://job-boards.greenhouse.io/pfm/jobs/6209155004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-11T01:14:10.418Z",
+   "last_checked_at": "2026-10-11T01:14:10.418Z"
+  },
+  {
+   "id": "d139a268-ab40-4a49-af9b-acc9a4168a17",
+   "title": "Product Analyst",
+   "company": "Precision Medicine Group",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "data-analyst",
+    "label": "Data analyst"
+   },
+   "posted_date": "2026-09-28",
+   "roliva_url": "https://rolivajobs.com/jobs/product-analyst-precision-medicine-group-d139a268-ab40-4a49-af9b-acc9a4168a17",
+   "apply_url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6208351004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T18:06:20.410Z",
+   "last_checked_at": "2026-10-11T00:07:37.078Z"
+  },
+  {
+   "id": "f88b01d5-e1b4-4129-8d06-28115cd76d99",
+   "title": "Senior Content Analyst",
+   "company": "Precision Medicine Group",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-28",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-content-analyst-precision-medicine-group-f88b01d5-e1b4-4129-8d06-28115cd76d99",
+   "apply_url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6208343004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T18:06:20.410Z",
+   "last_checked_at": "2026-10-11T00:07:37.078Z"
+  },
+  {
+   "id": "d522b572-de83-488c-9eeb-9aaa015313e0",
+   "title": "Supervisor, Business and Competitive Intelligence",
+   "company": "Precision Medicine Group",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-28",
+   "roliva_url": "https://rolivajobs.com/jobs/supervisor-business-and-competitive-intelligence-precision-medicine-gr-d522b572-de83-488c-9eeb-9aaa015313e0",
+   "apply_url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6209157004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T18:06:20.410Z",
+   "last_checked_at": "2026-10-11T00:07:37.078Z"
   },
   {
    "id": "4b3807ed-8047-47b9-bcc6-dee5a251a0b7",
@@ -542,7 +1139,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/2ed5358c-1960-4063-a0ea-f5ae4207c426/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "f83347d0-6ed8-42d7-9207-6d1aac600d76",
@@ -560,7 +1157,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/67bfdfa4-ba58-4419-b8c1-be26705bfb97/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "f4fb0f14-b9e6-432c-930b-588a5c3869bb",
@@ -578,7 +1175,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/69f404bd-1e27-4cbe-95ea-8850d81b0736/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "d7a55f03-66dc-4244-9a6c-3bf22bc986a9",
@@ -596,7 +1193,7 @@
    "apply_url": "https://www.harness.io/company/jobs/apply?gh_jid=5239607007&gh_jid=5239607007",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:54:36.949Z",
-   "last_checked_at": "2026-10-09T22:01:37.902Z"
+   "last_checked_at": "2026-10-10T22:05:01.178Z"
   },
   {
    "id": "ca37f791-3273-4d79-a756-f9a31690681f",
@@ -611,7 +1208,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/39718784-e43b-43b6-9fee-5a33975e7640/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "a6b6960d-4d47-4806-a17b-de6907b350ad",
@@ -626,7 +1223,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/830505ba-65b7-4e0b-8681-f84eaef2a337/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "9098c522-e680-4263-b1f1-670937ba2612",
@@ -644,7 +1241,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4eb09872-4256-45b7-b754-634ba1a2f0c7/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "936257da-b78c-43e8-8f0a-bb1263434087",
@@ -659,7 +1256,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/a63519fb-48a6-4d4f-8d44-d08fbec8c85d/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "67003c0b-ff7d-4a74-ab3d-aee1bb7c7f1b",
@@ -677,7 +1274,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/e4867c68-18b1-41f7-9c49-538f69082203/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "bea34888-b4e2-4dd7-ba2a-ca4291e6c268",
@@ -695,7 +1292,160 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/5b51c71b-a61e-41e4-82e3-7fa4deb2678a/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-06T15:02:49.772Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "8e67c1e9-611f-4d75-8626-f78d76c47f70",
+   "title": "Senior Account Executive, Enterprise – India (Mumbai)",
+   "company": "Neo4j",
+   "location": "Remote: India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "account-executive",
+    "label": "Account executive"
+   },
+   "posted_date": "2026-09-24",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-account-executive-enterprise-india-mumbai-neo4j-8e67c1e9-611f-4d75-8626-f78d76c47f70",
+   "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4716229006?gh_jid=4716229006",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:10:43.316Z",
+   "last_checked_at": "2026-10-11T00:22:07.431Z"
+  },
+  {
+   "id": "0e138c76-b532-45a2-afe0-f0d8501977aa",
+   "title": "Senior Backend Engineer, NIRA",
+   "company": "Tilthq",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-24",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-backend-engineer-nira-tilthq-0e138c76-b532-45a2-afe0-f0d8501977aa",
+   "apply_url": "https://jobs.ashbyhq.com/tilthq/417091ec-ec3d-48e5-887a-ecd531a92641/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:05:07.346Z",
+   "last_checked_at": "2026-10-11T00:19:48.330Z"
+  },
+  {
+   "id": "f3240cef-97f7-46f9-9a7e-df3a879b5443",
+   "title": "Staff Backend Engineer - NIRA",
+   "company": "Tilthq",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-24",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-backend-engineer-nira-tilthq-f3240cef-97f7-46f9-9a7e-df3a879b5443",
+   "apply_url": "https://jobs.ashbyhq.com/tilthq/b45f4a2d-78eb-482a-bd5b-119c80599350/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:05:07.346Z",
+   "last_checked_at": "2026-10-11T00:19:48.330Z"
+  },
+  {
+   "id": "a49cc1bd-0595-45b2-8dbc-c64f0350d110",
+   "title": "QA Lead Engineer",
+   "company": "Valtech",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "qa-engineer",
+    "label": "QA and test engineer"
+   },
+   "posted_date": "2026-09-24",
+   "roliva_url": "https://rolivajobs.com/jobs/qa-lead-engineer-valtech-a49cc1bd-0595-45b2-8dbc-c64f0350d110",
+   "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4982533101",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T17:59:12.861Z",
+   "last_checked_at": "2026-10-11T00:01:08.313Z"
+  },
+  {
+   "id": "8e0db8c9-862e-485b-9b8f-422aec528835",
+   "title": "Senior Automation Testing",
+   "company": "Valtech",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-24",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-automation-testing-valtech-8e0db8c9-862e-485b-9b8f-422aec528835",
+   "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4983354101",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T17:59:12.861Z",
+   "last_checked_at": "2026-10-11T00:01:08.313Z"
+  },
+  {
+   "id": "67cea10a-a545-4a48-ba2a-8b98936252da",
+   "title": "Testing Project Manager",
+   "company": "Valtech",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "project-manager",
+    "label": "Project manager"
+   },
+   "posted_date": "2026-09-24",
+   "roliva_url": "https://rolivajobs.com/jobs/testing-project-manager-valtech-67cea10a-a545-4a48-ba2a-8b98936252da",
+   "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4983363101",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T17:59:12.861Z",
+   "last_checked_at": "2026-10-11T00:01:08.313Z"
+  },
+  {
+   "id": "e02f2441-e730-4e7b-80de-90341bfdbaa8",
+   "title": "Staff Software Engineer, Frontend",
+   "company": "Furtherai",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-23",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-software-engineer-frontend-furtherai-e02f2441-e730-4e7b-80de-90341bfdbaa8",
+   "apply_url": "https://jobs.ashbyhq.com/furtherai/ca17de3e-f9a6-46a4-9b2b-c39c69de4ce8/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:11:55.543Z",
+   "last_checked_at": "2026-10-11T00:26:23.743Z"
+  },
+  {
+   "id": "3da26069-6d58-45cc-8db5-1b3b4f333bf4",
+   "title": "Analyst, Business & Competitive Intelligence",
+   "company": "Precision for Medicine",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-23",
+   "roliva_url": "https://rolivajobs.com/jobs/analyst-business-competitive-intelligence-precision-for-medicine-3da26069-6d58-45cc-8db5-1b3b4f333bf4",
+   "apply_url": "https://job-boards.greenhouse.io/pfm/jobs/6206233004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-11T01:14:10.418Z",
+   "last_checked_at": "2026-10-11T01:14:10.418Z"
+  },
+  {
+   "id": "8c4143b9-173c-4287-90bc-5594dc0af834",
+   "title": "Analyst, Business & Competitive Intelligence",
+   "company": "Precision Medicine Group",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-23",
+   "roliva_url": "https://rolivajobs.com/jobs/analyst-business-competitive-intelligence-precision-medicine-group-8c4143b9-173c-4287-90bc-5594dc0af834",
+   "apply_url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6206231004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T18:06:20.410Z",
+   "last_checked_at": "2026-10-11T00:07:37.078Z"
   },
   {
    "id": "83766b9e-dde0-4cff-bd7c-1c9df484c1c2",
@@ -710,7 +1460,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8213730",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-07T15:24:55.000Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
   },
   {
    "id": "f84bdcbf-8a26-4780-951d-651a2f6e0680",
@@ -728,7 +1478,55 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/8a1ba5ad-c2a8-428d-9244-4d39ecc6849b/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "010cab44-7e12-468c-8641-8d8701dbe617",
+   "title": "Content Writer - Malayalam - Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-22",
+   "roliva_url": "https://rolivajobs.com/jobs/content-writer-malayalam-remote-lilt-production-010cab44-7e12-468c-8641-8d8701dbe617",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/ebebd864-78a5-4e4c-8c0a-77b9fb6ccf82/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "aaa4641f-abd4-4c1d-83d2-f27d02aa2947",
+   "title": "Product Manager",
+   "company": "Weave",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "product-manager",
+    "label": "Product manager"
+   },
+   "posted_date": "2026-09-22",
+   "roliva_url": "https://rolivajobs.com/jobs/product-manager-weave-aaa4641f-abd4-4c1d-83d2-f27d02aa2947",
+   "apply_url": "https://jobs.ashbyhq.com/weave/5ec9edb5-fb5d-408c-a822-a92139dd61f8/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:02:57.625Z",
+   "last_checked_at": "2026-10-11T00:17:06.852Z"
+  },
+  {
+   "id": "3b090396-1d8c-427e-b0de-c634ed4096a8",
+   "title": "Sr. Staff Integration Engineer (Security Platform and Data Pipelines)",
+   "company": "Zscaler",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-22",
+   "roliva_url": "https://rolivajobs.com/jobs/sr-staff-integration-engineer-security-platform-and-data-pipelines-zsc-3b090396-1d8c-427e-b0de-c634ed4096a8",
+   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5242467007",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T11:46:33.932Z",
+   "last_checked_at": "2026-10-10T23:50:22.759Z"
   },
   {
    "id": "c2261b1c-bf9b-427d-8691-c90a88b9050a",
@@ -743,7 +1541,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/9b47be08-219e-4c47-94cb-8a915cdfcab8/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "c9f01fd2-a456-47ff-89bf-8808e84d0a19",
@@ -758,7 +1556,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/75ce4a5c-f6f9-4f96-b886-e714744bc7ab/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "8fdf82e5-67d2-46e5-bc5c-d18c602b2ebb",
@@ -776,7 +1574,37 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/0dcefcc6-3306-40d5-a8b2-3a227718e51c/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "22c2f95c-00f3-4da9-9084-a87507a34c6c",
+   "title": "Literary Transcreator - Tibetan - Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-21",
+   "roliva_url": "https://rolivajobs.com/jobs/literary-transcreator-tibetan-remote-lilt-production-22c2f95c-00f3-4da9-9084-a87507a34c6c",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/44f000db-e3a9-40be-b0fb-9dd5669b1c46/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "4f70a8fa-77a8-4664-83a4-62ed95f402c6",
+   "title": "AI/ML Architect",
+   "company": "NewRocket",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-21",
+   "roliva_url": "https://rolivajobs.com/jobs/ai-ml-architect-newrocket-4f70a8fa-77a8-4664-83a4-62ed95f402c6",
+   "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6115241004&gh_jid=6115241004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:12:55.376Z",
+   "last_checked_at": "2026-10-11T00:24:11.802Z"
   },
   {
    "id": "d18f5133-8a49-412b-9755-980726507ea0",
@@ -794,7 +1622,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/41b2ff30-1410-41ce-8d22-ea5f57b90081/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "7c5e4080-d5ef-4906-806c-552165b15b6f",
@@ -812,7 +1640,73 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/afea98b1-aede-481c-b27d-2cb88dc325b4/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "bacf5694-3750-4940-a13e-edb050aa51da",
+   "title": "Data Steward - Quality Excellence",
+   "company": "AlphaSense",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-17",
+   "roliva_url": "https://rolivajobs.com/jobs/data-steward-quality-excellence-alphasense-bacf5694-3750-4940-a13e-edb050aa51da",
+   "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8813482002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:47:54.597Z",
+   "last_checked_at": "2026-10-11T00:06:33.979Z"
+  },
+  {
+   "id": "2856193f-c8e9-4f27-990d-da2f07edc70a",
+   "title": "Staff Software Engineer, Full Stack",
+   "company": "AlphaSense",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-17",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-software-engineer-full-stack-alphasense-2856193f-c8e9-4f27-990d-da2f07edc70a",
+   "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8816233002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:47:54.597Z",
+   "last_checked_at": "2026-10-11T00:06:33.979Z"
+  },
+  {
+   "id": "fe7bc4d7-43cf-4326-9cf4-2c2d441245e3",
+   "title": "Data Steward - Quality Excellence",
+   "company": "AlphaSense India",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-17",
+   "roliva_url": "https://rolivajobs.com/jobs/data-steward-quality-excellence-alphasense-india-fe7bc4d7-43cf-4326-9cf4-2c2d441245e3",
+   "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8813112002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:31.383Z",
+   "last_checked_at": "2026-10-11T00:08:42.303Z"
+  },
+  {
+   "id": "83a4cc69-b642-47e2-9dea-72c5fa2a437f",
+   "title": "Staff Software Engineer, Full Stack",
+   "company": "AlphaSense India",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-17",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-software-engineer-full-stack-alphasense-india-83a4cc69-b642-47e2-9dea-72c5fa2a437f",
+   "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8816203002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:31.383Z",
+   "last_checked_at": "2026-10-11T00:08:42.303Z"
   },
   {
    "id": "3e3ee7a0-69f0-4bcd-a1d6-9d34aa077dcd",
@@ -827,7 +1721,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/d0f7208a-f9fb-4d59-a8c4-e1cde9ee0612/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "ac41fa50-08d0-479f-9c53-0301d3ebc835",
@@ -842,7 +1736,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/eaa99351-a05c-4ad8-be4f-ad4ef7e25809/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "30c5b56f-99f3-46ff-9170-835ca2acc940",
@@ -857,7 +1751,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/92002249-671d-4d08-96b0-e87c1d6082cb/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "74d0466d-2d1c-42c8-8a38-2143d1de26da",
@@ -872,7 +1766,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/a718fab2-3fc6-4acd-b364-883f5fc59cac/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "55ed203b-f42a-4881-815e-e5098c368865",
@@ -887,7 +1781,58 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/2d078c69-5573-4ddb-a531-445b462c9160/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "97b16e72-78da-47e7-8c38-d3ef0360ad96",
+   "title": "Senior Site Reliability Engineer (Remote, India) EST",
+   "company": "Level Ai",
+   "location": "India, Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-17",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-site-reliability-engineer-remote-india-est-level-ai-97b16e72-78da-47e7-8c38-d3ef0360ad96",
+   "apply_url": "https://jobs.ashbyhq.com/level-ai/f2a550c7-ace3-4419-b5df-d9fa56e4d039/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:56:08.133Z",
+   "last_checked_at": "2026-10-11T00:56:08.133Z"
+  },
+  {
+   "id": "08ae47f3-e8ff-49c4-b8ed-1e750a31ea1b",
+   "title": "Senior Engineer, QE",
+   "company": "AlphaSense India",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-16",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-engineer-qe-alphasense-india-08ae47f3-e8ff-49c4-b8ed-1e750a31ea1b",
+   "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8806201002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:31.383Z",
+   "last_checked_at": "2026-10-11T00:08:42.303Z"
+  },
+  {
+   "id": "0fd853af-e060-4d5c-9a4f-df5a1ca19709",
+   "title": "Radiologist - Chest CT Annotation - AI Project (India)",
+   "company": "Aptura",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-16",
+   "roliva_url": "https://rolivajobs.com/jobs/radiologist-chest-ct-annotation-ai-project-india-aptura-0fd853af-e060-4d5c-9a4f-df5a1ca19709",
+   "apply_url": "https://jobs.ashbyhq.com/aptura/9ad2b90a-4f0b-4848-8473-e346416693f2/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T02:19:48.250Z",
+   "last_checked_at": "2026-10-11T02:19:48.250Z"
   },
   {
    "id": "28993498-7b68-4488-82ed-aa459f2239fb",
@@ -902,7 +1847,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/ba929ad2-f1b4-4ee7-bdb8-e01b74b3969b/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "cbb8b9db-5c5d-4b77-b583-6b9fac9bdf8b",
@@ -917,7 +1862,55 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/254ef24c-ff4b-42c9-8b43-603e55e650a3/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "a362129c-faaa-40c8-ab43-b224cbd3d976",
+   "title": "ServiceNow Lead Engineer - AI",
+   "company": "NewRocket",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-16",
+   "roliva_url": "https://rolivajobs.com/jobs/servicenow-lead-engineer-ai-newrocket-a362129c-faaa-40c8-ab43-b224cbd3d976",
+   "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6194308004&gh_jid=6194308004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:12:55.376Z",
+   "last_checked_at": "2026-10-11T00:24:11.802Z"
+  },
+  {
+   "id": "604bced3-ca30-4d7c-989f-4cca64602ff9",
+   "title": "Installed Base Specialist",
+   "company": "SonicWall",
+   "location": "India Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-16",
+   "roliva_url": "https://rolivajobs.com/jobs/installed-base-specialist-sonicwall-604bced3-ca30-4d7c-989f-4cca64602ff9",
+   "apply_url": "https://job-boards.greenhouse.io/sonicwall/jobs/8184840",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T18:02:06.742Z",
+   "last_checked_at": "2026-10-11T00:02:21.450Z"
+  },
+  {
+   "id": "4ea85708-0180-489d-9e25-ffebeb27ba8f",
+   "title": "Senior Frontend Engineer",
+   "company": "Weave",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-09-16",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-frontend-engineer-weave-4ea85708-0180-489d-9e25-ffebeb27ba8f",
+   "apply_url": "https://jobs.ashbyhq.com/weave/ff1c1b9d-f49e-4252-b03b-6cfef6ac39a4/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:02:57.625Z",
+   "last_checked_at": "2026-10-11T00:17:06.852Z"
   },
   {
    "id": "a3bcd1ea-e120-4f69-bc58-c0c9f6eee909",
@@ -935,7 +1928,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/d1b43230-872c-4b16-8f3a-863b02a7b6c2/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "be412a94-74fa-4eba-ae90-afb3c5bf8ea3",
@@ -953,7 +1946,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/95e5b2ba-03d6-4ff5-82fb-6a4ae287558e/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "8a305ac4-caaa-4b0f-9f9e-f2f346d4f710",
@@ -971,7 +1964,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/2f4ed5d8-9f38-4afc-ab71-bd0eda7aa892/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-08T09:23:27.556Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "4c706180-bb8c-472f-a33f-705eb722f51b",
@@ -989,7 +1982,205 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/473d2174-f5bb-4721-9ee2-4867cba38174/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "0fc0a13e-9b1e-4610-91f2-7fd538f6a44d",
+   "title": "Content Writer - Kannada - Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-15",
+   "roliva_url": "https://rolivajobs.com/jobs/content-writer-kannada-remote-lilt-production-0fc0a13e-9b1e-4610-91f2-7fd538f6a44d",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/4af5a375-9acf-4644-a69f-eee4f9ad1b88/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "171e90e6-a2de-48b0-977f-8924f3f8077f",
+   "title": "Content Writer - Marathi - Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-15",
+   "roliva_url": "https://rolivajobs.com/jobs/content-writer-marathi-remote-lilt-production-171e90e6-a2de-48b0-977f-8924f3f8077f",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/6f09eccf-3a9e-4123-9170-5cdd21d00abe/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "fdbf7f0b-5dd2-4e26-aa81-79d3b2896dc7",
+   "title": "Senior Payroll Analyst – India Payroll & UKG Experience is a must**",
+   "company": "SonicWall",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-15",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-payroll-analyst-india-payroll-ukg-experience-is-a-must-sonicwal-fdbf7f0b-5dd2-4e26-aa81-79d3b2896dc7",
+   "apply_url": "https://job-boards.greenhouse.io/sonicwall/jobs/8204023",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T18:02:06.742Z",
+   "last_checked_at": "2026-10-11T00:02:21.450Z"
+  },
+  {
+   "id": "8fd10d13-ddb0-4ed4-b8a3-f482a176f900",
+   "title": "Recruiting Coordinator (US Shift)",
+   "company": "Weave",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "recruiter",
+    "label": "Recruiter"
+   },
+   "posted_date": "2026-09-15",
+   "roliva_url": "https://rolivajobs.com/jobs/recruiting-coordinator-us-shift-weave-8fd10d13-ddb0-4ed4-b8a3-f482a176f900",
+   "apply_url": "https://jobs.ashbyhq.com/weave/97b09149-77fe-48dc-b72c-2f92e2aff2f6/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:02:57.625Z",
+   "last_checked_at": "2026-10-11T00:17:06.852Z"
+  },
+  {
+   "id": "ebb445d2-0259-43a1-bba2-8780a7a6a12c",
+   "title": "Senior Engineering Manager - Product Platforms",
+   "company": "AlphaSense",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "engineering-manager",
+    "label": "Engineering manager"
+   },
+   "posted_date": "2026-09-14",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-engineering-manager-product-platforms-alphasense-ebb445d2-0259-43a1-bba2-8780a7a6a12c",
+   "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8805562002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:47:54.597Z",
+   "last_checked_at": "2026-10-11T00:06:33.979Z"
+  },
+  {
+   "id": "3b6a5d11-f628-48cb-8340-77f381dd85ac",
+   "title": "Senior Engineering Manager - Product Platforms",
+   "company": "AlphaSense India",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "engineering-manager",
+    "label": "Engineering manager"
+   },
+   "posted_date": "2026-09-14",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-engineering-manager-product-platforms-alphasense-india-3b6a5d11-f628-48cb-8340-77f381dd85ac",
+   "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8777682002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:31.383Z",
+   "last_checked_at": "2026-10-11T00:08:42.303Z"
+  },
+  {
+   "id": "d7455569-e566-444f-8e5d-bbaae58215d2",
+   "title": "Senior AI Engineer - Chat & Agent Systems",
+   "company": "Kantiv",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "machine-learning-engineer",
+    "label": "Machine learning engineer"
+   },
+   "posted_date": "2026-09-12",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-ai-engineer-chat-agent-systems-kantiv-d7455569-e566-444f-8e5d-bbaae58215d2",
+   "apply_url": "https://jobs.ashbyhq.com/kantiv/7832f37e-a6bb-4da3-9f92-83140ff774e1/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:04:15.846Z",
+   "last_checked_at": "2026-10-11T00:19:44.305Z"
+  },
+  {
+   "id": "0238b2da-5d52-4ea8-a072-aa4090f45a24",
+   "title": "Business Partner Manager [Content: Founder management]",
+   "company": "Valerie Group",
+   "location": "India(Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-12",
+   "roliva_url": "https://rolivajobs.com/jobs/business-partner-manager-content-founder-management-valerie-group-0238b2da-5d52-4ea8-a072-aa4090f45a24",
+   "apply_url": "https://jobs.ashbyhq.com/valerie-group/f3bd6e8f-d4e3-46a7-b6ca-f73b9087fcf9/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:14:56.472Z",
+   "last_checked_at": "2026-10-11T00:14:56.472Z"
+  },
+  {
+   "id": "483a1c57-f706-47de-92c2-def0cbf07521",
+   "title": "Digital Project Manager",
+   "company": "Valerie Group",
+   "location": "India(Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "project-manager",
+    "label": "Project manager"
+   },
+   "posted_date": "2026-09-12",
+   "roliva_url": "https://rolivajobs.com/jobs/digital-project-manager-valerie-group-483a1c57-f706-47de-92c2-def0cbf07521",
+   "apply_url": "https://jobs.ashbyhq.com/valerie-group/2121767a-24a9-4052-9392-bff69573889e/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:14:56.472Z",
+   "last_checked_at": "2026-10-11T00:14:56.472Z"
+  },
+  {
+   "id": "41385890-1966-43bc-a4b4-9e079257413d",
+   "title": "Meta Ads Lead",
+   "company": "Valerie Group",
+   "location": "India (Global)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-12",
+   "roliva_url": "https://rolivajobs.com/jobs/meta-ads-lead-valerie-group-41385890-1966-43bc-a4b4-9e079257413d",
+   "apply_url": "https://jobs.ashbyhq.com/valerie-group/410291d7-0ec5-404a-ab2d-25412ad57799/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:14:56.472Z",
+   "last_checked_at": "2026-10-11T00:14:56.472Z"
+  },
+  {
+   "id": "60644ac0-fdbc-4a03-b42f-ac10c3b5993e",
+   "title": "Partnerships & UGC Specialist",
+   "company": "Valerie Group",
+   "location": "India (Global)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-12",
+   "roliva_url": "https://rolivajobs.com/jobs/partnerships-ugc-specialist-valerie-group-60644ac0-fdbc-4a03-b42f-ac10c3b5993e",
+   "apply_url": "https://jobs.ashbyhq.com/valerie-group/311e3b26-8bd2-4610-b8d1-6de6f5758c70/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:14:56.472Z",
+   "last_checked_at": "2026-10-11T00:14:56.472Z"
+  },
+  {
+   "id": "c73bcdcd-ab66-43b6-b232-1656196a6c9f",
+   "title": "Product Manager I",
+   "company": "AlphaSense India",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "product-manager",
+    "label": "Product manager"
+   },
+   "posted_date": "2026-09-11",
+   "roliva_url": "https://rolivajobs.com/jobs/product-manager-i-alphasense-india-c73bcdcd-ab66-43b6-b232-1656196a6c9f",
+   "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8782988002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:31.383Z",
+   "last_checked_at": "2026-10-11T00:08:42.303Z"
   },
   {
    "id": "2ea73700-8ae8-43e7-8ee2-230b96f6b0ff",
@@ -1004,7 +2195,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/b4f73bb7-d3ec-4886-9509-3feaf28a7d60/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "e90e57cb-c49a-49e5-b521-7f8567531167",
@@ -1019,7 +2210,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/2e98a975-95da-4d26-b3b6-a0708fbcee42/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "65fb7349-05a0-4d35-b20c-9608814f7b79",
@@ -1034,7 +2225,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/ab0b9373-1219-4194-ae9a-6bdf50891749/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "3c6b6082-fcd2-4e90-bff6-a5bd9bef9456",
@@ -1052,7 +2243,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/ffc2572e-12ce-4ad2-a0cd-7e8eca60a185/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "14a25570-9564-4a04-91d9-dd47fbd3bdc2",
@@ -1067,7 +2258,37 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/c15f855e-3993-4b13-8561-4a93273112eb/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "7e3ce2d5-b77d-44e3-803b-572b6705b7d1",
+   "title": "Renewal Coordinator - Remote, India",
+   "company": "Level Ai",
+   "location": "India, Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-10",
+   "roliva_url": "https://rolivajobs.com/jobs/renewal-coordinator-remote-india-level-ai-7e3ce2d5-b77d-44e3-803b-572b6705b7d1",
+   "apply_url": "https://jobs.ashbyhq.com/level-ai/ffab3bee-6af1-4bc9-a6cc-75239df8329b/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:56:08.133Z",
+   "last_checked_at": "2026-10-11T00:56:08.133Z"
+  },
+  {
+   "id": "46b9c9d1-11db-418b-9057-1aa2760b3c6a",
+   "title": "Amazon Ads Lead",
+   "company": "Valerie Group",
+   "location": "India (Global)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-10",
+   "roliva_url": "https://rolivajobs.com/jobs/amazon-ads-lead-valerie-group-46b9c9d1-11db-418b-9057-1aa2760b3c6a",
+   "apply_url": "https://jobs.ashbyhq.com/valerie-group/36a2d533-8eef-4513-90a6-0fa5b06ceedd/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:14:56.472Z",
+   "last_checked_at": "2026-10-11T00:14:56.472Z"
   },
   {
    "id": "f0ad1758-fe6f-41ee-97fa-d04da130302b",
@@ -1085,7 +2306,67 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/c21521ab-8af1-4ab4-bfdb-e5117da4e616/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "1460c883-5f75-4e2d-90ca-184f1bec92a3",
+   "title": "AI/ML Developer",
+   "company": "NewRocket",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-09",
+   "roliva_url": "https://rolivajobs.com/jobs/ai-ml-developer-newrocket-1460c883-5f75-4e2d-90ca-184f1bec92a3",
+   "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6148059004&gh_jid=6148059004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:12:55.376Z",
+   "last_checked_at": "2026-10-11T00:24:11.802Z"
+  },
+  {
+   "id": "72d72d49-ba84-4d73-9bd7-fe6f253c9c83",
+   "title": "Manager, Solution Configuration (India)",
+   "company": "Savvymoney",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-09",
+   "roliva_url": "https://rolivajobs.com/jobs/manager-solution-configuration-india-savvymoney-72d72d49-ba84-4d73-9bd7-fe6f253c9c83",
+   "apply_url": "https://jobs.ashbyhq.com/savvymoney/f643425c-f303-45b9-9643-5ca1862fe409/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:07:19.789Z",
+   "last_checked_at": "2026-10-11T00:23:06.242Z"
+  },
+  {
+   "id": "c05c4652-b644-4f9f-a89b-035cd90f9d36",
+   "title": "Lead Xstore Testing",
+   "company": "Valtech",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-09",
+   "roliva_url": "https://rolivajobs.com/jobs/lead-xstore-testing-valtech-c05c4652-b644-4f9f-a89b-035cd90f9d36",
+   "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4958941101",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T17:59:12.861Z",
+   "last_checked_at": "2026-10-11T00:01:08.313Z"
+  },
+  {
+   "id": "955064d3-85f9-4e67-9573-609d646428c1",
+   "title": "Analyst",
+   "company": "Precision Medicine Group",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-07",
+   "roliva_url": "https://rolivajobs.com/jobs/analyst-precision-medicine-group-955064d3-85f9-4e67-9573-609d646428c1",
+   "apply_url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6180403004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T18:06:20.410Z",
+   "last_checked_at": "2026-10-11T00:07:37.078Z"
   },
   {
    "id": "d9baaada-f8f3-4173-aaeb-03279de1c886",
@@ -1100,7 +2381,7 @@
    "apply_url": "https://www.rubrik.com/company/careers/departments/job.8130441?gh_jid=8130441",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:59:00.847Z",
-   "last_checked_at": "2026-10-09T22:05:57.672Z"
+   "last_checked_at": "2026-10-10T22:09:10.736Z"
   },
   {
    "id": "63c82ff6-5d1e-4b03-96d3-076c39fd88cb",
@@ -1118,7 +2399,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8176810",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-06T09:04:15.962Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
   },
   {
    "id": "dad36f77-5113-4eb9-b500-da40e615f309",
@@ -1136,7 +2417,22 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4313ec17-52ae-46a7-8cad-ff9c53c7e826/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "13837446-b69f-4ba7-8418-594f83230707",
+   "title": "Customer Success Associate (Sustainability)",
+   "company": "Worldly",
+   "location": "Vietnam - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-09-04",
+   "roliva_url": "https://rolivajobs.com/jobs/customer-success-associate-sustainability-worldly-13837446-b69f-4ba7-8418-594f83230707",
+   "apply_url": "https://jobs.ashbyhq.com/worldly/05ed3aca-cdca-4b83-8b0c-239c3612aa94/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:13:13.091Z",
+   "last_checked_at": "2026-10-11T00:27:24.667Z"
   },
   {
    "id": "30b8fc3c-7c6b-4cfe-8ece-09968800ec80",
@@ -1151,7 +2447,7 @@
    "apply_url": "https://jobs.ashbyhq.com/kong/b435e044-45ab-4395-a681-24131c63ca0e/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:52:56.338Z",
-   "last_checked_at": "2026-10-09T21:29:15.649Z"
+   "last_checked_at": "2026-10-10T21:37:13.884Z"
   },
   {
    "id": "aa60f68e-5c43-4cdf-9d73-680e9e2b01cf",
@@ -1169,7 +2465,25 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8167571?gh_jid=8167571",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-09T22:12:53.086Z"
+   "last_checked_at": "2026-10-10T22:17:31.192Z"
+  },
+  {
+   "id": "cb229903-5502-4147-b05f-2a9243a67bfe",
+   "title": "Senior Product Marketing Manager",
+   "company": "Kantiv",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "product-marketing-manager",
+    "label": "Product marketing manager"
+   },
+   "posted_date": "2026-08-31",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-product-marketing-manager-kantiv-cb229903-5502-4147-b05f-2a9243a67bfe",
+   "apply_url": "https://jobs.ashbyhq.com/kantiv/4dc19ed0-bc80-4553-93d8-0fd206f7c281/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:04:15.846Z",
+   "last_checked_at": "2026-10-11T00:19:44.305Z"
   },
   {
    "id": "b4eb1f28-8454-4b0b-a884-5bc2f9d773ae",
@@ -1187,7 +2501,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-09T22:12:53.086Z"
+   "last_checked_at": "2026-10-10T22:17:31.192Z"
   },
   {
    "id": "976d7c07-3575-4950-83bf-0c297e0936a6",
@@ -1205,7 +2519,25 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4962161101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-02T11:45:00.134Z",
-   "last_checked_at": "2026-10-10T00:55:09.565Z"
+   "last_checked_at": "2026-10-10T13:20:46.067Z"
+  },
+  {
+   "id": "5418e071-3e5b-458d-a8d5-e857a1a588ce",
+   "title": "Senior Backend Engineer - EST , (Remote, India)",
+   "company": "Level Ai",
+   "location": "India, Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-08-26",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-backend-engineer-est-remote-india-level-ai-5418e071-3e5b-458d-a8d5-e857a1a588ce",
+   "apply_url": "https://jobs.ashbyhq.com/level-ai/5ca9dc53-e801-4891-81ad-6f7b863fed1b/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:56:08.133Z",
+   "last_checked_at": "2026-10-11T00:56:08.133Z"
   },
   {
    "id": "1e5673ec-c55c-4af1-bb6b-cffda0c1bf2f",
@@ -1220,7 +2552,40 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/87c769f3-78b0-4015-b099-1a5fa86c36ed/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "842c40c2-9c28-4d10-b13d-5231a6388a22",
+   "title": "Reporting Analyst",
+   "company": "Precision Medicine Group",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "data-analyst",
+    "label": "Data analyst"
+   },
+   "posted_date": "2026-08-25",
+   "roliva_url": "https://rolivajobs.com/jobs/reporting-analyst-precision-medicine-group-842c40c2-9c28-4d10-b13d-5231a6388a22",
+   "apply_url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6151215004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T18:06:20.410Z",
+   "last_checked_at": "2026-10-11T00:07:37.078Z"
+  },
+  {
+   "id": "4f20df53-c494-473c-9060-a32a701da172",
+   "title": "Senior Technical Specialist, AI Solutions : Delhi",
+   "company": "DevRev",
+   "location": "India Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-24",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-technical-specialist-ai-solutions-delhi-devrev-4f20df53-c494-473c-9060-a32a701da172",
+   "apply_url": "https://job-boards.greenhouse.io/devrev/jobs/6139491004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:32.561Z",
+   "last_checked_at": "2026-10-11T00:08:44.230Z"
   },
   {
    "id": "a708eb13-a853-456e-9fb6-c9f8dc975ca0",
@@ -1235,7 +2600,22 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/b9842bed-a568-4035-90f5-9261baa0d15b/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "b82d8926-ec1d-4b9c-8386-6438b32dcced",
+   "title": "GTM Engineer, Growth Marketing",
+   "company": "Ocrolus Inc.",
+   "location": "Remote - IND",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-24",
+   "roliva_url": "https://rolivajobs.com/jobs/gtm-engineer-growth-marketing-ocrolus-inc-b82d8926-ec1d-4b9c-8386-6438b32dcced",
+   "apply_url": "https://job-boards.greenhouse.io/ocrolusinc/jobs/6148169004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:15:16.953Z",
+   "last_checked_at": "2026-10-11T00:25:16.981Z"
   },
   {
    "id": "13ad662f-117a-4939-8769-da31115937ef",
@@ -1250,7 +2630,22 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/6b5a902d-49ea-4fa9-ab67-d6e88c361695/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-09T21:53:40.389Z"
+   "last_checked_at": "2026-10-10T21:57:27.822Z"
+  },
+  {
+   "id": "06f0128c-2d5c-48e6-b143-c71893de1ebe",
+   "title": "Field Chief Technology Officer (Field CTO)",
+   "company": "MinIO",
+   "location": "Remote - Bengaluru, India",
+   "eligibility": "india-region",
+   "eligibility_text": "A region in India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-20",
+   "roliva_url": "https://rolivajobs.com/jobs/field-chief-technology-officer-field-cto-minio-06f0128c-2d5c-48e6-b143-c71893de1ebe",
+   "apply_url": "https://job-boards.greenhouse.io/minio/jobs/5380066008",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:11:47.626Z",
+   "last_checked_at": "2026-10-11T00:23:07.723Z"
   },
   {
    "id": "3ef2edb5-74de-4386-81e6-7992ca7238c0",
@@ -1265,7 +2660,22 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/107864a1-7090-4a0c-9cd5-a1c6478ff2b2/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:48:13.562Z",
-   "last_checked_at": "2026-10-09T21:25:19.171Z"
+   "last_checked_at": "2026-10-10T21:26:52.896Z"
+  },
+  {
+   "id": "eb61d033-0a82-4ab5-b007-815e057a975d",
+   "title": "Senior Production Mortgage Analyst",
+   "company": "Ocrolus Inc.",
+   "location": "Remote - IND",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-19",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-production-mortgage-analyst-ocrolus-inc-eb61d033-0a82-4ab5-b007-815e057a975d",
+   "apply_url": "https://job-boards.greenhouse.io/ocrolusinc/jobs/6104610004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:15:16.953Z",
+   "last_checked_at": "2026-10-11T00:25:16.981Z"
   },
   {
    "id": "67e31c18-3243-4fb5-bde5-ec063c29bcff",
@@ -1283,7 +2693,22 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8138870",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
+  },
+  {
+   "id": "90eabeae-079a-44d0-b182-6d8e3c5dc491",
+   "title": "Sales Development Representative",
+   "company": "EMA",
+   "location": "India - remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-18",
+   "roliva_url": "https://rolivajobs.com/jobs/sales-development-representative-ema-90eabeae-079a-44d0-b182-6d8e3c5dc491",
+   "apply_url": "https://jobs.ashbyhq.com/ema/a34c3513-503b-47b4-9fe7-fc445eb6280b/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:15:59.966Z",
+   "last_checked_at": "2026-10-11T00:15:59.966Z"
   },
   {
    "id": "4d2c2670-16d8-48fb-bb25-a7437fd7f0f4",
@@ -1301,7 +2726,40 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4eac1849-29f4-4556-95fa-db283607c936/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "ee094017-161c-4c8a-812d-e71f04bb45bb",
+   "title": "Physician - Clinical AI Expert (Remote)",
+   "company": "Aptura",
+   "location": "Asia",
+   "eligibility": "apac",
+   "eligibility_text": "APAC / Asia-Pacific named by the employer",
+   "role": null,
+   "posted_date": "2026-08-14",
+   "roliva_url": "https://rolivajobs.com/jobs/physician-clinical-ai-expert-remote-aptura-ee094017-161c-4c8a-812d-e71f04bb45bb",
+   "apply_url": "https://jobs.ashbyhq.com/aptura/8abe1637-f88f-41fe-ad7f-eea38683e5be/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T02:19:48.250Z",
+   "last_checked_at": "2026-10-11T02:19:48.250Z"
+  },
+  {
+   "id": "f4bee7d1-62a6-4c71-8605-9b78ab580144",
+   "title": "Senior Software Engineer, Full-Stack",
+   "company": "Epic Kids Inc.",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-08-13",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-software-engineer-full-stack-epic-kids-inc-f4bee7d1-62a6-4c71-8605-9b78ab580144",
+   "apply_url": "https://job-boards.greenhouse.io/epickids/jobs/7866414003",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:11:48.928Z",
+   "last_checked_at": "2026-10-11T00:23:09.288Z"
   },
   {
    "id": "79d49674-dfe6-4b70-b300-62388edc21e5",
@@ -1319,7 +2777,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/1690c983-943c-4eb9-b9dc-0fef04118442/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "ffd30ddd-b7fa-4cab-a81e-3857a317e414",
@@ -1337,7 +2795,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/beedd6df-f9f3-4e18-9820-0e6a296487d8/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "c25d2637-2e9d-405a-8bc7-ffc9f7390151",
@@ -1355,7 +2813,37 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/13cbdf7e-ec82-4a0f-aec1-3bc55add776d/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "eb0b1a7a-c86c-4496-9cb3-0f9930587ad2",
+   "title": "Content Writer - Bhojpuri - Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-13",
+   "roliva_url": "https://rolivajobs.com/jobs/content-writer-bhojpuri-remote-lilt-production-eb0b1a7a-c86c-4496-9cb3-0f9930587ad2",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/681beae7-f1d9-4947-ba1c-afcc345df4ab/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "1a1295b7-3825-4006-a102-d221e70f400a",
+   "title": "Shopify Director",
+   "company": "Valerie Group",
+   "location": "India(Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-13",
+   "roliva_url": "https://rolivajobs.com/jobs/shopify-director-valerie-group-1a1295b7-3825-4006-a102-d221e70f400a",
+   "apply_url": "https://jobs.ashbyhq.com/valerie-group/ccf5ec51-764f-4f95-9a52-280ec50e75c2/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T00:14:56.472Z",
+   "last_checked_at": "2026-10-11T00:14:56.472Z"
   },
   {
    "id": "fe561ff4-e4ab-45f8-b817-ee58520054f0",
@@ -1373,7 +2861,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/fc267177-ceaf-46c5-b7e8-d96098f47782/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "1b27d342-76f2-477f-8ea9-53e55fc6f965",
@@ -1391,7 +2879,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/7d3eed7a-fbd5-4ec2-a087-890300efaf6a/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "21cbc3bf-a88e-4525-bc2a-2c80fbe4b412",
@@ -1406,7 +2894,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8122777?gh_jid=8122777",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-09T22:12:53.086Z"
+   "last_checked_at": "2026-10-10T22:17:31.192Z"
   },
   {
    "id": "ac1222f5-65d0-43e3-943c-954f34e90c76",
@@ -1424,7 +2912,115 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/7cc61c43-4203-467c-8b67-721925cb0fd1/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "28a6d55a-c9ae-4d46-a603-f45c8ef78e76",
+   "title": "Senior Partner Solution Engineer",
+   "company": "Snowflake",
+   "location": "IN-Delhi-Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "solutions-engineer",
+    "label": "Solutions engineer"
+   },
+   "posted_date": "2026-08-10",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-partner-solution-engineer-snowflake-28a6d55a-c9ae-4d46-a603-f45c8ef78e76",
+   "apply_url": "https://jobs.ashbyhq.com/snowflake/851643f9-00cc-4ca0-9380-aae6c23e5550/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:57:32.548Z",
+   "last_checked_at": "2026-10-11T00:14:56.544Z"
+  },
+  {
+   "id": "db8211fe-7d3c-4aa0-aba7-570d2161937d",
+   "title": "Junior Proposal Writer",
+   "company": "Allwyn Corp",
+   "location": "Allwyn India-Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-06",
+   "roliva_url": "https://rolivajobs.com/jobs/junior-proposal-writer-allwyn-corp-db8211fe-7d3c-4aa0-aba7-570d2161937d",
+   "apply_url": "https://jobs.ashbyhq.com/allwyn-corp/436f29ac-feed-41bd-9bc9-12c7dc75d900/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T02:23:38.695Z",
+   "last_checked_at": "2026-10-11T02:23:38.695Z"
+  },
+  {
+   "id": "cc213816-cbca-4811-83a8-77078c7335d3",
+   "title": "Senior Technical proposal writer",
+   "company": "Allwyn Corp",
+   "location": "Allwyn India-Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-06",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-technical-proposal-writer-allwyn-corp-cc213816-cbca-4811-83a8-77078c7335d3",
+   "apply_url": "https://jobs.ashbyhq.com/allwyn-corp/0b034c57-6f7e-41c9-b913-87e66eb354f4/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-11T02:23:38.695Z",
+   "last_checked_at": "2026-10-11T02:23:38.695Z"
+  },
+  {
+   "id": "5e412400-a368-485e-9821-d85fbadf7729",
+   "title": "Content Writer - Tamil - Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-06",
+   "roliva_url": "https://rolivajobs.com/jobs/content-writer-tamil-remote-lilt-production-5e412400-a368-485e-9821-d85fbadf7729",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/f7a33bcc-2f1d-4630-b47c-1fd95ba6fa39/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "e7696cfe-1289-400f-a4ae-d70083306669",
+   "title": "Content Writer - Telugu - Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-06",
+   "roliva_url": "https://rolivajobs.com/jobs/content-writer-telugu-remote-lilt-production-e7696cfe-1289-400f-a4ae-d70083306669",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/d7537925-2355-4a92-b326-171bcf531249/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "8f9571a0-d5bf-4b8c-a670-636649fa0b19",
+   "title": "Content Writer - Urdu - Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-06",
+   "roliva_url": "https://rolivajobs.com/jobs/content-writer-urdu-remote-lilt-production-8f9571a0-d5bf-4b8c-a670-636649fa0b19",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/cd9f649b-3da7-493e-86d1-cdd36dd018a1/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "85df5a71-f55a-476f-9004-5633ccc65f5c",
+   "title": "Staff ML - GenAI Engineer, Voice & Speech",
+   "company": "Weave",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-08-06",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-ml-genai-engineer-voice-speech-weave-85df5a71-f55a-476f-9004-5633ccc65f5c",
+   "apply_url": "https://jobs.ashbyhq.com/weave/fb1623b7-e355-46b7-8247-84ab76cff7d2/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T06:02:57.625Z",
+   "last_checked_at": "2026-10-11T00:17:06.852Z"
   },
   {
    "id": "f9154651-3e03-401b-be7e-7d36a57a6a72",
@@ -1439,7 +3035,25 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104438",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
+  },
+  {
+   "id": "bea9a799-99fa-41bd-9a64-0d7bc91c48b1",
+   "title": "Solution Architect - Onboarding",
+   "company": "Neo4j",
+   "location": "Remote: India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "solutions-engineer",
+    "label": "Solutions engineer"
+   },
+   "posted_date": "2026-07-31",
+   "roliva_url": "https://rolivajobs.com/jobs/solution-architect-onboarding-neo4j-bea9a799-99fa-41bd-9a64-0d7bc91c48b1",
+   "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4701424006?gh_jid=4701424006",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:10:43.316Z",
+   "last_checked_at": "2026-10-11T00:22:07.431Z"
   },
   {
    "id": "8f0df670-6d06-4593-a1f3-6425a384f980",
@@ -1454,7 +3068,7 @@
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637736002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:42:49.740Z",
-   "last_checked_at": "2026-10-09T23:26:38.351Z"
+   "last_checked_at": "2026-10-10T23:36:46.576Z"
   },
   {
    "id": "ef775862-7d11-4603-afd4-c4da5c93ece2",
@@ -1472,7 +3086,22 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8079801",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-06T09:04:15.962Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
+  },
+  {
+   "id": "7e76abf0-de40-4cd3-b2d5-d761b871ed7c",
+   "title": "Field Architect",
+   "company": "MinIO",
+   "location": "Remote - Bengaluru, India",
+   "eligibility": "india-region",
+   "eligibility_text": "A region in India named by the employer",
+   "role": null,
+   "posted_date": "2026-07-28",
+   "roliva_url": "https://rolivajobs.com/jobs/field-architect-minio-7e76abf0-de40-4cd3-b2d5-d761b871ed7c",
+   "apply_url": "https://job-boards.greenhouse.io/minio/jobs/5371697008",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:11:47.626Z",
+   "last_checked_at": "2026-10-11T00:23:07.723Z"
   },
   {
    "id": "3dbc9fa9-4673-4c11-8dbc-de9c7d92f4db",
@@ -1490,7 +3119,7 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4939598101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-02T11:45:00.134Z",
-   "last_checked_at": "2026-10-10T00:55:09.565Z"
+   "last_checked_at": "2026-10-10T13:20:46.067Z"
   },
   {
    "id": "794a9137-246a-423e-a7aa-bce28955c9a9",
@@ -1508,7 +3137,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/a569233d-a1d9-47b0-8a28-2f3357ba3d6e/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "b070f1a6-3360-42b8-afb9-68cbf538f7f9",
@@ -1526,7 +3155,22 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/6f56b0ef-8931-4c6c-a275-231f4161d4f2/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "fd55935e-143c-40f3-af3b-646b05d389fe",
+   "title": "Video News Producer",
+   "company": "Newsweek",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-07-27",
+   "roliva_url": "https://rolivajobs.com/jobs/video-news-producer-newsweek-fd55935e-143c-40f3-af3b-646b05d389fe",
+   "apply_url": "https://job-boards.greenhouse.io/newsweek/jobs/4698450006",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T06:12:57.735Z",
+   "last_checked_at": "2026-10-11T00:24:12.472Z"
   },
   {
    "id": "ebc9daa3-5ee0-41e1-9686-135fb0c90709",
@@ -1544,7 +3188,7 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/254c1250-953b-4323-8d18-9fe5e41d8d7d/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:48:13.562Z",
-   "last_checked_at": "2026-10-09T21:25:19.171Z"
+   "last_checked_at": "2026-10-10T21:26:52.896Z"
   },
   {
    "id": "467277aa-a3b8-4eac-8a91-931668ee433c",
@@ -1562,7 +3206,61 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4b47b634-8c59-4c17-be9f-d9be921bfa53/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "b3035f22-8eef-49cf-ad64-65fca2d8db77",
+   "title": "Staff Software Engineer, QE",
+   "company": "AlphaSense",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-07-22",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-software-engineer-qe-alphasense-b3035f22-8eef-49cf-ad64-65fca2d8db77",
+   "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8644283002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:47:54.597Z",
+   "last_checked_at": "2026-10-11T00:06:33.979Z"
+  },
+  {
+   "id": "116d0a3a-9204-4ac9-a767-a06f5a41d069",
+   "title": "Staff Software Engineer, QE",
+   "company": "AlphaSense India",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-07-22",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-software-engineer-qe-alphasense-india-116d0a3a-9204-4ac9-a767-a06f5a41d069",
+   "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8625330002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:31.383Z",
+   "last_checked_at": "2026-10-11T00:08:42.303Z"
+  },
+  {
+   "id": "1d83e614-6e6b-4990-97b8-5accba206006",
+   "title": "Senior Software Engineer (C++, MacOS)",
+   "company": "‎ConnectWise",
+   "location": "IND Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-07-21",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-software-engineer-c-macos-connectwise-1d83e614-6e6b-4990-97b8-5accba206006",
+   "apply_url": "https://job-boards.greenhouse.io/connectwise/jobs/4716532005",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-11T01:21:38.375Z",
+   "last_checked_at": "2026-10-11T01:21:38.375Z"
   },
   {
    "id": "acf0d6b9-42e0-466d-9e83-a6db6459d6a9",
@@ -1577,7 +3275,151 @@
    "apply_url": "https://jobs.ashbyhq.com/elevenlabs/a571b8e4-8176-4e31-aab6-2287ee810236/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-09T21:53:40.389Z"
+   "last_checked_at": "2026-10-10T21:57:27.822Z"
+  },
+  {
+   "id": "2dfc46a4-52f0-49fb-b979-c30aa90d44fb",
+   "title": "Senior Software Engineer - Frontend",
+   "company": "Signoz",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-07-21",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-software-engineer-frontend-signoz-2dfc46a4-52f0-49fb-b979-c30aa90d44fb",
+   "apply_url": "https://jobs.ashbyhq.com/signoz/bb540719-7344-4e98-88b9-92446d58f437/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:57:27.364Z",
+   "last_checked_at": "2026-10-11T00:11:54.413Z"
+  },
+  {
+   "id": "7586c77f-0cc5-4621-a130-bab688b7cd31",
+   "title": "AI GTM Engineer",
+   "company": "Signoz",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-07-20",
+   "roliva_url": "https://rolivajobs.com/jobs/ai-gtm-engineer-signoz-7586c77f-0cc5-4621-a130-bab688b7cd31",
+   "apply_url": "https://jobs.ashbyhq.com/signoz/f4273207-6f44-40cc-81b0-b1d8b288dc45/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:57:27.364Z",
+   "last_checked_at": "2026-10-11T00:11:54.413Z"
+  },
+  {
+   "id": "d0e58ec0-c380-4a47-97ea-6a278ea5cf52",
+   "title": "AI Security Engineer",
+   "company": "AlphaSense",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "security-engineer",
+    "label": "Security engineer"
+   },
+   "posted_date": "2026-07-16",
+   "roliva_url": "https://rolivajobs.com/jobs/ai-security-engineer-alphasense-d0e58ec0-c380-4a47-97ea-6a278ea5cf52",
+   "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8634067002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:47:54.597Z",
+   "last_checked_at": "2026-10-11T00:06:33.979Z"
+  },
+  {
+   "id": "7192322e-18f3-41c9-a82d-c39ddb50d47b",
+   "title": "AI Security Engineer",
+   "company": "AlphaSense India",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "security-engineer",
+    "label": "Security engineer"
+   },
+   "posted_date": "2026-07-16",
+   "roliva_url": "https://rolivajobs.com/jobs/ai-security-engineer-alphasense-india-7192322e-18f3-41c9-a82d-c39ddb50d47b",
+   "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8540721002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:31.383Z",
+   "last_checked_at": "2026-10-11T00:08:42.303Z"
+  },
+  {
+   "id": "eb724622-f855-4917-bf5c-903d2ca42b24",
+   "title": "Associate, Business & Competitive Intelligence",
+   "company": "Precision for Medicine",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-07-16",
+   "roliva_url": "https://rolivajobs.com/jobs/associate-business-competitive-intelligence-precision-for-medicine-eb724622-f855-4917-bf5c-903d2ca42b24",
+   "apply_url": "https://job-boards.greenhouse.io/pfm/jobs/6117588004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-11T01:14:10.418Z",
+   "last_checked_at": "2026-10-11T01:14:10.418Z"
+  },
+  {
+   "id": "56ca3188-8658-4b30-b4bc-ffdf629d523f",
+   "title": "Associate, Business & Competitive Intelligence",
+   "company": "Precision Medicine Group",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-07-16",
+   "roliva_url": "https://rolivajobs.com/jobs/associate-business-competitive-intelligence-precision-medicine-group-56ca3188-8658-4b30-b4bc-ffdf629d523f",
+   "apply_url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6117565004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T18:06:20.410Z",
+   "last_checked_at": "2026-10-11T00:07:37.078Z"
+  },
+  {
+   "id": "e6bb62dd-4f1c-4138-9a91-15dcd3bb1690",
+   "title": "Team Lead, Trust & Safety Ops (Bangalore)",
+   "company": "Moonpay",
+   "location": "India - Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-07-14",
+   "roliva_url": "https://rolivajobs.com/jobs/team-lead-trust-safety-ops-bangalore-moonpay-e6bb62dd-4f1c-4138-9a91-15dcd3bb1690",
+   "apply_url": "https://jobs.lever.co/moonpay/4008e0c0-529f-4f62-8517-519f7f7665bb/apply",
+   "source_ats": "lever",
+   "first_seen_at": "2026-10-11T02:23:30.233Z",
+   "last_checked_at": "2026-10-11T02:23:30.233Z"
+  },
+  {
+   "id": "a0d94eb7-5796-42f7-9859-b820d7d3a62b",
+   "title": "Senior Risk Analyst",
+   "company": "AlphaSense",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-07-13",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-risk-analyst-alphasense-a0d94eb7-5796-42f7-9859-b820d7d3a62b",
+   "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8626122002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:47:54.597Z",
+   "last_checked_at": "2026-10-11T00:06:33.979Z"
+  },
+  {
+   "id": "01cd5551-96e3-447a-9aba-83d568c50153",
+   "title": "Senior Risk Analyst",
+   "company": "AlphaSense India",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-07-13",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-risk-analyst-alphasense-india-01cd5551-96e3-447a-9aba-83d568c50153",
+   "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8623141002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T05:59:31.383Z",
+   "last_checked_at": "2026-10-11T00:08:42.303Z"
   },
   {
    "id": "e76cc99f-d151-4ac4-bb76-702006cbfa6e",
@@ -1592,7 +3434,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8054055?gh_jid=8054055",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-09T22:12:53.086Z"
+   "last_checked_at": "2026-10-10T22:17:31.192Z"
   },
   {
    "id": "1a2050a8-4095-4a5c-a23a-e501cdece0ba",
@@ -1610,7 +3452,7 @@
    "apply_url": "https://www.coinbase.com/careers/positions/8054153?gh_jid=8054153",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-09T22:12:53.086Z"
+   "last_checked_at": "2026-10-10T22:17:31.192Z"
   },
   {
    "id": "972b5ea9-3f48-4527-842c-60f832462ff2",
@@ -1625,22 +3467,7 @@
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530855002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:42:49.740Z",
-   "last_checked_at": "2026-10-09T23:26:38.351Z"
-  },
-  {
-   "id": "ae70fffb-2b8e-4d14-bbfa-4ab003357d31",
-   "title": "GTM Enablement - APAC",
-   "company": "ElevenLabs",
-   "location": "India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": null,
-   "posted_date": "2026-07-08",
-   "roliva_url": "https://rolivajobs.com/jobs/gtm-enablement-apac-elevenlabs-ae70fffb-2b8e-4d14-bbfa-4ab003357d31",
-   "apply_url": "https://jobs.ashbyhq.com/elevenlabs/55b21715-6e89-456e-af07-0b17b1e455e8/application",
-   "source_ats": "ashby",
-   "first_seen_at": "2026-10-04T20:59:37.216Z",
-   "last_checked_at": "2026-10-09T09:43:00.912Z"
+   "last_checked_at": "2026-10-10T23:36:46.576Z"
   },
   {
    "id": "9e6242d3-3cd9-482c-a44a-f954657c2ffc",
@@ -1655,7 +3482,25 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/8529412e-dd5e-4e04-b0af-0c980f16c623/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
+  },
+  {
+   "id": "3f52c40d-2f3b-482f-b1ff-0daa39a7586a",
+   "title": "Ironclad Business Systems Analyst",
+   "company": "Riveron",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "business-analyst",
+    "label": "Business analyst"
+   },
+   "posted_date": "2026-07-02",
+   "roliva_url": "https://rolivajobs.com/jobs/ironclad-business-systems-analyst-riveron-3f52c40d-2f3b-482f-b1ff-0daa39a7586a",
+   "apply_url": "https://jobs.ashbyhq.com/riveron/24f253c9-2c15-4213-9ec7-13ef614afa60/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:57:04.957Z",
+   "last_checked_at": "2026-10-11T00:12:12.976Z"
   },
   {
    "id": "c10f03a0-f3ec-4913-af72-659db07a20f0",
@@ -1670,7 +3515,25 @@
    "apply_url": "https://jobs.lever.co/BTSE/84f251e0-2125-4708-a522-c0e268e3df0a/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-02T11:42:22.616Z",
-   "last_checked_at": "2026-10-09T21:10:15.689Z"
+   "last_checked_at": "2026-10-10T09:13:50.966Z"
+  },
+  {
+   "id": "f3eaf768-854f-48ae-b51f-110b31fd8864",
+   "title": "Principal Machine Learning Engineer",
+   "company": "‎ConnectWise",
+   "location": "IND, Remote",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "machine-learning-engineer",
+    "label": "Machine learning engineer"
+   },
+   "posted_date": "2026-07-01",
+   "roliva_url": "https://rolivajobs.com/jobs/principal-machine-learning-engineer-connectwise-f3eaf768-854f-48ae-b51f-110b31fd8864",
+   "apply_url": "https://job-boards.greenhouse.io/connectwise/jobs/4707883005",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-11T01:21:38.375Z",
+   "last_checked_at": "2026-10-11T01:21:38.375Z"
   },
   {
    "id": "5d196deb-6534-4f46-bd5a-ad9f666ec65a",
@@ -1688,7 +3551,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/29c16f45-a4ca-4eb8-bc4a-1738dc9219c1/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "645735c0-2089-45e0-b219-044f3bf6b5a0",
@@ -1706,7 +3569,43 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4915166101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-02T11:45:00.134Z",
-   "last_checked_at": "2026-10-10T00:55:09.565Z"
+   "last_checked_at": "2026-10-10T13:20:46.067Z"
+  },
+  {
+   "id": "0dca8864-f86b-4208-8c9b-2a7422ecd02f",
+   "title": "Sr Backend Engineer - AI",
+   "company": "Signoz",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-06-30",
+   "roliva_url": "https://rolivajobs.com/jobs/sr-backend-engineer-ai-signoz-0dca8864-f86b-4208-8c9b-2a7422ecd02f",
+   "apply_url": "https://jobs.ashbyhq.com/signoz/d8fd6b52-8499-4dad-9903-f231e39c996d/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:57:27.364Z",
+   "last_checked_at": "2026-10-11T00:11:54.413Z"
+  },
+  {
+   "id": "e25032f2-2972-44dc-9354-55ff5f07a428",
+   "title": "Sr Product Designer",
+   "company": "Signoz",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "product-designer",
+    "label": "Product and UX designer"
+   },
+   "posted_date": "2026-06-30",
+   "roliva_url": "https://rolivajobs.com/jobs/sr-product-designer-signoz-e25032f2-2972-44dc-9354-55ff5f07a428",
+   "apply_url": "https://jobs.ashbyhq.com/signoz/ea04f41f-62c2-40a2-996f-6d7389d80124/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:57:27.364Z",
+   "last_checked_at": "2026-10-11T00:11:54.413Z"
   },
   {
    "id": "b7e08341-8960-4c94-abf9-97646982c5f3",
@@ -1721,7 +3620,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7781659",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-06T09:04:15.962Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
   },
   {
    "id": "d8cb9553-68c6-444b-9397-d7e5f26426de",
@@ -1739,7 +3638,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/b3553b34-22d5-414c-81a0-ef7f2d627259/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "b7101ace-d0d8-4b58-844c-45b0f603711e",
@@ -1754,7 +3653,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/d541f10d-0202-4327-a229-625f95843189/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "f55cc77d-504b-45e9-a828-8175cffe3962",
@@ -1772,7 +3671,73 @@
    "apply_url": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-09T22:12:53.086Z"
+   "last_checked_at": "2026-10-10T22:17:31.192Z"
+  },
+  {
+   "id": "94d8e965-7b4c-4814-8d60-6484e0f13f82",
+   "title": "Exceptional Engineer",
+   "company": "Signoz",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-21",
+   "roliva_url": "https://rolivajobs.com/jobs/exceptional-engineer-signoz-94d8e965-7b4c-4814-8d60-6484e0f13f82",
+   "apply_url": "https://jobs.ashbyhq.com/signoz/3b07b93a-aa97-4a4e-8b12-7c9c3273cf8c/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:57:27.364Z",
+   "last_checked_at": "2026-10-11T00:11:54.413Z"
+  },
+  {
+   "id": "c8aadde7-a3f7-4218-93d9-26a968e8f805",
+   "title": "Sr Product Manager - IC",
+   "company": "Signoz",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "product-manager",
+    "label": "Product manager"
+   },
+   "posted_date": "2026-06-21",
+   "roliva_url": "https://rolivajobs.com/jobs/sr-product-manager-ic-signoz-c8aadde7-a3f7-4218-93d9-26a968e8f805",
+   "apply_url": "https://jobs.ashbyhq.com/signoz/a41d80b2-389e-42c3-817e-feb7c3aa8fff/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:57:27.364Z",
+   "last_checked_at": "2026-10-11T00:11:54.413Z"
+  },
+  {
+   "id": "4bb98d1a-1e46-4733-9d10-f71df52cf36b",
+   "title": "Staff Backend Engineer - Core",
+   "company": "Signoz",
+   "location": "India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-06-21",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-backend-engineer-core-signoz-4bb98d1a-1e46-4733-9d10-f71df52cf36b",
+   "apply_url": "https://jobs.ashbyhq.com/signoz/cad41ada-ef6b-4539-8f37-31666ea16ae7/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:57:27.364Z",
+   "last_checked_at": "2026-10-11T00:11:54.413Z"
+  },
+  {
+   "id": "b6b66de4-8097-43a4-ae2f-c068868cbb85",
+   "title": "Staff AI Analyst, GTM Intelligence",
+   "company": "Zscaler",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-19",
+   "roliva_url": "https://rolivajobs.com/jobs/staff-ai-analyst-gtm-intelligence-zscaler-b6b66de4-8097-43a4-ae2f-c068868cbb85",
+   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5167455007",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T11:46:33.932Z",
+   "last_checked_at": "2026-10-10T23:50:22.759Z"
   },
   {
    "id": "865b766d-a8e9-483c-90fe-fd4fd1694ab3",
@@ -1790,7 +3755,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/028074ee-aff8-4129-b2a0-f376800d084a/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "last_checked_at": "2026-10-10T21:58:29.991Z"
   },
   {
    "id": "33388851-886e-4bcd-89bd-99ffd59fc04b",
@@ -1808,7 +3773,7 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8001804",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
   },
   {
    "id": "bd3e127f-13d7-43dd-87cf-f8b7705b438b",
@@ -1823,7 +3788,25 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7966928",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
+  },
+  {
+   "id": "5e55c458-47f5-43c4-9070-ebccac727084",
+   "title": "Senior Data Analyst",
+   "company": "Precision Medicine Group",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "data-analyst",
+    "label": "Data analyst"
+   },
+   "posted_date": "2026-06-15",
+   "roliva_url": "https://rolivajobs.com/jobs/senior-data-analyst-precision-medicine-group-5e55c458-47f5-43c4-9070-ebccac727084",
+   "apply_url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6019622004",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-10-10T18:06:20.410Z",
+   "last_checked_at": "2026-10-11T00:07:37.078Z"
   },
   {
    "id": "c4cfe0f3-ae88-4704-a56a-2ffd81ebb8f0",
@@ -1841,7 +3824,22 @@
    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7996776",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "last_checked_at": "2026-10-10T22:10:12.502Z"
+  },
+  {
+   "id": "91cd6eec-9188-454f-8eee-711ffe082969",
+   "title": "Subject Matter Expert – Quantative/Scientific/Corporate Domains – Telugu Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-13",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-quantative-scientific-corporate-domains-telugu-r-91cd6eec-9188-454f-8eee-711ffe082969",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/22fdd383-242c-4a07-a7f5-6b7d971bbf3f/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
    "id": "63bd118b-6c40-46d2-9c76-68ad6e44a13f",
@@ -1859,262 +3857,997 @@
    "apply_url": "https://www.coinbase.com/careers/positions/7739592?gh_jid=7739592",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-09T22:12:53.086Z"
+   "last_checked_at": "2026-10-10T22:17:31.192Z"
   },
   {
-   "id": "dc68e36f-6341-4b64-9379-fa58f0264b8e",
-   "title": "Business Development Representative",
-   "company": "Atlan",
-   "location": "India",
+   "id": "05ac42c0-1185-4eb4-b9c3-0c1110cfecdf",
+   "title": "Subject Matter Expert – Mathematics (Bengali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
    "eligibility": "india",
    "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2026-06-04",
-   "roliva_url": "https://rolivajobs.com/jobs/business-development-representative-atlan-dc68e36f-6341-4b64-9379-fa58f0264b8e",
-   "apply_url": "https://jobs.ashbyhq.com/atlan/8e3252f6-90fc-4ec5-abb7-6363df2df55a/application",
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-mathematics-bengali-remote-lilt-production-05ac42c0-1185-4eb4-b9c3-0c1110cfecdf",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/86f7e1af-1bb3-4ffc-a7a8-374377f597db/application",
    "source_ats": "ashby",
-   "first_seen_at": "2026-10-04T20:48:13.562Z",
-   "last_checked_at": "2026-10-09T21:25:19.171Z"
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
-   "id": "3f8efa68-4bb3-4201-a792-0cdb79246f1d",
-   "title": "Technical Support Engineer 2",
-   "company": "Twilio",
-   "location": "Remote - India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": {
-    "slug": "customer-support",
-    "label": "Customer support"
-   },
-   "posted_date": "2026-06-03",
-   "roliva_url": "https://rolivajobs.com/jobs/technical-support-engineer-2-twilio-3f8efa68-4bb3-4201-a792-0cdb79246f1d",
-   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7917665",
-   "source_ats": "greenhouse",
-   "first_seen_at": "2026-10-07T15:24:55.000Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
-  },
-  {
-   "id": "01e5998c-df03-43a1-a7a1-91107657bb3f",
-   "title": "Engineering Relations Partner",
-   "company": "Moniepoint",
-   "location": "Remote, India; Remote, Kenya; Remote, Lagos, Nigeria; Remote, Pakistan; Remote, Poland; Remote, South Africa; Remote, Spain",
+   "id": "6599edaa-09d5-47bd-ba59-f4eb80170798",
+   "title": "Subject Matter Expert – Mathematics (Hindi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
    "eligibility": "india",
    "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2026-05-25",
-   "roliva_url": "https://rolivajobs.com/jobs/engineering-relations-partner-moniepoint-01e5998c-df03-43a1-a7a1-91107657bb3f",
-   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4874410101",
-   "source_ats": "greenhouse",
-   "first_seen_at": "2026-10-02T11:45:00.134Z",
-   "last_checked_at": "2026-10-10T00:55:09.565Z"
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-mathematics-hindi-remote-lilt-production-6599edaa-09d5-47bd-ba59-f4eb80170798",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/ecf1b8e5-318c-4b17-85a6-936ab754dd5a/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
-   "id": "61a12da0-59e4-45bc-ae6b-4d4bdc643d69",
-   "title": "Software Development Engineer III (Fullstack ) - Workflows",
-   "company": "HighLevel",
-   "location": "India",
+   "id": "ffe10a18-2f0f-4373-9ef1-df3784dd5f8d",
+   "title": "Subject Matter Expert – Mathematics (Marathi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
    "eligibility": "india",
    "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2026-05-05",
-   "roliva_url": "https://rolivajobs.com/jobs/software-development-engineer-iii-fullstack-workflows-highlevel-61a12da0-59e4-45bc-ae6b-4d4bdc643d69",
-   "apply_url": "https://jobs.lever.co/gohighlevel/aa1ac843-c6a4-471f-8783-de8089e9d325/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-mathematics-marathi-remote-lilt-production-ffe10a18-2f0f-4373-9ef1-df3784dd5f8d",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/7e2b47a7-e815-49d8-990e-5fc8984c9097/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
-   "id": "66c72e59-1f33-43c5-9c91-b313e351ea16",
-   "title": "Software Architect (L6)",
-   "company": "Twilio",
-   "location": "Remote - India",
+   "id": "ca2e9a87-19f1-4944-8d4f-8b6751646216",
+   "title": "Subject Matter Expert – Mathematics (Tamil) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
    "eligibility": "india",
    "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2026-05-04",
-   "roliva_url": "https://rolivajobs.com/jobs/software-architect-l6-twilio-66c72e59-1f33-43c5-9c91-b313e351ea16",
-   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7825089",
-   "source_ats": "greenhouse",
-   "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-mathematics-tamil-remote-lilt-production-ca2e9a87-19f1-4944-8d4f-8b6751646216",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/49f4c378-c428-4ef4-8da1-8b78200316f3/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
-   "id": "f4f106b4-3468-4815-98c5-744a0fa2f935",
-   "title": "Manager, Forward Deployed Engineering",
-   "company": "Databricks",
-   "location": "Remote - India",
+   "id": "bcb1afab-09f7-453b-929a-b6d80d18fe71",
+   "title": "Subject Matter Expert – Mathematics (Telugu) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
    "eligibility": "india",
    "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2026-04-14",
-   "roliva_url": "https://rolivajobs.com/jobs/manager-forward-deployed-engineering-databricks-f4f106b4-3468-4815-98c5-744a0fa2f935",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8503068002",
-   "source_ats": "greenhouse",
-   "first_seen_at": "2026-10-04T21:42:49.740Z",
-   "last_checked_at": "2026-10-09T23:26:38.351Z"
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-mathematics-telugu-remote-lilt-production-bcb1afab-09f7-453b-929a-b6d80d18fe71",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/c460abeb-34d0-4dac-b5f2-baf33527bdd7/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
-   "id": "f79d29d6-3e30-4ca7-852c-8c1c545ce465",
-   "title": "Senior Network Engineer",
-   "company": "Twilio",
-   "location": "Remote - India",
+   "id": "1b202c58-bc63-4b3a-ad57-591472c8f9ca",
+   "title": "Subject Matter Expert – Natural Sciences (Bengali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
    "eligibility": "india",
    "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2026-03-13",
-   "roliva_url": "https://rolivajobs.com/jobs/senior-network-engineer-twilio-f79d29d6-3e30-4ca7-852c-8c1c545ce465",
-   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7657993",
-   "source_ats": "greenhouse",
-   "first_seen_at": "2026-10-04T20:56:48.117Z",
-   "last_checked_at": "2026-10-09T22:04:40.613Z"
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-natural-sciences-bengali-remote-lilt-production-1b202c58-bc63-4b3a-ad57-591472c8f9ca",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/89a631d2-bf95-479c-8719-7441523aa6b4/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
-   "id": "60bc5d6d-03a0-408b-baf3-a7e6dc5516b4",
-   "title": "Full Stack Builder (Team of One)",
-   "company": "HighLevel",
-   "location": "India",
+   "id": "7af08e85-86a5-4dce-9a86-1ad4a066d7a2",
+   "title": "Subject Matter Expert – Natural Sciences (Hindi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
    "eligibility": "india",
    "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2026-03-06",
-   "roliva_url": "https://rolivajobs.com/jobs/full-stack-builder-team-of-one-highlevel-60bc5d6d-03a0-408b-baf3-a7e6dc5516b4",
-   "apply_url": "https://jobs.lever.co/gohighlevel/ce928065-f2cf-4412-a5e7-32677e6f4e4b/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-natural-sciences-hindi-remote-lilt-production-7af08e85-86a5-4dce-9a86-1ad4a066d7a2",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/998d0941-d1e0-438a-9963-6adc87c4b4c0/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
-   "id": "55bbdd0f-5c19-4337-859b-3bd0341626ee",
-   "title": "Lead Security Engineer (Cloud Security & Architecture)",
-   "company": "HighLevel",
-   "location": "India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": {
-    "slug": "security-engineer",
-    "label": "Security engineer"
-   },
-   "posted_date": "2026-03-02",
-   "roliva_url": "https://rolivajobs.com/jobs/lead-security-engineer-cloud-security-architecture-highlevel-55bbdd0f-5c19-4337-859b-3bd0341626ee",
-   "apply_url": "https://jobs.lever.co/gohighlevel/c78966d6-0f24-41ba-b792-b3ee9bb716c1/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
-  },
-  {
-   "id": "8c904ab4-b175-41e7-829a-1d6a88b22cf2",
-   "title": "Engineering Manager II - Custom Objects Team",
-   "company": "HighLevel",
-   "location": "India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": {
-    "slug": "engineering-manager",
-    "label": "Engineering manager"
-   },
-   "posted_date": "2026-02-16",
-   "roliva_url": "https://rolivajobs.com/jobs/engineering-manager-ii-custom-objects-team-highlevel-8c904ab4-b175-41e7-829a-1d6a88b22cf2",
-   "apply_url": "https://jobs.lever.co/gohighlevel/13a4725e-8511-47f6-a0b6-3db420ad5930/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
-  },
-  {
-   "id": "049ae4e6-c6a1-465c-9438-5c1212e412bb",
-   "title": "Country Director, India",
-   "company": "Coinbase",
-   "location": "Remote - India",
+   "id": "943e8772-475b-406f-91dd-4b53a65f1318",
+   "title": "Subject Matter Expert – Natural Sciences (Hindi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
    "eligibility": "india",
    "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2026-02-12",
-   "roliva_url": "https://rolivajobs.com/jobs/country-director-india-coinbase-049ae4e6-c6a1-465c-9438-5c1212e412bb",
-   "apply_url": "https://www.coinbase.com/careers/positions/7606826?gh_jid=7606826",
-   "source_ats": "greenhouse",
-   "first_seen_at": "2026-10-04T21:07:56.109Z",
-   "last_checked_at": "2026-10-09T22:12:53.086Z"
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-natural-sciences-hindi-remote-lilt-production-943e8772-475b-406f-91dd-4b53a65f1318",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/f973f70f-cde4-4a4e-90d8-02624d8e36f8/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
-   "id": "27e5c08b-f7b1-4539-8d71-26c72a665bf4",
-   "title": "Senior Staff Software Engineer, Payments",
-   "company": "Airbnb",
-   "location": "Remote - Bangalore, India",
-   "eligibility": "india-region",
-   "eligibility_text": "A region in India named by the employer",
-   "role": {
-    "slug": "software-engineer",
-    "label": "Software engineer"
-   },
-   "posted_date": "2026-01-09",
-   "roliva_url": "https://rolivajobs.com/jobs/senior-staff-software-engineer-payments-airbnb-27e5c08b-f7b1-4539-8d71-26c72a665bf4",
-   "apply_url": "https://careers.airbnb.com/positions/7525479?gh_jid=7525479",
-   "source_ats": "greenhouse",
-   "first_seen_at": "2026-10-04T21:01:52.911Z",
-   "last_checked_at": "2026-10-09T22:08:18.084Z"
-  },
-  {
-   "id": "e900f8dd-9908-46b3-946a-82ad51867665",
-   "title": "Lead Software Development Engineer in Test - Mobile",
-   "company": "HighLevel",
-   "location": "India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": {
-    "slug": "qa-engineer",
-    "label": "QA and test engineer"
-   },
-   "posted_date": "2025-12-24",
-   "roliva_url": "https://rolivajobs.com/jobs/lead-software-development-engineer-in-test-mobile-highlevel-e900f8dd-9908-46b3-946a-82ad51867665",
-   "apply_url": "https://jobs.lever.co/gohighlevel/6abd14a6-7a91-4c98-9938-72701818d08e/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
-  },
-  {
-   "id": "8377f095-433a-418d-805d-0788e3016976",
-   "title": "Software Development Engineer III - Conversations",
-   "company": "HighLevel",
-   "location": "India",
+   "id": "4212c179-f253-44ac-ab17-0de924c94601",
+   "title": "Subject Matter Expert – Natural Sciences (Marathi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
    "eligibility": "india",
    "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2025-12-18",
-   "roliva_url": "https://rolivajobs.com/jobs/software-development-engineer-iii-conversations-highlevel-8377f095-433a-418d-805d-0788e3016976",
-   "apply_url": "https://jobs.lever.co/gohighlevel/4ec92bca-2593-4081-85fb-c8288147939d/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-natural-sciences-marathi-remote-lilt-production-4212c179-f253-44ac-ab17-0de924c94601",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/474f2ec0-551e-491f-a63e-dda1a015207b/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
-   "id": "a0c7f6c6-c4b5-4c8a-9a44-ee53262e57d7",
-   "title": "Senior Software Development Engineer (Social Planner- AI)",
-   "company": "HighLevel",
-   "location": "India",
+   "id": "36126779-b365-4c52-87a7-53dac925f855",
+   "title": "Subject Matter Expert – Natural Sciences (Tamil) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
    "eligibility": "india",
    "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2025-09-19",
-   "roliva_url": "https://rolivajobs.com/jobs/senior-software-development-engineer-social-planner-ai-highlevel-a0c7f6c6-c4b5-4c8a-9a44-ee53262e57d7",
-   "apply_url": "https://jobs.lever.co/gohighlevel/e748460e-6da2-48f5-b927-30caf0d1634d/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-09T09:37:17.633Z",
-   "last_checked_at": "2026-10-09T21:53:02.219Z"
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-natural-sciences-tamil-remote-lilt-production-36126779-b365-4c52-87a7-53dac925f855",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/2b9005fe-d903-448d-97b2-6b7ec10050e6/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   },
   {
-   "id": "a947e35b-e9ab-48a9-aa3f-dfc923570291",
-   "title": "Talent Pool – Come join the team!",
-   "company": "Yuno",
-   "location": "Global",
-   "eligibility": "worldwide",
-   "eligibility_text": "Worldwide, as stated by the employer",
+   "id": "db880d18-75a1-41a0-aceb-87120154b736",
+   "title": "Subject Matter Expert – Natural Sciences (Telugu) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
    "role": null,
-   "posted_date": "2024-06-06",
-   "roliva_url": "https://rolivajobs.com/jobs/talent-pool-come-join-the-team-yuno-a947e35b-e9ab-48a9-aa3f-dfc923570291",
-   "apply_url": "https://jobs.lever.co/yuno/7f25515f-dad5-4918-909b-cbd5349f2090/apply",
-   "source_ats": "lever",
-   "first_seen_at": "2026-10-02T11:46:27.317Z",
-   "last_checked_at": "2026-10-10T00:19:10.429Z"
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-natural-sciences-telugu-remote-lilt-production-db880d18-75a1-41a0-aceb-87120154b736",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/96324566-93e3-43c8-9fc7-f01fa35c5e0c/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "2bae4726-6cde-466c-9392-aae4cea108db",
+   "title": "Subject Matter Expert – Robotics (Bengali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-robotics-bengali-remote-lilt-production-2bae4726-6cde-466c-9392-aae4cea108db",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/a855bd4f-38cb-4117-b2de-a1ccff6d9d65/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "51d019c9-9ab9-4c50-8a42-3d4e622156dc",
+   "title": "Subject Matter Expert – Robotics (Hindi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-robotics-hindi-remote-lilt-production-51d019c9-9ab9-4c50-8a42-3d4e622156dc",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/39a3cf6b-c3bd-4d98-a802-ba9de1759324/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "e42aa575-36b5-42cc-92bf-b5bb9ee56bfc",
+   "title": "Subject Matter Expert – Robotics (Marathi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-robotics-marathi-remote-lilt-production-e42aa575-36b5-42cc-92bf-b5bb9ee56bfc",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/d13fb0aa-35bf-4a2b-a711-3fa0f8eaaa79/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "b35f2f57-3c05-432f-bf1c-cff315f690cb",
+   "title": "Subject Matter Expert – Robotics (Tamil) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-robotics-tamil-remote-lilt-production-b35f2f57-3c05-432f-bf1c-cff315f690cb",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/5c104304-c16c-45d5-a30f-51a339de6258/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "d148384d-5ac3-491d-a63b-7d22d47d6de4",
+   "title": "Subject Matter Expert – Robotics (Telugu) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-10",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-robotics-telugu-remote-lilt-production-d148384d-5ac3-491d-a63b-7d22d47d6de4",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/f9a568a2-3653-4250-86ca-0d7a2c84bf9b/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "5417eb70-c793-415d-816b-88f525e1f3e3",
+   "title": "Subject Matter Expert – Finance (Assamese) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-assamese-remote-lilt-production-5417eb70-c793-415d-816b-88f525e1f3e3",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/68a93113-6119-42d1-91a5-f2db2d7ff464/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "0d23d3ad-5c3f-40af-aa29-23a1055f7ce0",
+   "title": "Subject Matter Expert – Finance (Bengali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-bengali-remote-lilt-production-0d23d3ad-5c3f-40af-aa29-23a1055f7ce0",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/81b44260-2230-4a48-ad37-5d7485576cab/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "cb242fab-7178-40a8-a384-263195cc47ee",
+   "title": "Subject Matter Expert – Finance (Gujarati) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-gujarati-remote-lilt-production-cb242fab-7178-40a8-a384-263195cc47ee",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/337fa756-25fb-4753-b0aa-9b1c57de6b8d/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "7b6dcafb-b85a-482a-aac1-f250ca6628af",
+   "title": "Subject Matter Expert – Finance (Hindi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-hindi-remote-lilt-production-7b6dcafb-b85a-482a-aac1-f250ca6628af",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/0a670768-b660-4046-8bdf-bfce0496250c/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "e3fad207-901c-48fa-8a00-ce6d817c2251",
+   "title": "Subject Matter Expert – Finance (Kannada) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-kannada-remote-lilt-production-e3fad207-901c-48fa-8a00-ce6d817c2251",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/91d3385d-9baa-4bb1-b7da-da5566d41c79/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "3585cffd-d27e-44cd-b571-fe7baedbd12f",
+   "title": "Subject Matter Expert – Finance (Malayalam) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-malayalam-remote-lilt-production-3585cffd-d27e-44cd-b571-fe7baedbd12f",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/babda2aa-7449-4410-834f-b40940291c02/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "9729d90f-b3c3-42bc-b002-21653c74aaf8",
+   "title": "Subject Matter Expert – Finance (Marathi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-marathi-remote-lilt-production-9729d90f-b3c3-42bc-b002-21653c74aaf8",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/69ce3ff9-f55b-4809-a1d3-c2b0cb9633e6/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "6beaa584-4d34-42a9-beb5-d0f0a942859d",
+   "title": "Subject Matter Expert – Finance (Nepali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-nepali-remote-lilt-production-6beaa584-4d34-42a9-beb5-d0f0a942859d",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/3c510dc7-2a05-48a4-a0fc-75dfd1454ee3/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "a7843f78-0f95-46e0-b042-6207193d91e8",
+   "title": "Subject Matter Expert – Finance (Odia) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-odia-remote-lilt-production-a7843f78-0f95-46e0-b042-6207193d91e8",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/1714b666-3d48-4a97-9c53-befd361d01b1/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "ac574aa0-ad19-46d4-bd26-bba440347558",
+   "title": "Subject Matter Expert – Finance (Punjabi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-punjabi-remote-lilt-production-ac574aa0-ad19-46d4-bd26-bba440347558",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/7a9e1e0c-7f94-4594-bb11-cf6dec1b3063/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "c3513b94-ca08-4ec7-bae7-607110e750b0",
+   "title": "Subject Matter Expert – Finance (Tamil) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-tamil-remote-lilt-production-c3513b94-ca08-4ec7-bae7-607110e750b0",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/f7407230-0f9d-4d9b-99fd-b5621f15e70c/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "d139d369-0224-4277-9abd-46f02ec8465c",
+   "title": "Subject Matter Expert – Finance (Telugu) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-telugu-remote-lilt-production-d139d369-0224-4277-9abd-46f02ec8465c",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/31fdd583-4c92-431f-be3b-dcf48aaf59b4/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "968b71b0-836e-4f14-897a-6308d34e4d9d",
+   "title": "Subject Matter Expert – Finance (Urdu) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-finance-urdu-remote-lilt-production-968b71b0-836e-4f14-897a-6308d34e4d9d",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/8d06673e-279b-4bd6-b639-24d9051de393/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "09d26772-282f-4663-8e82-136dba5e3341",
+   "title": "Subject Matter Expert – Government (English/Assamese) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-assamese-remote-lilt-producti-09d26772-282f-4663-8e82-136dba5e3341",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/512c7396-e061-44b1-bfe7-dfb7a8cb0aa0/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "4dc66140-ec26-4eec-88e8-c71ddb97112e",
+   "title": "Subject Matter Expert – Government (English/Bengali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-bengali-remote-lilt-productio-4dc66140-ec26-4eec-88e8-c71ddb97112e",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/e8dddffb-6103-446f-8699-17253f188527/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "8b9698f6-bd43-43a4-a937-09973e6d915f",
+   "title": "Subject Matter Expert – Government (English/Gujarati) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-gujarati-remote-lilt-producti-8b9698f6-bd43-43a4-a937-09973e6d915f",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/f84556e1-7d67-4cf6-b448-809ac206946a/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "72b1bd82-d7df-4151-b0bd-19311992eeb7",
+   "title": "Subject Matter Expert – Government (English/Hindi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-hindi-remote-lilt-production-72b1bd82-d7df-4151-b0bd-19311992eeb7",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/75a16ae2-871a-4940-aeb1-491c9ca683e3/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "b2696354-4786-401e-8879-4fc0b6e89021",
+   "title": "Subject Matter Expert – Government (English/Kannada) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-kannada-remote-lilt-productio-b2696354-4786-401e-8879-4fc0b6e89021",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/a82d545b-b51d-4520-98e4-c96b1f1453bb/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "986e20b6-531d-4f85-94b1-40b3a4410ca0",
+   "title": "Subject Matter Expert – Government (English/Malayalam) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-malayalam-remote-lilt-product-986e20b6-531d-4f85-94b1-40b3a4410ca0",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/4efeaab1-6f37-4e66-905b-77d754707354/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "3b30d535-8bac-4a22-9ac3-579256464e27",
+   "title": "Subject Matter Expert – Government (English/Marathi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-marathi-remote-lilt-productio-3b30d535-8bac-4a22-9ac3-579256464e27",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/fe54a00c-8b7d-4672-8432-6e823a4adab4/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "230d96b5-a0d8-4256-a055-0a76a15e594f",
+   "title": "Subject Matter Expert – Government (English/Nepali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-nepali-remote-lilt-production-230d96b5-a0d8-4256-a055-0a76a15e594f",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/2cfe1e32-14ac-4213-a655-7b3349f820b6/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "8d14b351-7dab-4fbd-b8e9-c4f645838f66",
+   "title": "Subject Matter Expert – Government (English/Odia) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-odia-remote-lilt-production-8d14b351-7dab-4fbd-b8e9-c4f645838f66",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/342f69d3-33de-407c-97d2-cfacb5c594d1/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "8aef76b8-6778-4889-838a-033a03375a64",
+   "title": "Subject Matter Expert – Government (English/Punjabi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-punjabi-remote-lilt-productio-8aef76b8-6778-4889-838a-033a03375a64",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/c4fcdadb-1b37-4c03-af41-17392ec5b564/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "c496ea50-ec25-449c-b859-ce5c833d1119",
+   "title": "Subject Matter Expert – Government (English/Tamil) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-tamil-remote-lilt-production-c496ea50-ec25-449c-b859-ce5c833d1119",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/277825a3-424c-48ef-935e-683858527087/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "31cf2aa5-51a1-4bac-ac1f-fd30203efbe0",
+   "title": "Subject Matter Expert – Government (English/Telugu) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-telugu-remote-lilt-production-31cf2aa5-51a1-4bac-ac1f-fd30203efbe0",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/01c248c8-4024-4a3f-8777-3cffa985f57b/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "bd58e8d6-4712-4410-8c04-9ef3b169f9f3",
+   "title": "Subject Matter Expert – Government (English/Urdu) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-government-english-urdu-remote-lilt-production-bd58e8d6-4712-4410-8c04-9ef3b169f9f3",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/eb1a6b9d-7032-4e81-b169-bb1e732f970c/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "fee3f4a8-7a54-4a20-a64e-32a04c76aa2c",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Assamese) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-assamese-remote-lil-fee3f4a8-7a54-4a20-a64e-32a04c76aa2c",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/37f767a1-2e79-4fd6-927a-91a5ad9e4bed/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "3f400b59-7b6a-4b0b-addf-c9ca972365a6",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Bengali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-bengali-remote-lilt-3f400b59-7b6a-4b0b-addf-c9ca972365a6",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/e4402619-aa8d-4f74-88da-300d8c6d4e0c/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "e33bdfa2-a4b8-4d3f-9781-027a5b614120",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Gujarati) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-gujarati-remote-lil-e33bdfa2-a4b8-4d3f-9781-027a5b614120",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/71c656e3-b75c-4eee-9d21-697c90d96837/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "0aeb9a54-1866-4f8f-bc75-cfb244d28eca",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Hindi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-hindi-remote-lilt-p-0aeb9a54-1866-4f8f-bc75-cfb244d28eca",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/8e975c04-b574-4aac-a6ef-098d4779d4dd/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "7f6290c4-deba-4b0c-97cb-4264d20e2940",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Kannada) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-kannada-remote-lilt-7f6290c4-deba-4b0c-97cb-4264d20e2940",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/0da3f5e1-1ba7-4abc-89dc-9d9270d3928f/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "fce27e21-29af-447b-b406-7984c2226f57",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Malayalam) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-malayalam-remote-li-fce27e21-29af-447b-b406-7984c2226f57",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/7fdbb4fa-811c-42d6-838b-533f65034b7b/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "0069b52d-735c-49c7-84de-2f5cc1ab4f9e",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Marathi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-marathi-remote-lilt-0069b52d-735c-49c7-84de-2f5cc1ab4f9e",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/5c200766-ca3c-424a-80d8-eaab0e2e5003/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "68f8f916-c00d-437c-8ae5-b488e2ef6bdc",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Nepali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-nepali-remote-lilt-68f8f916-c00d-437c-8ae5-b488e2ef6bdc",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/624c406f-cdb4-40da-97a8-f1ceb1436316/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "90cbd594-69eb-4f4c-b464-42f2dd26ff62",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Odia) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-odia-remote-lilt-pr-90cbd594-69eb-4f4c-b464-42f2dd26ff62",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/9bf44939-e08b-440b-bccc-70a02b2ef664/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "49275c56-15c8-451e-b017-5eadf69e5cbb",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Punjabi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-punjabi-remote-lilt-49275c56-15c8-451e-b017-5eadf69e5cbb",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/6919885a-fda2-4bdd-94d2-b97d3f86c61e/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "b111a3da-3eb3-40be-aca8-3cdebc156079",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Tamil) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-tamil-remote-lilt-p-b111a3da-3eb3-40be-aca8-3cdebc156079",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/2bdf0d53-e30e-4c26-a502-d6e802734ff6/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "16c543d5-4f6a-4727-a85a-11b56c25ef6a",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Telugu) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-telugu-remote-lilt-16c543d5-4f6a-4727-a85a-11b56c25ef6a",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/cf8756e0-a66f-4896-89e8-e0085567987a/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "65bc9a9f-bc46-49e9-bfdb-07a5cff098c1",
+   "title": "Subject Matter Expert – Healthcare & Social Assistance (Urdu) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-healthcare-social-assistance-urdu-remote-lilt-pr-65bc9a9f-bc46-49e9-bfdb-07a5cff098c1",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/84f138b4-a7c9-4466-925c-7fb3d381395c/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "260c139c-d5b4-4e1a-b92e-0391d4cef097",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Assamese) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-assa-260c139c-d5b4-4e1a-b92e-0391d4cef097",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/076cde68-cc7b-4c2b-b859-c612cff0d070/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "09a2ba5f-9fc5-4619-aba7-a802154ba8dd",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Bengali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-beng-09a2ba5f-9fc5-4619-aba7-a802154ba8dd",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/c6e1decc-067f-4874-ab4f-da595469b68a/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "a0f431e8-d185-413f-ae8c-7dd22ac78e06",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Gujarati) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-guja-a0f431e8-d185-413f-ae8c-7dd22ac78e06",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/062e1cb7-63ef-465f-b418-7dd65cf18d7d/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "9243889c-68f7-4963-a83b-494e7b91fd08",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Hindi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-hind-9243889c-68f7-4963-a83b-494e7b91fd08",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/9b9a6f92-951c-4fff-aadb-b6b0b705d111/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "2d16a479-5ab8-4014-adc4-a2c6f74dea63",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Kannada) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-kann-2d16a479-5ab8-4014-adc4-a2c6f74dea63",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/8b01ef4e-3a96-4366-8a5f-097ab6db7b6d/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "61455ca1-ff11-47a3-aa5f-a180610d84ae",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Malayalam) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-mala-61455ca1-ff11-47a3-aa5f-a180610d84ae",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/360b90ba-f094-4c38-a283-e14a97ebc179/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "ae718eed-2643-42b7-b379-d71bea83bd4f",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Marathi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-mara-ae718eed-2643-42b7-b379-d71bea83bd4f",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/09e52b78-df3c-4ac6-bf38-13d3322d85cf/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "5596966c-9db7-4952-a11a-f6ad8a5d7a03",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Nepali) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-nepa-5596966c-9db7-4952-a11a-f6ad8a5d7a03",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/4201f372-cc0f-435f-8968-e865270869ae/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "c0166845-44b5-490f-885a-728696cf48ba",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Odia) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-odia-c0166845-44b5-490f-885a-728696cf48ba",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/324d4f5e-fbd7-4549-8e84-5e15cdfeb1fb/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "a6dbce0d-937f-405b-902d-632224ef1217",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Punjabi) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-punj-a6dbce0d-937f-405b-902d-632224ef1217",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/b1368ce1-888b-4849-8120-39426ab0e6ce/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
+  },
+  {
+   "id": "cb62e68f-ec12-45c0-a9fe-4dbdb8b0ca8d",
+   "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Tamil) – Remote",
+   "company": "Lilt Production",
+   "location": "India (Remote)",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-06-09",
+   "roliva_url": "https://rolivajobs.com/jobs/subject-matter-expert-manufacturing-industrial-operations-english-tami-cb62e68f-ec12-45c0-a9fe-4dbdb8b0ca8d",
+   "apply_url": "https://jobs.ashbyhq.com/lilt-production/d1ea04c3-d73d-4b42-b36e-116805c8bee3/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-10-10T05:10:08.611Z",
+   "last_checked_at": "2026-10-10T23:14:04.699Z"
   }
  ]
 }
