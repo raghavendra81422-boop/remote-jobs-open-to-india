@@ -2,7 +2,7 @@
 
 A daily-updated list of **remote roles whose own listing says they are open to candidates in India**, in an Indian region, across APAC, or worldwide. Every role was confirmed open on the employer’s own hiring system within the last 72 hours.
 
-**Last updated:** 2026-10-24 07:15 UTC · **Roles:** 300
+**Last updated:** 2026-10-25 07:16 UTC · **Roles:** 300
 
 > **Read the full listing before you apply.** The employer, not this list, decides who is eligible.
 > Never pay anyone to apply for a job.
@@ -257,6 +257,7 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
+| HighLevel | Director, Engineering - Marketplace &amp; Dev Ecosystem | India | India | 2026-10-24 | [Details](https://rolivajobs.com/jobs/director-engineering-marketplace-dev-ecosystem-highlevel-4b750c2c-c1fa-4576-8b53-e80d04bb6f02?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/011acab0-4b2c-4896-a3d2-53006f668c33/apply) |
 | ElevenLabs | Executive Assistant - India &amp; Middle East | India | India | 2026-10-23 | [Details](https://rolivajobs.com/jobs/executive-assistant-india-middle-east-elevenlabs-cb61da6c-2d59-48d3-85fd-f4ed2f5e125f?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/elevenlabs/c4e0d704-c7eb-4d6d-b71b-23bfd86fe463/application) |
 | Kantiv | Executive Assistant | Remote - India | India | 2026-10-23 | [Details](https://rolivajobs.com/jobs/executive-assistant-kantiv-f9131752-e030-4f4e-818c-7eb8ed4c6987?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/kantiv/cd50312c-4710-487b-b77a-ad55b6214e7b/application) |
 | Aptura | Expression of Interest | Global | Worldwide | 2026-10-22 | [Details](https://rolivajobs.com/jobs/expression-of-interest-aptura-46d0d135-084f-4151-9b1b-69f69c122adb?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/aptura/bdee3ec1-c487-4195-b80b-efc4acf0d87e/application) |
@@ -408,7 +409,6 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Amperos | Billing Manager | India (Remote) | India | 2026-07-22 | [Details](https://rolivajobs.com/jobs/billing-manager-amperos-355ff750-4bce-4d3e-8ee0-3dd121547fc9?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/amperos/3d07be61-37f7-4523-9358-3bafe414c3cd/application) |
 | Emergence | Senior Staff Accountant | India | India | 2026-07-22 | [Details](https://rolivajobs.com/jobs/senior-staff-accountant-emergence-1fb850d0-f7ea-49c0-a8a0-6e21e2e5747a?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/emergence/833519b6-7c43-4750-b492-91a9a2f56b83/application) |
 | Signoz | AI GTM Engineer | India | India | 2026-07-20 | [Details](https://rolivajobs.com/jobs/ai-gtm-engineer-signoz-7586c77f-0cc5-4621-a130-bab688b7cd31?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/signoz/f4273207-6f44-40cc-81b0-b1d8b288dc45/application) |
-| Moonpay | Team Lead, Trust &amp; Safety Ops (Bangalore) | India - Remote | India | 2026-07-14 | [Details](https://rolivajobs.com/jobs/team-lead-trust-safety-ops-bangalore-moonpay-e6bb62dd-4f1c-4138-9a91-15dcd3bb1690?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/moonpay/4008e0c0-529f-4f62-8517-519f7f7665bb/apply) |
 | AlphaSense | Senior Risk Analyst | Remote - India | India | 2026-07-13 | [Details](https://rolivajobs.com/jobs/senior-risk-analyst-alphasense-a0d94eb7-5796-42f7-9859-b820d7d3a62b?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/alphasense/jobs/8626122002) |
 | AlphaSense India | Senior Risk Analyst | Remote - India | India | 2026-07-13 | [Details](https://rolivajobs.com/jobs/senior-risk-analyst-alphasense-india-01cd5551-96e3-447a-9aba-83d568c50153?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/alphasenseindia/jobs/8623141002) |
 | Gratia | Growth Analyst | Pakistan | India | 2026-07-13 | [Details](https://rolivajobs.com/jobs/growth-analyst-gratia-9ad9b797-acf4-434f-a706-48304b759a1d?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/gratia/aa616c4f-4309-4000-979b-cb76359b6aaf/application) |
