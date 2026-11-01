@@ -2,7 +2,7 @@
 
 A daily-updated list of **remote roles whose own listing says they are open to candidates in India**, in an Indian region, across APAC, or worldwide. Every role was confirmed open on the employer’s own hiring system within the last 72 hours.
 
-**Last updated:** 2026-10-31 08:34 UTC · **Roles:** 300
+**Last updated:** 2026-11-01 09:12 UTC · **Roles:** 300
 
 > **Read the full listing before you apply.** The employer, not this list, decides who is eligible.
 > Never pay anyone to apply for a job.
@@ -26,7 +26,7 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 
 ## Roles
 
-### Software engineer (52)
+### Software engineer (54)
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
@@ -82,6 +82,8 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Signoz | Sr Backend Engineer - AI | India | India | 2026-06-30 | [Details](https://rolivajobs.com/jobs/sr-backend-engineer-ai-signoz-0dca8864-f86b-4208-8c9b-2a7422ecd02f?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/signoz/d8fd6b52-8499-4dad-9903-f231e39c996d/application) |
 | Signoz | Staff Backend Engineer - Core | India | India | 2026-06-21 | [Details](https://rolivajobs.com/jobs/staff-backend-engineer-core-signoz-4bb98d1a-1e46-4733-9d10-f71df52cf36b?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/signoz/cad41ada-ef6b-4539-8f37-31666ea16ae7/application) |
 | Outmarket | Platform Engineer | Remote US | India | 2026-06-20 | [Details](https://rolivajobs.com/jobs/platform-engineer-outmarket-3cd8b8ba-37af-4cf2-abd2-d16c600c171d?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/ab2be675-76ac-44b3-98ed-d59f5285b4f9/application) |
+| Outmarket | Senior Software Engineer | Remote US | India | 2026-06-20 | [Details](https://rolivajobs.com/jobs/senior-software-engineer-outmarket-aacf200a-e86c-4c54-ac4f-72064fd34216?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/736024c0-15b1-4c75-82fd-7e1798f6ab79/application) |
+| Outmarket | Software Engineer | Remote US | India | 2026-06-20 | [Details](https://rolivajobs.com/jobs/software-engineer-outmarket-f8f0aa94-5377-4116-b45a-abb3cbc148fc?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/10a2487a-1594-4400-8404-9ad2e96eb253/application) |
 
 ### Product manager (17)
 
@@ -256,7 +258,7 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 |---|---|---|---|---|---|
 | Twilio | Digital Marketing Manager | Remote - India | India | 2026-09-07 | [Details](https://rolivajobs.com/jobs/digital-marketing-manager-twilio-63c82ff6-5d1e-4b03-96d3-076c39fd88cb?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/twilio/jobs/8176810) |
 
-### Other roles (165)
+### Other roles (163)
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
@@ -297,7 +299,6 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Aptura | Sales Operations AI Research Contributor | Global | Worldwide | 2026-10-19 | [Details](https://rolivajobs.com/jobs/sales-operations-ai-research-contributor-aptura-f0635216-90b8-4061-8bef-fabd53808207?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/aptura/f9f0271b-a054-4c62-868f-68463dc4b2d5/application) |
 | Aptura | Supply Chain AI Research Contributor | Global | Worldwide | 2026-10-19 | [Details](https://rolivajobs.com/jobs/supply-chain-ai-research-contributor-aptura-8381c831-d177-44d0-8548-4c450258de54?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/aptura/5e296c09-27d9-46d6-afb1-79886c624d65/application) |
 | Aptura | Venture Capital AI Research Contributor | Global | Worldwide | 2026-10-19 | [Details](https://rolivajobs.com/jobs/venture-capital-ai-research-contributor-aptura-e30f6d64-e272-45b8-900e-5d8faa69891a?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/aptura/68ed4627-136f-4350-952f-395e7cd30754/application) |
-| Databricks | Forward Deployed Engineer, FDE (L4) | Remote - India | India | 2026-10-19 | [Details](https://rolivajobs.com/jobs/forward-deployed-engineer-fde-l4-databricks-5d27793c-c348-4ecc-9a0b-40b2746aff62?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002) |
 | Databricks | Senior Forward Deployed Engineer, Sr FDE (L5) | Remote - India | India | 2026-10-19 | [Details](https://rolivajobs.com/jobs/senior-forward-deployed-engineer-sr-fde-l5-databricks-7231486a-9901-4a95-b5db-57da949f07e1?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8876680002) |
 | Terac | Chemistry Professionals (Master's or PhD): Ongoing Expert Contributions | India | India | 2026-10-18 | [Details](https://rolivajobs.com/jobs/chemistry-professionals-master-s-or-phd-ongoing-expert-contributions-t-2974d939-d515-4e0c-b9ee-530df09044a0?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/terac/923c4238-4e10-4907-a7ac-0cf736fa7b1b/application) |
 | Amperos | RCM Associate (Payment Posting) | India (Remote) | India | 2026-10-16 | [Details](https://rolivajobs.com/jobs/rcm-associate-payment-posting-amperos-0f15d57f-34e3-448a-bfd9-b06152dfe9e5?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/amperos/0e932318-d07a-4011-9af1-be38989c90df/application) |
@@ -388,7 +389,6 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Valtech | Lead Xstore Testing | India - Remote | India | 2026-09-09 | [Details](https://rolivajobs.com/jobs/lead-xstore-testing-valtech-c05c4652-b644-4f9f-a89b-035cd90f9d36?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4958941101) |
 | Precision AQ | Analyst | Remote, India | India | 2026-09-07 | [Details](https://rolivajobs.com/jobs/analyst-precision-aq-9e019110-781e-418d-b18b-be48ba61995c?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/precisionaq/jobs/6184116004) |
 | Precision Medicine Group | Analyst | Remote, India | India | 2026-09-07 | [Details](https://rolivajobs.com/jobs/analyst-precision-medicine-group-955064d3-85f9-4e67-9573-609d646428c1?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6180403004) |
-| Rubrik | Partner Programs &amp; Analytics Manager | India - Remote | India | 2026-09-07 | [Details](https://rolivajobs.com/jobs/partner-programs-analytics-manager-rubrik-d9baaada-f8f3-4173-aaeb-03279de1c886?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.rubrik.com/company/careers/departments/job.8130441?gh_jid=8130441) |
 | Obrio | Creative Content Marketer (Freelance) | India | India | 2026-09-04 | [Details](https://rolivajobs.com/jobs/creative-content-marketer-freelance-obrio-98b48cf8-11a6-43ee-b127-69a73ba3fa5c?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/OBRIO/f0a62963-9f31-4a71-a22c-2e35ddb4bdce/application) |
 | Axelera | (Senior) Field Application Engineer - India | India (remote) | India | 2026-09-03 | [Details](https://rolivajobs.com/jobs/senior-field-application-engineer-india-axelera-89689f68-b116-4660-a821-324fb48a2188?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/axelera/eab3ca32-1b9e-4425-8162-1eeebd7a260b/application) |
 | Kong | Strategic Account Director – PSU/Government | New Delhi, India | India | 2026-09-03 | [Details](https://rolivajobs.com/jobs/strategic-account-director-psu-government-kong-30b8fc3c-7c6b-4cfe-8ece-09968800ec80?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/kong/b435e044-45ab-4395-a681-24131c63ca0e/application) |
