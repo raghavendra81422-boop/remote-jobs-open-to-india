@@ -2,7 +2,7 @@
 
 A daily-updated list of **remote roles whose own listing says they are open to candidates in India**, in an Indian region, across APAC, or worldwide. Every role was confirmed open on the employer’s own hiring system within the last 72 hours.
 
-**Last updated:** 2026-11-08 04:16 UTC · **Roles:** 300
+**Last updated:** 2026-11-09 09:24 UTC · **Roles:** 300
 
 > **Read the full listing before you apply.** The employer, not this list, decides who is eligible.
 > Never pay anyone to apply for a job.
@@ -148,6 +148,18 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Outmarket | Front End AI Engineer | Remote India | India | 2026-06-19 | [Details](https://rolivajobs.com/jobs/front-end-ai-engineer-outmarket-03e0a74e-d73d-4c94-89aa-b336949363bb?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/80670027-3c1e-478c-ab2c-590be7194330/application) |
 | Outmarket | Full Stack AI Engineer | Remote US | India | 2026-06-19 | [Details](https://rolivajobs.com/jobs/full-stack-ai-engineer-outmarket-cbca38d2-b9e4-4a22-957e-2f3bb0922e38?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/716e3319-1d72-4f8d-b5d9-efb9de1cf72f/application) |
 
+### Solutions engineer (7)
+
+| Company | Role | Location | Eligibility | Posted | Link |
+|---|---|---|---|---|---|
+| GitLab | Senior Solutions Architect | Remote, India | India | 2026-11-09 | [Details](https://rolivajobs.com/jobs/senior-solutions-architect-gitlab-56e927ea-b3cc-4ce0-9e37-f9404b7a4eae?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8829837002) |
+| NewRocket | ServiceNow Solution Architect - SPM | Remote - India | India | 2026-11-02 | [Details](https://rolivajobs.com/jobs/servicenow-solution-architect-spm-newrocket-d4f1713a-6e43-4b46-98ab-ac353a547a40?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.newrocket.com/careers/job?gh_jid=6240376004&gh_jid=6240376004) |
+| Neo4j | Senior Solutions Engineer - BFSI | Remote: India | India | 2026-10-26 | [Details](https://rolivajobs.com/jobs/senior-solutions-engineer-bfsi-neo4j-08a4f5d8-e9cb-465e-8773-c95920d701f2?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://boards.greenhouse.io/neo4j/jobs/4724599006?gh_jid=4724599006) |
+| HighLevel | Product Solution Engineer | India | India | 2026-10-23 | [Details](https://rolivajobs.com/jobs/product-solution-engineer-highlevel-cdd92d51-0304-40cc-a062-3d13df65e30e?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/01aa8ff3-d250-40a1-89e2-5341f66f1a36/apply) |
+| NewRocket | ServiceNow Solution Architect - TSM/OMT | India - Remote | India | 2026-10-21 | [Details](https://rolivajobs.com/jobs/servicenow-solution-architect-tsm-omt-newrocket-4b47288b-1ae2-47ac-a5cd-52c0b3d08282?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.newrocket.com/careers/job?gh_jid=6230823004&gh_jid=6230823004) |
+| Neo4j | Solution Architect - Onboarding | Remote: India | India | 2026-07-31 | [Details](https://rolivajobs.com/jobs/solution-architect-onboarding-neo4j-bea9a799-99fa-41bd-9a64-0d7bc91c48b1?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://boards.greenhouse.io/neo4j/jobs/4701424006?gh_jid=4701424006) |
+| phData | Solutions Architect (Managed Services) | India - Remote | India | 2026-07-21 | [Details](https://rolivajobs.com/jobs/solutions-architect-managed-services-phdata-da721c8e-8e80-4ada-9b5e-1a53f3335302?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.phdata.io/jobs?gh_jid=7789541) |
+
 ### Account executive (6)
 
 | Company | Role | Location | Eligibility | Posted | Link |
@@ -158,17 +170,6 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Zscaler | Account Executive - Commercial | Remote - Tamil Nadu, India | Region of India | 2026-10-08 | [Details](https://rolivajobs.com/jobs/account-executive-commercial-zscaler-3e656bc9-8320-4bec-8121-86be8a864a8c?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5258577007) |
 | Neo4j | Senior Account Executive, Enterprise – India (Mumbai) | Remote: India | India | 2026-09-24 | [Details](https://rolivajobs.com/jobs/senior-account-executive-enterprise-india-mumbai-neo4j-8e67c1e9-611f-4d75-8626-f78d76c47f70?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://boards.greenhouse.io/neo4j/jobs/4716229006?gh_jid=4716229006) |
 | ClickHouse | Enterprise Account Executive - Delhi | India | India | 2026-09-02 | [Details](https://rolivajobs.com/jobs/enterprise-account-executive-delhi-clickhouse-0a54f9f7-8bdb-439c-b381-6c8b58e196c7?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/clickhouse/f038a7b6-2329-4d27-aeca-7c93fdb043c8/application) |
-
-### Solutions engineer (6)
-
-| Company | Role | Location | Eligibility | Posted | Link |
-|---|---|---|---|---|---|
-| NewRocket | ServiceNow Solution Architect - SPM | Remote - India | India | 2026-11-02 | [Details](https://rolivajobs.com/jobs/servicenow-solution-architect-spm-newrocket-d4f1713a-6e43-4b46-98ab-ac353a547a40?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.newrocket.com/careers/job?gh_jid=6240376004&gh_jid=6240376004) |
-| Neo4j | Senior Solutions Engineer - BFSI | Remote: India | India | 2026-10-26 | [Details](https://rolivajobs.com/jobs/senior-solutions-engineer-bfsi-neo4j-08a4f5d8-e9cb-465e-8773-c95920d701f2?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://boards.greenhouse.io/neo4j/jobs/4724599006?gh_jid=4724599006) |
-| HighLevel | Product Solution Engineer | India | India | 2026-10-23 | [Details](https://rolivajobs.com/jobs/product-solution-engineer-highlevel-cdd92d51-0304-40cc-a062-3d13df65e30e?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/01aa8ff3-d250-40a1-89e2-5341f66f1a36/apply) |
-| NewRocket | ServiceNow Solution Architect - TSM/OMT | India - Remote | India | 2026-10-21 | [Details](https://rolivajobs.com/jobs/servicenow-solution-architect-tsm-omt-newrocket-4b47288b-1ae2-47ac-a5cd-52c0b3d08282?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.newrocket.com/careers/job?gh_jid=6230823004&gh_jid=6230823004) |
-| Neo4j | Solution Architect - Onboarding | Remote: India | India | 2026-07-31 | [Details](https://rolivajobs.com/jobs/solution-architect-onboarding-neo4j-bea9a799-99fa-41bd-9a64-0d7bc91c48b1?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://boards.greenhouse.io/neo4j/jobs/4701424006?gh_jid=4701424006) |
-| phData | Solutions Architect (Managed Services) | India - Remote | India | 2026-07-21 | [Details](https://rolivajobs.com/jobs/solutions-architect-managed-services-phdata-da721c8e-8e80-4ada-9b5e-1a53f3335302?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.phdata.io/jobs?gh_jid=7789541) |
 
 ### Data analyst (5)
 
@@ -252,7 +253,7 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 |---|---|---|---|---|---|
 | GitLab | Recruiter, R&amp;D | Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States | India | 2026-10-08 | [Details](https://rolivajobs.com/jobs/recruiter-r-d-gitlab-a95e4c4f-92d3-4d4b-921c-1bcbf3476d6e?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8869167002) |
 
-### Other roles (159)
+### Other roles (158)
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
@@ -414,7 +415,6 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Signoz | Exceptional Engineer | India | India | 2026-06-21 | [Details](https://rolivajobs.com/jobs/exceptional-engineer-signoz-94d8e965-7b4c-4814-8d60-6484e0f13f82?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/SigNoz/3b07b93a-aa97-4a4e-8b12-7c9c3273cf8c/application) |
 | Outmarket | IT Engineer | Remote India | India | 2026-06-20 | [Details](https://rolivajobs.com/jobs/it-engineer-outmarket-2d01aa05-5a8b-49c8-b687-543effedca62?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/527e02fd-d54a-4440-9b6c-924e679dd825/application) |
 | Twilio | Tech Lead /Sr. Principal Engineer (L6) | Remote - India | India | 2026-06-16 | [Details](https://rolivajobs.com/jobs/tech-lead-sr-principal-engineer-l6-twilio-bd3e127f-13d7-43dd-87cf-f8b7705b438b?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/twilio/jobs/7966928) |
-| Adaption | Modelling Resident | United Kingdom | India | 2026-06-12 | [Details](https://rolivajobs.com/jobs/modelling-resident-adaption-8662b543-0908-4882-8109-40df4d9a1214?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application) |
 
 ## Disclaimer
 
