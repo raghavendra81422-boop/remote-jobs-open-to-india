@@ -1,7 +1,7 @@
 {
  "list": "remote-india",
  "title": "Remote jobs open to applicants in India",
- "generated_at": "2026-11-15T09:32:22.940Z",
+ "generated_at": "2026-11-16T09:21:52.714Z",
  "source": "https://rolivajobs.com",
  "licence": {
   "selection_and_arrangement": "CC-BY-4.0",
@@ -10,6 +10,54 @@
  "paused": false,
  "count": 300,
  "jobs": [
+  {
+   "id": "4480e230-7ea3-4d2e-b004-55abed1a8a87",
+   "title": "Customer Success Engineer, India",
+   "company": "GitLab",
+   "location": "Remote, India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": null,
+   "posted_date": "2026-11-16",
+   "roliva_url": "https://rolivajobs.com/jobs/customer-success-engineer-india-gitlab-4480e230-7ea3-4d2e-b004-55abed1a8a87",
+   "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8926443002",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-11-16T07:42:15.745Z",
+   "last_checked_at": "2026-11-16T07:42:15.745Z"
+  },
+  {
+   "id": "9f565b3c-2925-43a0-b750-52635363039a",
+   "title": "Software Engineer (L1)",
+   "company": "Twilio",
+   "location": "Remote - India",
+   "eligibility": "india",
+   "eligibility_text": "India named by the employer",
+   "role": {
+    "slug": "software-engineer",
+    "label": "Software engineer"
+   },
+   "posted_date": "2026-11-16",
+   "roliva_url": "https://rolivajobs.com/jobs/software-engineer-l1-twilio-9f565b3c-2925-43a0-b750-52635363039a",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8319442",
+   "source_ats": "greenhouse",
+   "first_seen_at": "2026-11-16T09:21:52.714Z",
+   "last_checked_at": "2026-11-16T09:21:52.714Z"
+  },
+  {
+   "id": "e8e816f7-b329-4d61-8e81-e50a2876ae1b",
+   "title": "FP&A AI Research Contributor",
+   "company": "Aptura",
+   "location": "Global",
+   "eligibility": "worldwide",
+   "eligibility_text": "Worldwide, as stated by the employer",
+   "role": null,
+   "posted_date": "2026-11-15",
+   "roliva_url": "https://rolivajobs.com/jobs/fp-a-ai-research-contributor-aptura-e8e816f7-b329-4d61-8e81-e50a2876ae1b",
+   "apply_url": "https://jobs.ashbyhq.com/aptura/63f302ff-6699-4a48-9d4a-b259ec18d04d/application",
+   "source_ats": "ashby",
+   "first_seen_at": "2026-11-15T20:27:58.709Z",
+   "last_checked_at": "2026-11-15T20:27:58.709Z"
+  },
   {
    "id": "c4e45510-86da-46d7-9c98-657908ed6276",
    "title": "QA Automation Lead (API+UI) - India",
@@ -92,7 +140,7 @@
    "apply_url": "https://jobs.ashbyhq.com/Symmetry/0fba1d57-6c6d-49d1-a029-74b7f2532bc1/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-10T06:15:04.369Z",
-   "last_checked_at": "2026-11-13T23:27:50.096Z"
+   "last_checked_at": "2026-11-15T11:29:43.516Z"
   },
   {
    "id": "aaa4641f-abd4-4c1d-83d2-f27d02aa2947",
@@ -110,7 +158,7 @@
    "apply_url": "https://jobs.ashbyhq.com/weave/5ec9edb5-fb5d-408c-a822-a92139dd61f8/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-10T06:02:57.625Z",
-   "last_checked_at": "2026-11-15T08:26:47.247Z"
+   "last_checked_at": "2026-11-16T08:28:00.641Z"
   },
   {
    "id": "3da18d4e-f776-407d-8b6f-f8382a785ae6",
@@ -128,7 +176,7 @@
    "apply_url": "https://jobs.ashbyhq.com/weave/32a01f20-4157-4a04-9880-ccb27781b12c/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-11-05T08:14:17.832Z",
-   "last_checked_at": "2026-11-15T08:26:47.247Z"
+   "last_checked_at": "2026-11-16T08:28:00.641Z"
   },
   {
    "id": "c03d92af-09b6-48c9-95be-fe93126a3247",
@@ -143,7 +191,7 @@
    "apply_url": "https://jobs.ashbyhq.com/amperos/8659d4bf-4042-4cb1-9ffa-23919eefe20f/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-11-13T00:08:03.512Z",
-   "last_checked_at": "2026-11-14T12:11:54.987Z"
+   "last_checked_at": "2026-11-16T00:12:43.387Z"
   },
   {
    "id": "ea896458-a4c2-44ce-aeb1-19a7c39ebb7a",
@@ -161,7 +209,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4c689515-9c5c-4935-b983-dc2f4a6525b9/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-11-12T19:34:52.446Z",
-   "last_checked_at": "2026-11-14T07:37:21.026Z"
+   "last_checked_at": "2026-11-15T19:39:21.031Z"
   },
   {
    "id": "1f29a322-2122-408d-9833-5f5e84bb0c56",
@@ -176,7 +224,7 @@
    "apply_url": "https://syndigo.com/open-positions/?gh_jid=6248623004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-12T11:29:59.736Z",
-   "last_checked_at": "2026-11-13T23:31:53.312Z"
+   "last_checked_at": "2026-11-15T11:33:51.088Z"
   },
   {
    "id": "0a7558b2-15c5-416d-9a52-a13eec55f146",
@@ -194,7 +242,7 @@
    "apply_url": "https://jobs.ashbyhq.com/junipersquare/229d03c3-9bb7-4754-947b-fdc37d37e687/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-11-11T11:22:10.165Z",
-   "last_checked_at": "2026-11-14T11:25:39.807Z"
+   "last_checked_at": "2026-11-15T23:27:21.675Z"
   },
   {
    "id": "2a14c478-3feb-425f-a0db-a4816ca9c801",
@@ -209,7 +257,7 @@
    "apply_url": "https://jobs.ashbyhq.com/kong/be2966a2-3afc-407c-81e0-15fe4f189216/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-11-11T12:38:43.347Z",
-   "last_checked_at": "2026-11-14T00:39:57.552Z"
+   "last_checked_at": "2026-11-15T12:57:49.349Z"
   },
   {
    "id": "468cbbc2-d073-4043-b9d2-4a00c97d0d05",
@@ -227,7 +275,7 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5017425101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-11T11:20:09.301Z",
-   "last_checked_at": "2026-11-14T11:23:38.092Z"
+   "last_checked_at": "2026-11-15T23:25:20.217Z"
   },
   {
    "id": "f200450b-092a-4a23-b3a4-259e6a64492c",
@@ -245,7 +293,7 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-11T11:20:09.301Z",
-   "last_checked_at": "2026-11-14T11:23:38.092Z"
+   "last_checked_at": "2026-11-15T23:25:20.217Z"
   },
   {
    "id": "82449c1b-be11-441c-8b37-9364f3d25e54",
@@ -275,7 +323,7 @@
    "apply_url": "https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:50:08.450Z",
-   "last_checked_at": "2026-11-14T09:27:16.464Z"
+   "last_checked_at": "2026-11-15T21:29:04.378Z"
   },
   {
    "id": "297c1dd6-2a4b-494f-8abd-d9acc7ca05cf",
@@ -293,7 +341,7 @@
    "apply_url": "https://jobs.ashbyhq.com/adaption/5635dd7e-a0ca-414d-b738-71500502dba9/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:50:08.450Z",
-   "last_checked_at": "2026-11-14T09:27:16.464Z"
+   "last_checked_at": "2026-11-15T21:29:04.378Z"
   },
   {
    "id": "04bde6f9-39bc-4f34-830c-084c259b353f",
@@ -311,7 +359,7 @@
    "apply_url": "https://jobs.ashbyhq.com/adaption/ed60d392-f14d-4bdc-87c0-c96906f728e5/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:50:08.450Z",
-   "last_checked_at": "2026-11-14T09:27:16.464Z"
+   "last_checked_at": "2026-11-15T21:29:04.378Z"
   },
   {
    "id": "bd30481c-b511-4657-b122-f80e5f3f6051",
@@ -341,7 +389,7 @@
    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8928325002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-12T19:37:54.547Z",
-   "last_checked_at": "2026-11-14T07:40:27.105Z"
+   "last_checked_at": "2026-11-15T19:41:19.307Z"
   },
   {
    "id": "af633605-0092-4489-8af0-c7eef4b09844",
@@ -356,7 +404,7 @@
    "apply_url": "https://job-boards.greenhouse.io/turing/jobs/6241507004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-11T05:33:10.517Z",
-   "last_checked_at": "2026-11-14T06:01:35.554Z"
+   "last_checked_at": "2026-11-15T18:02:47.640Z"
   },
   {
    "id": "ab1f6ad1-c25e-4d42-8756-60759cb42a94",
@@ -404,7 +452,7 @@
    "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4704398006?gh_jid=4704398006",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-09T22:49:04.098Z",
-   "last_checked_at": "2026-11-13T23:02:16.609Z"
+   "last_checked_at": "2026-11-15T11:03:25.063Z"
   },
   {
    "id": "7f897adb-5d8b-4fbd-8280-a288856f38de",
@@ -419,7 +467,7 @@
    "apply_url": "https://job-boards.greenhouse.io/sonicwall/jobs/8366047",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-10T00:36:13.372Z",
-   "last_checked_at": "2026-11-14T12:56:08.477Z"
+   "last_checked_at": "2026-11-16T00:57:58.623Z"
   },
   {
    "id": "c8f880ed-f362-4e85-a0c6-7d3bd330baae",
@@ -596,7 +644,7 @@
    "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6241845004&gh_jid=6241845004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-04T13:47:07.796Z",
-   "last_checked_at": "2026-11-14T01:55:43.997Z"
+   "last_checked_at": "2026-11-15T13:58:14.558Z"
   },
   {
    "id": "88a5f1d6-eff9-439e-b759-a34e1b9e8aaf",
@@ -611,7 +659,7 @@
    "apply_url": "https://careers.airbnb.com/positions/8349121?gh_jid=8349121",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-03T19:27:18.569Z",
-   "last_checked_at": "2026-11-14T07:40:26.995Z"
+   "last_checked_at": "2026-11-15T19:42:20.774Z"
   },
   {
    "id": "00340f1d-285e-492c-864b-adbdae4a86cd",
@@ -626,7 +674,7 @@
    "apply_url": "https://job-boards.greenhouse.io/freshprints/jobs/6241848004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-04T02:25:35.623Z",
-   "last_checked_at": "2026-11-14T02:38:46.528Z"
+   "last_checked_at": "2026-11-15T14:40:35.103Z"
   },
   {
    "id": "86cab74e-da4d-4274-a511-2dca1ced6207",
@@ -677,7 +725,7 @@
    "apply_url": "https://job-boards.greenhouse.io/epickids/jobs/8163295003",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-03T00:08:51.080Z",
-   "last_checked_at": "2026-11-14T00:19:14.132Z"
+   "last_checked_at": "2026-11-15T12:24:45.631Z"
   },
   {
    "id": "cc0f28bd-6e1a-4335-9194-7cfeae77c370",
@@ -707,7 +755,7 @@
    "apply_url": "https://jobs.ashbyhq.com/imagineart/900fdc22-08ee-4803-bd4f-a03f2f691276/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-11-02T15:06:18.457Z",
-   "last_checked_at": "2026-11-14T03:36:49.471Z"
+   "last_checked_at": "2026-11-15T15:38:09.788Z"
   },
   {
    "id": "f5ad00cd-3ef4-47b1-9960-c347130fd17d",
@@ -725,7 +773,7 @@
    "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6238261004&gh_jid=6238261004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-02T13:43:47.502Z",
-   "last_checked_at": "2026-11-14T01:55:43.997Z"
+   "last_checked_at": "2026-11-15T13:58:14.558Z"
   },
   {
    "id": "d4f1713a-6e43-4b46-98ab-ac353a547a40",
@@ -743,7 +791,7 @@
    "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6240376004&gh_jid=6240376004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-02T13:43:47.502Z",
-   "last_checked_at": "2026-11-14T01:55:43.997Z"
+   "last_checked_at": "2026-11-15T13:58:14.558Z"
   },
   {
    "id": "79e1bb74-65b5-400b-a343-6f40ab4c57e7",
@@ -815,7 +863,7 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/9ba81415-2033-4b72-af4a-d9d2f288abaa/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:48:13.562Z",
-   "last_checked_at": "2026-11-14T02:38:47.968Z"
+   "last_checked_at": "2026-11-15T14:40:35.154Z"
   },
   {
    "id": "61fd7581-4040-455c-8326-d71caaa34b88",
@@ -848,7 +896,7 @@
    "apply_url": "https://jobs.ashbyhq.com/kantiv/09204463-408e-4673-9ce7-82c22741497d/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-30T11:08:22.095Z",
-   "last_checked_at": "2026-11-13T23:24:48.065Z"
+   "last_checked_at": "2026-11-15T11:26:41.650Z"
   },
   {
    "id": "32fd5a40-92f4-4b14-b533-4369eede9b5e",
@@ -1016,7 +1064,7 @@
    "apply_url": "https://job-boards.greenhouse.io/insurityindia/jobs/4456447009",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-28T02:34:04.928Z",
-   "last_checked_at": "2026-11-14T03:34:47.511Z"
+   "last_checked_at": "2026-11-15T15:36:06.349Z"
   },
   {
    "id": "118ff5c4-6c1c-4f9a-811e-ed6313b771c5",
@@ -1031,7 +1079,7 @@
    "apply_url": "https://jobs.ashbyhq.com/junipersquare/0baacd60-460d-4379-8361-c6851c2a3ffc/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-27T11:04:46.363Z",
-   "last_checked_at": "2026-11-13T23:24:48.321Z"
+   "last_checked_at": "2026-11-15T11:26:41.868Z"
   },
   {
    "id": "c180a20a-401f-4408-9ca1-c364297fe862",
@@ -1064,7 +1112,7 @@
    "apply_url": "https://jobs.ashbyhq.com/neara/61d2e347-8d03-4dd4-91f8-376944d479a6/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-27T20:26:15.685Z",
-   "last_checked_at": "2026-11-14T09:19:13.436Z"
+   "last_checked_at": "2026-11-15T21:21:00.592Z"
   },
   {
    "id": "02d20f56-2039-4f49-a007-073546e9d33c",
@@ -1079,7 +1127,7 @@
    "apply_url": "https://jobs.ashbyhq.com/neara/18c828f1-db9b-4a20-a3a7-eceec69a021f/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-28T08:27:11.081Z",
-   "last_checked_at": "2026-11-14T09:19:13.436Z"
+   "last_checked_at": "2026-11-15T21:21:00.592Z"
   },
   {
    "id": "c367a24c-0161-4ae4-a717-399948500832",
@@ -1094,7 +1142,7 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/c6bb032c-6ac8-4b59-915c-d59b6f3a86f8/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-26T14:14:35.593Z",
-   "last_checked_at": "2026-11-14T02:38:47.968Z"
+   "last_checked_at": "2026-11-15T14:40:35.154Z"
   },
   {
    "id": "f4a5f801-36f0-442a-8112-884f20adeb3e",
@@ -1142,7 +1190,7 @@
    "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4724599006?gh_jid=4724599006",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-26T09:53:20.539Z",
-   "last_checked_at": "2026-11-13T23:02:16.609Z"
+   "last_checked_at": "2026-11-15T11:03:25.063Z"
   },
   {
    "id": "ba865a1d-9aab-457e-bbdc-c243fc1b5301",
@@ -1172,7 +1220,7 @@
    "apply_url": "https://jobs.ashbyhq.com/terac/d1d6c13b-ec02-4823-9955-440ab4e0a368/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-26T23:28:05.862Z",
-   "last_checked_at": "2026-11-13T23:47:04.279Z"
+   "last_checked_at": "2026-11-15T11:48:58.058Z"
   },
   {
    "id": "a525e871-1023-445e-b730-f639b70df08f",
@@ -1187,7 +1235,7 @@
    "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5268694007",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-26T09:42:18.286Z",
-   "last_checked_at": "2026-11-13T22:06:53.731Z"
+   "last_checked_at": "2026-11-15T10:08:48.936Z"
   },
   {
    "id": "28c869ee-1e59-4c1c-8f9c-60e5a3030717",
@@ -1202,7 +1250,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/bef12ecf-8d42-4c51-89a4-08ece9f3d82f/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-24T07:11:06.935Z",
-   "last_checked_at": "2026-11-14T07:37:21.026Z"
+   "last_checked_at": "2026-11-15T19:39:21.031Z"
   },
   {
    "id": "4b750c2c-c1fa-4576-8b53-e80d04bb6f02",
@@ -1238,7 +1286,7 @@
    "apply_url": "https://jobs.ashbyhq.com/atlan/20fe5046-b287-40f6-990f-842ad75526e5/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-08T09:19:44.253Z",
-   "last_checked_at": "2026-11-14T02:38:47.968Z"
+   "last_checked_at": "2026-11-15T14:40:35.154Z"
   },
   {
    "id": "cdd92d51-0304-40cc-a062-3d13df65e30e",
@@ -1289,7 +1337,7 @@
    "apply_url": "https://jobs.ashbyhq.com/kantiv/cd50312c-4710-487b-b77a-ad55b6214e7b/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-23T23:00:48.730Z",
-   "last_checked_at": "2026-11-13T23:24:48.065Z"
+   "last_checked_at": "2026-11-15T11:26:41.650Z"
   },
   {
    "id": "b1837b19-5c27-4368-a312-cc76faab5f9d",
@@ -1307,7 +1355,7 @@
    "apply_url": "https://careers.airbnb.com/positions/8312713?gh_jid=8312713",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-22T19:10:52.965Z",
-   "last_checked_at": "2026-11-14T07:40:26.995Z"
+   "last_checked_at": "2026-11-15T19:42:20.774Z"
   },
   {
    "id": "46d0d135-084f-4151-9b1b-69f69c122adb",
@@ -1340,7 +1388,7 @@
    "apply_url": "https://jobs.ashbyhq.com/clickhouse/7cc3bb05-168b-47e3-ad0e-606cf7e64b8b/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-23T02:03:52.665Z",
-   "last_checked_at": "2026-11-14T02:38:48.887Z"
+   "last_checked_at": "2026-11-15T14:40:35.233Z"
   },
   {
    "id": "7937cd7a-e533-417f-bbc6-9aca74ad3026",
@@ -1373,7 +1421,7 @@
    "apply_url": "https://jobs.ashbyhq.com/kantiv/3babc809-c055-497d-b9c4-8cd4ebe58777/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-22T22:59:43.503Z",
-   "last_checked_at": "2026-11-14T11:25:39.793Z"
+   "last_checked_at": "2026-11-15T23:27:21.627Z"
   },
   {
    "id": "537092c2-7f5e-4772-9b9c-8c3e8f116a62",
@@ -1388,7 +1436,7 @@
    "apply_url": "https://jobs.ashbyhq.com/Redis/551b3656-59af-4ee5-b511-c0fc01fdf524/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:43:50.189Z",
-   "last_checked_at": "2026-11-14T05:36:15.452Z"
+   "last_checked_at": "2026-11-15T17:37:38.978Z"
   },
   {
    "id": "42d10b10-1be0-4998-9f5b-5afb4c3cf938",
@@ -1442,7 +1490,7 @@
    "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6230823004&gh_jid=6230823004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-21T13:30:36.672Z",
-   "last_checked_at": "2026-11-14T01:55:43.997Z"
+   "last_checked_at": "2026-11-15T13:58:14.558Z"
   },
   {
    "id": "2b0cbe87-9bf0-4b75-bded-9df40925287c",
@@ -1460,7 +1508,7 @@
    "apply_url": "https://boards.greenhouse.io/supplyhouse/jobs/6208712004?gh_jid=6208712004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-22T07:11:17.908Z",
-   "last_checked_at": "2026-11-14T19:39:37.001Z"
+   "last_checked_at": "2026-11-16T07:42:15.242Z"
   },
   {
    "id": "5bfc2fb7-cfbd-40d9-980c-8a24ec8094e6",
@@ -1478,7 +1526,7 @@
    "apply_url": "https://jobs.ashbyhq.com/retell-ai/358f4a48-14ad-4c58-b051-2b48a0159e47/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-21T04:56:21.966Z",
-   "last_checked_at": "2026-11-14T06:02:31.802Z"
+   "last_checked_at": "2026-11-15T18:03:46.541Z"
   },
   {
    "id": "383e12d2-8f7c-4d40-8333-1c13aa7ffe1a",
@@ -1775,7 +1823,7 @@
    "apply_url": "https://jobs.ashbyhq.com/amperos/0e932318-d07a-4011-9af1-be38989c90df/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-16T23:37:51.470Z",
-   "last_checked_at": "2026-11-14T12:11:54.987Z"
+   "last_checked_at": "2026-11-16T00:12:43.387Z"
   },
   {
    "id": "4c186e11-5027-4cef-9c71-7b227eab156b",
@@ -1808,7 +1856,7 @@
    "apply_url": "https://jobs.ashbyhq.com/junipersquare/a51d94b4-bda5-4cfd-83b2-b7c718756f9c/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-16T22:23:25.015Z",
-   "last_checked_at": "2026-11-13T23:24:48.321Z"
+   "last_checked_at": "2026-11-15T11:26:41.868Z"
   },
   {
    "id": "930eff67-e71f-4439-b85e-ba8aba335a01",
@@ -1823,7 +1871,7 @@
    "apply_url": "https://jobs.ashbyhq.com/junipersquare/dad14b12-09a1-476b-82ba-647167a47a88/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-16T22:23:25.015Z",
-   "last_checked_at": "2026-11-13T23:24:48.321Z"
+   "last_checked_at": "2026-11-15T11:26:41.868Z"
   },
   {
    "id": "13fd09e8-99c2-40ce-8ea2-38173f93420e",
@@ -1838,7 +1886,7 @@
    "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6226352004&gh_jid=6226352004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-16T13:27:21.957Z",
-   "last_checked_at": "2026-11-14T01:55:43.997Z"
+   "last_checked_at": "2026-11-15T13:58:14.558Z"
   },
   {
    "id": "fa62a46d-7379-43e2-95a5-c5c90f2fe63d",
@@ -1853,7 +1901,7 @@
    "apply_url": "https://jobs.ashbyhq.com/clickhouse/87d3538a-99db-4751-b220-a2474dec514b/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-16T01:55:50.192Z",
-   "last_checked_at": "2026-11-14T02:38:48.887Z"
+   "last_checked_at": "2026-11-15T14:40:35.233Z"
   },
   {
    "id": "acf0d6b9-42e0-466d-9e83-a6db6459d6a9",
@@ -1916,7 +1964,7 @@
    "apply_url": "https://jobs.ashbyhq.com/junipersquare/94b04280-efbd-4307-bf14-39d936059d81/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-14T22:21:59.366Z",
-   "last_checked_at": "2026-11-13T23:24:48.321Z"
+   "last_checked_at": "2026-11-15T11:26:41.868Z"
   },
   {
    "id": "5460d10a-a60e-4f69-8f9c-d5ab1dc3319d",
@@ -1964,7 +2012,7 @@
    "apply_url": "https://jobs.ashbyhq.com/amperos/ff6ac54a-1cdd-4800-858d-c291699c1a13/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-12T02:16:48.118Z",
-   "last_checked_at": "2026-11-14T12:11:54.987Z"
+   "last_checked_at": "2026-11-16T00:12:43.387Z"
   },
   {
    "id": "91f1cab8-5b47-4e82-801b-28e7c2b9a302",
@@ -1979,7 +2027,7 @@
    "apply_url": "https://jobs.ashbyhq.com/kantiv/0ffc1a6a-253b-4c57-b20d-62cd671baeed/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-10T06:04:15.846Z",
-   "last_checked_at": "2026-11-13T23:24:48.065Z"
+   "last_checked_at": "2026-11-15T11:26:41.650Z"
   },
   {
    "id": "3322ab6e-f5c9-4a42-a545-754ce86c9ce2",
@@ -1997,7 +2045,7 @@
    "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8881638002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:47:54.597Z",
-   "last_checked_at": "2026-11-13T23:24:55.746Z"
+   "last_checked_at": "2026-11-15T11:26:42.324Z"
   },
   {
    "id": "b23193d9-79af-49c1-8c77-7c460ce5da8f",
@@ -2015,7 +2063,7 @@
    "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8821396002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:59:31.383Z",
-   "last_checked_at": "2026-11-14T04:23:34.325Z"
+   "last_checked_at": "2026-11-15T16:25:06.923Z"
   },
   {
    "id": "bca7a507-1d33-403f-bcf7-69e7817ffec8",
@@ -2033,7 +2081,7 @@
    "apply_url": "https://jobs.ashbyhq.com/Redis/80ff1298-ad88-4d77-95ca-b597f0d18e2b/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:43:50.189Z",
-   "last_checked_at": "2026-11-14T05:36:15.452Z"
+   "last_checked_at": "2026-11-15T17:37:38.978Z"
   },
   {
    "id": "c2f8ad03-6ccb-44e8-a740-0d59441a2997",
@@ -2084,7 +2132,7 @@
    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-08T15:39:10.816Z",
-   "last_checked_at": "2026-11-14T07:40:27.105Z"
+   "last_checked_at": "2026-11-15T19:41:19.307Z"
   },
   {
    "id": "63120e45-1235-43bd-bd65-3c2914fd8058",
@@ -2135,7 +2183,7 @@
    "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5258577007",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T11:46:33.932Z",
-   "last_checked_at": "2026-11-13T22:06:53.731Z"
+   "last_checked_at": "2026-11-15T10:08:48.936Z"
   },
   {
    "id": "b5069de5-b2df-4e77-bb36-4d469933d7e9",
@@ -2189,7 +2237,7 @@
    "apply_url": "https://jobs.ashbyhq.com/clickhouse/8d7ef0a5-5a0a-4598-b39d-c4c0ac011547/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-16T01:55:50.192Z",
-   "last_checked_at": "2026-11-14T02:38:48.887Z"
+   "last_checked_at": "2026-11-15T14:40:35.233Z"
   },
   {
    "id": "551cbaab-d222-4e6f-b513-476a34c0d025",
@@ -2204,7 +2252,7 @@
    "apply_url": "https://jobs.ashbyhq.com/clickhouse/6c74387f-2330-4005-b711-f622925bc1f2/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:58:25.691Z",
-   "last_checked_at": "2026-11-14T02:38:48.887Z"
+   "last_checked_at": "2026-11-15T14:40:35.233Z"
   },
   {
    "id": "8c43abe5-66d3-436d-993e-7457cbb27df0",
@@ -2294,7 +2342,7 @@
    "apply_url": "https://jobs.ashbyhq.com/sofarocean/222b9352-a88b-4863-b420-b93d778b6784/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-10T06:08:28.019Z",
-   "last_checked_at": "2026-11-13T23:00:14.575Z"
+   "last_checked_at": "2026-11-15T11:01:21.978Z"
   },
   {
    "id": "b9579f6d-b6d7-4ffa-af93-899ecd04599f",
@@ -2342,7 +2390,7 @@
    "apply_url": "https://job-boards.greenhouse.io/epickids/jobs/8013195003",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T06:11:48.928Z",
-   "last_checked_at": "2026-11-14T00:19:14.132Z"
+   "last_checked_at": "2026-11-15T12:24:45.631Z"
   },
   {
    "id": "44abca69-74d6-4983-918f-ef2d27b06fc3",
@@ -2552,7 +2600,7 @@
    "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6211750004&gh_jid=6211750004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T06:12:55.376Z",
-   "last_checked_at": "2026-11-14T01:55:43.997Z"
+   "last_checked_at": "2026-11-15T13:58:14.558Z"
   },
   {
    "id": "034f36a5-5351-4f35-91d1-d68ba620dcf5",
@@ -2615,7 +2663,7 @@
    "apply_url": "https://jobs.ashbyhq.com/amperos/3616920f-16ca-4d1b-b91c-3c99ce777447/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T03:29:07.870Z",
-   "last_checked_at": "2026-11-14T12:11:54.987Z"
+   "last_checked_at": "2026-11-16T00:12:43.387Z"
   },
   {
    "id": "b839b409-c23b-4a61-b8fa-a315edae9d85",
@@ -2822,7 +2870,7 @@
    "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4716229006?gh_jid=4716229006",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T06:10:43.316Z",
-   "last_checked_at": "2026-11-13T23:02:16.609Z"
+   "last_checked_at": "2026-11-15T11:03:25.063Z"
   },
   {
    "id": "0e138c76-b532-45a2-afe0-f0d8501977aa",
@@ -2840,7 +2888,7 @@
    "apply_url": "https://jobs.ashbyhq.com/tilthq/417091ec-ec3d-48e5-887a-ecd531a92641/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-10T06:05:07.346Z",
-   "last_checked_at": "2026-11-13T23:46:04.268Z"
+   "last_checked_at": "2026-11-15T11:47:58.002Z"
   },
   {
    "id": "f3240cef-97f7-46f9-9a7e-df3a879b5443",
@@ -2858,7 +2906,7 @@
    "apply_url": "https://jobs.ashbyhq.com/tilthq/b45f4a2d-78eb-482a-bd5b-119c80599350/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-10T06:05:07.346Z",
-   "last_checked_at": "2026-11-13T23:46:04.268Z"
+   "last_checked_at": "2026-11-15T11:47:58.002Z"
   },
   {
    "id": "a49cc1bd-0595-45b2-8dbc-c64f0350d110",
@@ -2876,7 +2924,7 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4982533101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T17:59:12.861Z",
-   "last_checked_at": "2026-11-13T23:22:34.397Z"
+   "last_checked_at": "2026-11-15T11:24:40.228Z"
   },
   {
    "id": "8e0db8c9-862e-485b-9b8f-422aec528835",
@@ -2891,7 +2939,7 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4983354101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T17:59:12.861Z",
-   "last_checked_at": "2026-11-13T23:22:34.397Z"
+   "last_checked_at": "2026-11-15T11:24:40.228Z"
   },
   {
    "id": "065aa74c-d024-4ef9-9d65-4ef4526dbef1",
@@ -2909,7 +2957,7 @@
    "apply_url": "https://job-boards.greenhouse.io/minio/jobs/5430321008",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-11-11T23:27:21.831Z",
-   "last_checked_at": "2026-11-14T11:30:55.281Z"
+   "last_checked_at": "2026-11-15T23:32:23.546Z"
   },
   {
    "id": "cd21f3d7-c007-47ac-8f3d-992d88fa97b9",
@@ -2924,7 +2972,7 @@
    "apply_url": "https://jobs.ashbyhq.com/Redis/f2098a68-9a93-4f41-8f3c-cabfcaebb2ee/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:43:50.189Z",
-   "last_checked_at": "2026-11-14T05:36:15.452Z"
+   "last_checked_at": "2026-11-15T17:37:38.978Z"
   },
   {
    "id": "83766b9e-dde0-4cff-bd7c-1c9df484c1c2",
@@ -2954,7 +3002,7 @@
    "apply_url": "https://www.wiz.io/careers/job/4714932006/:title?gh_jid=4714932006",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-11T12:13:04.826Z",
-   "last_checked_at": "2026-11-14T01:10:30.391Z"
+   "last_checked_at": "2026-11-15T13:17:59.426Z"
   },
   {
    "id": "f84bdcbf-8a26-4780-951d-651a2f6e0680",
@@ -3020,7 +3068,7 @@
    "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6115241004&gh_jid=6115241004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T06:12:55.376Z",
-   "last_checked_at": "2026-11-14T01:55:43.997Z"
+   "last_checked_at": "2026-11-15T13:58:14.558Z"
   },
   {
    "id": "7c5e4080-d5ef-4906-806c-552165b15b6f",
@@ -3098,7 +3146,7 @@
    "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8813482002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:47:54.597Z",
-   "last_checked_at": "2026-11-13T23:24:55.746Z"
+   "last_checked_at": "2026-11-15T11:26:42.324Z"
   },
   {
    "id": "fe7bc4d7-43cf-4326-9cf4-2c2d441245e3",
@@ -3113,7 +3161,7 @@
    "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8813112002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:59:31.383Z",
-   "last_checked_at": "2026-11-14T04:23:34.325Z"
+   "last_checked_at": "2026-11-15T16:25:06.923Z"
   },
   {
    "id": "3e3ee7a0-69f0-4bcd-a1d6-9d34aa077dcd",
@@ -3239,7 +3287,7 @@
    "apply_url": "https://jobs.ashbyhq.com/Cyberhaven/1f97d6f7-72b6-4665-a0d4-c8349de5bf0c/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T02:53:33.367Z",
-   "last_checked_at": "2026-11-13T22:14:55.476Z"
+   "last_checked_at": "2026-11-15T10:17:04.937Z"
   },
   {
    "id": "22453ba3-b3e7-4515-bfb0-56cf1b7c8809",
@@ -3254,7 +3302,7 @@
    "apply_url": "https://jobs.ashbyhq.com/gratia/2bfa0434-6f85-4bf2-a25d-6b8d88d15d62/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:57:24.337Z",
-   "last_checked_at": "2026-11-14T00:56:05.356Z"
+   "last_checked_at": "2026-11-15T13:05:51.663Z"
   },
   {
    "id": "cbb8b9db-5c5d-4b77-b583-6b9fac9bdf8b",
@@ -3284,7 +3332,7 @@
    "apply_url": "https://www.newrocket.com/careers/job?gh_jid=6194308004&gh_jid=6194308004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T06:12:55.376Z",
-   "last_checked_at": "2026-11-14T01:55:43.997Z"
+   "last_checked_at": "2026-11-15T13:58:14.558Z"
   },
   {
    "id": "604bced3-ca30-4d7c-989f-4cca64602ff9",
@@ -3299,7 +3347,7 @@
    "apply_url": "https://job-boards.greenhouse.io/sonicwall/jobs/8184840",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T18:02:06.742Z",
-   "last_checked_at": "2026-11-14T00:39:55.471Z"
+   "last_checked_at": "2026-11-15T12:56:48.599Z"
   },
   {
    "id": "fdbf7f0b-5dd2-4e26-aa81-79d3b2896dc7",
@@ -3314,7 +3362,7 @@
    "apply_url": "https://job-boards.greenhouse.io/sonicwall/jobs/8204023",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T18:02:06.742Z",
-   "last_checked_at": "2026-11-14T00:39:55.471Z"
+   "last_checked_at": "2026-11-15T12:56:48.599Z"
   },
   {
    "id": "ebb445d2-0259-43a1-bba2-8780a7a6a12c",
@@ -3332,7 +3380,7 @@
    "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8805562002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:47:54.597Z",
-   "last_checked_at": "2026-11-13T23:24:55.746Z"
+   "last_checked_at": "2026-11-15T11:26:42.324Z"
   },
   {
    "id": "c73bcdcd-ab66-43b6-b232-1656196a6c9f",
@@ -3350,7 +3398,7 @@
    "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8782988002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:59:31.383Z",
-   "last_checked_at": "2026-11-14T04:23:34.325Z"
+   "last_checked_at": "2026-11-15T16:25:06.923Z"
   },
   {
    "id": "2ea73700-8ae8-43e7-8ee2-230b96f6b0ff",
@@ -3476,7 +3524,7 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4958941101",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T17:59:12.861Z",
-   "last_checked_at": "2026-11-13T23:22:34.397Z"
+   "last_checked_at": "2026-11-15T11:24:40.228Z"
   },
   {
    "id": "7bf4d1ad-7bcb-4097-8cbb-3e9c38aaa575",
@@ -3491,7 +3539,7 @@
    "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8184616",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-11T07:49:35.938Z",
-   "last_checked_at": "2026-11-13T23:26:49.608Z"
+   "last_checked_at": "2026-11-15T11:28:42.568Z"
   },
   {
    "id": "9e019110-781e-418d-b18b-be48ba61995c",
@@ -3539,7 +3587,7 @@
    "apply_url": "https://jobs.lever.co/gohighlevel/4313ec17-52ae-46a7-8cad-ff9c53c7e826/apply",
    "source_ats": "lever",
    "first_seen_at": "2026-10-04T20:53:50.443Z",
-   "last_checked_at": "2026-11-14T07:37:21.026Z"
+   "last_checked_at": "2026-11-15T19:39:21.031Z"
   },
   {
    "id": "4aaf38bb-9f35-4ff8-838c-23ec5d3593ec",
@@ -3557,7 +3605,7 @@
    "apply_url": "https://jobs.ashbyhq.com/clickhouse/c832d609-ec6c-4f0f-8808-269e804846b6/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:58:25.691Z",
-   "last_checked_at": "2026-11-14T02:38:48.887Z"
+   "last_checked_at": "2026-11-15T14:40:35.233Z"
   },
   {
    "id": "98b48cf8-11a6-43ee-b127-69a73ba3fa5c",
@@ -3602,7 +3650,7 @@
    "apply_url": "https://jobs.ashbyhq.com/kong/b435e044-45ab-4395-a681-24131c63ca0e/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-04T20:52:56.338Z",
-   "last_checked_at": "2026-11-14T00:39:57.552Z"
+   "last_checked_at": "2026-11-15T12:57:49.349Z"
   },
   {
    "id": "0a54f9f7-8bdb-439c-b381-6c8b58e196c7",
@@ -3620,7 +3668,7 @@
    "apply_url": "https://jobs.ashbyhq.com/clickhouse/f038a7b6-2329-4d27-aeca-7c93fdb043c8/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:58:25.691Z",
-   "last_checked_at": "2026-11-14T02:38:48.887Z"
+   "last_checked_at": "2026-11-15T14:40:35.233Z"
   },
   {
    "id": "aa60f68e-5c43-4cdf-9d73-680e9e2b01cf",
@@ -3656,7 +3704,7 @@
    "apply_url": "https://jobs.ashbyhq.com/kantiv/4dc19ed0-bc80-4553-93d8-0fd206f7c281/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-10T06:04:15.846Z",
-   "last_checked_at": "2026-11-13T23:24:48.065Z"
+   "last_checked_at": "2026-11-15T11:26:41.650Z"
   },
   {
    "id": "b4eb1f28-8454-4b0b-a884-5bc2f9d773ae",
@@ -3689,7 +3737,7 @@
    "apply_url": "https://job-boards.greenhouse.io/freshprints/jobs/6166509004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-11T08:03:45.285Z",
-   "last_checked_at": "2026-11-14T02:38:46.528Z"
+   "last_checked_at": "2026-11-15T14:40:35.103Z"
   },
   {
    "id": "5418e071-3e5b-458d-a8d5-e857a1a588ce",
@@ -3755,7 +3803,7 @@
    "apply_url": "https://job-boards.greenhouse.io/devrev/jobs/6139491004",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:59:32.561Z",
-   "last_checked_at": "2026-11-13T22:57:13.154Z"
+   "last_checked_at": "2026-11-15T10:58:17.620Z"
   },
   {
    "id": "b82d8926-ec1d-4b9c-8386-6438b32dcced",
@@ -3800,7 +3848,7 @@
    "apply_url": "https://job-boards.greenhouse.io/minio/jobs/5380066008",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T06:11:47.626Z",
-   "last_checked_at": "2026-11-14T11:30:55.281Z"
+   "last_checked_at": "2026-11-15T23:32:23.546Z"
   },
   {
    "id": "90eabeae-079a-44d0-b182-6d8e3c5dc491",
@@ -3833,7 +3881,7 @@
    "apply_url": "https://jobs.ashbyhq.com/imagineart/8c508ce3-ef15-473e-8a55-42e2f23432d7/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T08:00:52.939Z",
-   "last_checked_at": "2026-11-14T03:36:49.471Z"
+   "last_checked_at": "2026-11-15T15:38:09.788Z"
   },
   {
    "id": "4d2c2670-16d8-48fb-bb25-a7437fd7f0f4",
@@ -3884,7 +3932,7 @@
    "apply_url": "https://job-boards.greenhouse.io/epickids/jobs/7866414003",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T06:11:48.928Z",
-   "last_checked_at": "2026-11-14T00:19:14.132Z"
+   "last_checked_at": "2026-11-15T12:24:45.631Z"
   },
   {
    "id": "79d49674-dfe6-4b70-b300-62388edc21e5",
@@ -4130,7 +4178,7 @@
    "apply_url": "https://jobs.ashbyhq.com/clickhouse/68a6a77c-f289-474f-987c-42bea4faca40/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:58:25.691Z",
-   "last_checked_at": "2026-11-14T02:38:48.887Z"
+   "last_checked_at": "2026-11-15T14:40:35.233Z"
   },
   {
    "id": "ac1222f5-65d0-43e3-943c-954f34e90c76",
@@ -4193,7 +4241,7 @@
    "apply_url": "https://jobs.ashbyhq.com/neara/6f78f6e6-203f-4f8f-99c6-05ba9d22d458/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:54:15.025Z",
-   "last_checked_at": "2026-11-14T09:19:13.436Z"
+   "last_checked_at": "2026-11-15T21:21:00.592Z"
   },
   {
    "id": "8f0df670-6d06-4593-a1f3-6425a384f980",
@@ -4226,7 +4274,7 @@
    "apply_url": "https://jobs.ashbyhq.com/outmarket/d9eab5ed-5911-4c3a-abcf-1a224fdb703d/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
+   "last_checked_at": "2026-11-15T11:29:42.684Z"
   },
   {
    "id": "7e76abf0-de40-4cd3-b2d5-d761b871ed7c",
@@ -4241,7 +4289,7 @@
    "apply_url": "https://job-boards.greenhouse.io/minio/jobs/5371697008",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T06:11:47.626Z",
-   "last_checked_at": "2026-11-14T11:30:55.281Z"
+   "last_checked_at": "2026-11-15T23:32:23.546Z"
   },
   {
    "id": "794a9137-246a-423e-a7aa-bce28955c9a9",
@@ -4295,7 +4343,7 @@
    "apply_url": "https://jobs.ashbyhq.com/litellm/41941f09-c92e-4305-9c2e-afcd660cdedf/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T08:04:41.180Z",
-   "last_checked_at": "2026-11-14T03:34:45.605Z"
+   "last_checked_at": "2026-11-15T15:36:06.497Z"
   },
   {
    "id": "308f8094-529c-4903-8f3f-1af91f96a649",
@@ -4331,7 +4379,7 @@
    "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8644283002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:47:54.597Z",
-   "last_checked_at": "2026-11-13T23:24:55.746Z"
+   "last_checked_at": "2026-11-15T11:26:42.324Z"
   },
   {
    "id": "116d0a3a-9204-4ac9-a767-a06f5a41d069",
@@ -4349,7 +4397,7 @@
    "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8625330002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:59:31.383Z",
-   "last_checked_at": "2026-11-14T04:23:34.325Z"
+   "last_checked_at": "2026-11-15T16:25:06.923Z"
   },
   {
    "id": "355ff750-4bce-4d3e-8ee0-3dd121547fc9",
@@ -4364,7 +4412,7 @@
    "apply_url": "https://jobs.ashbyhq.com/amperos/3d07be61-37f7-4523-9358-3bafe414c3cd/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T03:29:07.870Z",
-   "last_checked_at": "2026-11-14T12:11:54.987Z"
+   "last_checked_at": "2026-11-16T00:12:43.387Z"
   },
   {
    "id": "1d83e614-6e6b-4990-97b8-5accba206006",
@@ -4430,7 +4478,7 @@
    "apply_url": "https://job-boards.greenhouse.io/alphasense/jobs/8626122002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:47:54.597Z",
-   "last_checked_at": "2026-11-13T23:24:55.746Z"
+   "last_checked_at": "2026-11-15T11:26:42.324Z"
   },
   {
    "id": "01cd5551-96e3-447a-9aba-83d568c50153",
@@ -4445,7 +4493,7 @@
    "apply_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8623141002",
    "source_ats": "greenhouse",
    "first_seen_at": "2026-10-10T05:59:31.383Z",
-   "last_checked_at": "2026-11-14T04:23:34.325Z"
+   "last_checked_at": "2026-11-15T16:25:06.923Z"
   },
   {
    "id": "e76cc99f-d151-4ac4-bb76-702006cbfa6e",
@@ -4526,7 +4574,7 @@
    "apply_url": "https://jobs.ashbyhq.com/litellm/e103c38c-60e3-4b8c-b391-cf7c20a20080/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T08:04:41.180Z",
-   "last_checked_at": "2026-11-14T03:34:45.605Z"
+   "last_checked_at": "2026-11-15T15:36:06.497Z"
   },
   {
    "id": "c10f03a0-f3ec-4913-af72-659db07a20f0",
@@ -4679,7 +4727,7 @@
    "apply_url": "https://jobs.ashbyhq.com/clickhouse/f0495f4d-fcc2-4a55-b9d5-5e7dbf20df1d/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T07:58:25.691Z",
-   "last_checked_at": "2026-11-14T02:38:48.887Z"
+   "last_checked_at": "2026-11-15T14:40:35.233Z"
   },
   {
    "id": "f55cc77d-504b-45e9-a828-8175cffe3962",
@@ -4763,7 +4811,7 @@
    "apply_url": "https://jobs.ashbyhq.com/outmarket/527e02fd-d54a-4440-9b6c-924e679dd825/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
+   "last_checked_at": "2026-11-15T11:29:42.684Z"
   },
   {
    "id": "3cd8b8ba-37af-4cf2-abd2-d16c600c171d",
@@ -4781,7 +4829,7 @@
    "apply_url": "https://jobs.ashbyhq.com/outmarket/ab2be675-76ac-44b3-98ed-d59f5285b4f9/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
+   "last_checked_at": "2026-11-15T11:29:42.684Z"
   },
   {
    "id": "d743ddb6-cafc-4fad-a1cd-30d12ca723bf",
@@ -4799,7 +4847,7 @@
    "apply_url": "https://jobs.ashbyhq.com/outmarket/bba04db6-c2da-4abc-92e6-af14ee02a3b5/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
+   "last_checked_at": "2026-11-15T11:29:42.684Z"
   },
   {
    "id": "421c510c-6122-485a-8d69-d82d52064a74",
@@ -4817,7 +4865,7 @@
    "apply_url": "https://jobs.ashbyhq.com/outmarket/f1ad2211-ad8e-4c7d-8fd3-350904f24e2c/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
+   "last_checked_at": "2026-11-15T11:29:42.684Z"
   },
   {
    "id": "aacf200a-e86c-4c54-ac4f-72064fd34216",
@@ -4835,7 +4883,7 @@
    "apply_url": "https://jobs.ashbyhq.com/outmarket/736024c0-15b1-4c75-82fd-7e1798f6ab79/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
+   "last_checked_at": "2026-11-15T11:29:42.684Z"
   },
   {
    "id": "f8f0aa94-5377-4116-b45a-abb3cbc148fc",
@@ -4853,7 +4901,7 @@
    "apply_url": "https://jobs.ashbyhq.com/outmarket/10a2487a-1594-4400-8404-9ad2e96eb253/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
+   "last_checked_at": "2026-11-15T11:29:42.684Z"
   },
   {
    "id": "cb95a7f6-fa2d-44c8-b37e-b5eb6b85ba2b",
@@ -4871,7 +4919,7 @@
    "apply_url": "https://jobs.ashbyhq.com/outmarket/6f90773b-8993-4387-8481-99cd959e3f06/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
+   "last_checked_at": "2026-11-15T11:29:42.684Z"
   },
   {
    "id": "03e0a74e-d73d-4c94-89aa-b336949363bb",
@@ -4889,61 +4937,7 @@
    "apply_url": "https://jobs.ashbyhq.com/outmarket/80670027-3c1e-478c-ab2c-590be7194330/application",
    "source_ats": "ashby",
    "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
-  },
-  {
-   "id": "cbca38d2-b9e4-4a22-957e-2f3bb0922e38",
-   "title": "Full Stack AI Engineer",
-   "company": "Outmarket",
-   "location": "Remote US",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": {
-    "slug": "machine-learning-engineer",
-    "label": "Machine learning engineer"
-   },
-   "posted_date": "2026-06-19",
-   "roliva_url": "https://rolivajobs.com/jobs/full-stack-ai-engineer-outmarket-cbca38d2-b9e4-4a22-957e-2f3bb0922e38",
-   "apply_url": "https://jobs.ashbyhq.com/outmarket/716e3319-1d72-4f8d-b5d9-efb9de1cf72f/application",
-   "source_ats": "ashby",
-   "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
-  },
-  {
-   "id": "00fbd5a6-2c66-430e-bdaa-054dd7aa24d8",
-   "title": "Product Lead - Data",
-   "company": "Outmarket",
-   "location": "Remote US",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": {
-    "slug": "product-manager",
-    "label": "Product manager"
-   },
-   "posted_date": "2026-06-19",
-   "roliva_url": "https://rolivajobs.com/jobs/product-lead-data-outmarket-00fbd5a6-2c66-430e-bdaa-054dd7aa24d8",
-   "apply_url": "https://jobs.ashbyhq.com/outmarket/ce3090da-5873-4284-98a4-8da5a63aa166/application",
-   "source_ats": "ashby",
-   "first_seen_at": "2026-10-11T16:12:47.369Z",
-   "last_checked_at": "2026-11-13T23:27:52.682Z"
-  },
-  {
-   "id": "b6b66de4-8097-43a4-ae2f-c068868cbb85",
-   "title": "Staff AI Business Process Analyst, Go To Market (GTM)",
-   "company": "Zscaler",
-   "location": "Remote - India",
-   "eligibility": "india",
-   "eligibility_text": "India named by the employer",
-   "role": {
-    "slug": "business-analyst",
-    "label": "Business analyst"
-   },
-   "posted_date": "2026-06-19",
-   "roliva_url": "https://rolivajobs.com/jobs/staff-ai-business-process-analyst-go-to-market-gtm-zscaler-b6b66de4-8097-43a4-ae2f-c068868cbb85",
-   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5167455007",
-   "source_ats": "greenhouse",
-   "first_seen_at": "2026-10-10T11:46:33.932Z",
-   "last_checked_at": "2026-11-13T22:06:53.731Z"
+   "last_checked_at": "2026-11-15T11:29:42.684Z"
   }
  ]
 }
