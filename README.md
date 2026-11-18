@@ -2,7 +2,7 @@
 
 A daily-updated list of **remote roles whose own listing says they are open to candidates in India**, in an Indian region, across APAC, or worldwide. Every role was confirmed open on the employer’s own hiring system within the last 72 hours.
 
-**Last updated:** 2026-11-17 09:35 UTC · **Roles:** 300
+**Last updated:** 2026-11-18 10:20 UTC · **Roles:** 300
 
 > **Read the full listing before you apply.** The employer, not this list, decides who is eligible.
 > Never pay anyone to apply for a job.
@@ -26,10 +26,11 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 
 ## Roles
 
-### Software engineer (60)
+### Software engineer (62)
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
+| Vultr | DevOps Engineer, Developer Relations | Remote - India | India | 2026-11-17 | [Details](https://rolivajobs.com/jobs/devops-engineer-developer-relations-vultr-6cff3b31-357b-4639-8b6c-203c4db9cdaf?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/Vultr/ce91a915-c2fc-432e-918e-cefae90a017e/application) |
 | Point Wild | DevOps Engineer | Remote India | India | 2026-11-16 | [Details](https://rolivajobs.com/jobs/devops-engineer-point-wild-aaea74d2-eb08-41c2-b8c8-c22f398df946?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/pointwild/jobs/5474748008) |
 | Weave | Senior Software Mobile Engineer | India | India | 2026-11-16 | [Details](https://rolivajobs.com/jobs/senior-software-mobile-engineer-weave-794cb07a-3ad4-4eed-9d99-d3ddd9752318?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/weave/98c78234-8904-4aa5-9197-b48397688a22/application) |
 | Symmetry | Senior Full Stack Engineer | India (Remote) | India | 2026-11-13 | [Details](https://rolivajobs.com/jobs/senior-full-stack-engineer-symmetry-ddfbe411-21e9-4a9c-ab7c-eac586e2bc8f?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/Symmetry/0fba1d57-6c6d-49d1-a029-74b7f2532bc1/application) |
@@ -90,12 +91,12 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Outmarket | Platform Engineer | Remote US | India | 2026-06-20 | [Details](https://rolivajobs.com/jobs/platform-engineer-outmarket-3cd8b8ba-37af-4cf2-abd2-d16c600c171d?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/ab2be675-76ac-44b3-98ed-d59f5285b4f9/application) |
 | Outmarket | Senior Software Engineer | Remote US | India | 2026-06-20 | [Details](https://rolivajobs.com/jobs/senior-software-engineer-outmarket-aacf200a-e86c-4c54-ac4f-72064fd34216?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/736024c0-15b1-4c75-82fd-7e1798f6ab79/application) |
 | Outmarket | Software Engineer | Remote US | India | 2026-06-20 | [Details](https://rolivajobs.com/jobs/software-engineer-outmarket-f8f0aa94-5377-4116-b45a-abb3cbc148fc?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/10a2487a-1594-4400-8404-9ad2e96eb253/application) |
+| Outmarket | Staff Software Engineer | Remote US | India | 2026-06-20 | [Details](https://rolivajobs.com/jobs/staff-software-engineer-outmarket-cb95a7f6-fa2d-44c8-b37e-b5eb6b85ba2b?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/6f90773b-8993-4387-8481-99cd959e3f06/application) |
 
-### Product manager (16)
+### Product manager (15)
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
-| Weave | Product Manager, Analytics (Call Intelligence) | India | India | 2026-11-13 | [Details](https://rolivajobs.com/jobs/product-manager-analytics-call-intelligence-weave-aaa4641f-abd4-4c1d-83d2-f27d02aa2947?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/weave/5ec9edb5-fb5d-408c-a822-a92139dd61f8/application) |
 | HighLevel | Sr. Product Manager - Conversations | India | India | 2026-11-04 | [Details](https://rolivajobs.com/jobs/sr-product-manager-conversations-highlevel-a23a99a6-b4ce-417a-b786-d8012fca3528?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/ed7034a9-cd72-4994-b07a-04edf80bc4aa/apply) |
 | HighLevel | Sr. Product Manager - Reputation Management | India | India | 2026-10-22 | [Details](https://rolivajobs.com/jobs/sr-product-manager-reputation-management-highlevel-7937cd7a-e533-417f-bbc6-9aca74ad3026?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/de899a79-e7e0-4650-8356-08a5d95b4198/apply) |
 | HighLevel | Staff Product Manager - Email AI | India | India | 2026-10-13 | [Details](https://rolivajobs.com/jobs/staff-product-manager-email-ai-highlevel-5460d10a-a60e-4f69-8f9c-d5ab1dc3319d?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/ff1b1484-a414-4d3a-9a94-d1a542eb7c08/apply) |
@@ -112,6 +113,20 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | HighLevel | Staff Product Manager – Voice AI | India | India | 2026-06-29 | [Details](https://rolivajobs.com/jobs/staff-product-manager-voice-ai-highlevel-d8cb9553-68c6-444b-9397-d7e5f26426de?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/b3553b34-22d5-414c-81a0-ef7f2d627259/apply) |
 | Signoz | Sr Product Manager - IC | India | India | 2026-06-21 | [Details](https://rolivajobs.com/jobs/sr-product-manager-ic-signoz-c8aadde7-a3f7-4218-93d9-26a968e8f805?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/SigNoz/a41d80b2-389e-42c3-817e-feb7c3aa8fff/application) |
 
+### Machine learning engineer (9)
+
+| Company | Role | Location | Eligibility | Posted | Link |
+|---|---|---|---|---|---|
+| NewRocket | Lead AI/ML Engineer | India - Remote | India | 2026-11-02 | [Details](https://rolivajobs.com/jobs/lead-ai-ml-engineer-newrocket-f5ad00cd-3ef4-47b1-9960-c347130fd17d?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.newrocket.com/careers/job?gh_jid=6238261004&gh_jid=6238261004) |
+| Kantiv | Senior AI Engineer - Chat &amp; Agent Systems | Remote - India | India | 2026-10-30 | [Details](https://rolivajobs.com/jobs/senior-ai-engineer-chat-agent-systems-kantiv-a2bf32ce-fb9e-4677-98e4-8e35b5bdc12e?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/kantiv/09204463-408e-4673-9ce7-82c22741497d/application) |
+| Twilio | Principal, Machine Learning Engineer (L5) | Remote - India | India | 2026-10-08 | [Details](https://rolivajobs.com/jobs/principal-machine-learning-engineer-l5-twilio-cf8cf6d8-7b7c-48f5-b4eb-8ea7ae3eb9cb?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/twilio/jobs/8258597) |
+| Level Ai | Senior Machine Learning Engineer - NLP (Bengaluru/Noida) | India, Remote | India | 2026-08-12 | [Details](https://rolivajobs.com/jobs/senior-machine-learning-engineer-nlp-bengaluru-noida-level-ai-b8fdd224-0162-4644-a66a-69d72f7dc984?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/Level-AI/73fe922e-7a59-477f-b343-4c79db0c9a0c/application) |
+| Level Ai | Senior Machine Learning Engineer (Bangalore/Noida Location) | India, Remote | India | 2026-08-12 | [Details](https://rolivajobs.com/jobs/senior-machine-learning-engineer-bangalore-noida-location-level-ai-46a17707-53c5-497a-81b6-3bfb57e6428a?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/Level-AI/88ae7a53-dc09-43a4-94d8-4a9f792e5926/application) |
+| Level Ai | Sr. Machine Learning Engineer (Speech) - AI (Bangalore/Noida Locations) | India, Remote | India | 2026-08-12 | [Details](https://rolivajobs.com/jobs/sr-machine-learning-engineer-speech-ai-bangalore-noida-locations-level-40d66f91-54d1-4c0c-9953-a3fbce9c6b0a?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/Level-AI/ca929224-a050-487e-85c3-72969ad935ea/application) |
+| ‎ConnectWise | Principal Machine Learning Engineer | IND, Remote | India | 2026-07-01 | [Details](https://rolivajobs.com/jobs/principal-machine-learning-engineer-connectwise-f3eaf768-854f-48ae-b51f-110b31fd8864?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/connectwise/jobs/4707883005) |
+| Coinbase | Machine Learning Engineer | Remote - India | India | 2026-06-22 | [Details](https://rolivajobs.com/jobs/machine-learning-engineer-coinbase-f55cc77d-504b-45e9-a828-8175cffe3962?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187) |
+| Outmarket | Front End AI Engineer | Remote India | India | 2026-06-19 | [Details](https://rolivajobs.com/jobs/front-end-ai-engineer-outmarket-03e0a74e-d73d-4c94-89aa-b336949363bb?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/80670027-3c1e-478c-ab2c-590be7194330/application) |
+
 ### Engineering manager (8)
 
 | Company | Role | Location | Eligibility | Posted | Link |
@@ -125,19 +140,6 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | HighLevel | Engineering Manager II - Monetisation | India | India | 2026-08-13 | [Details](https://rolivajobs.com/jobs/engineering-manager-ii-monetisation-highlevel-a69204db-7fb9-4c9e-81a5-0fe63773c1cd?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/a67553c6-d62b-457e-bda3-e3e1779e298c/apply) |
 | HighLevel | Engineering Manager II - Whatsapp | India | India | 2026-08-13 | [Details](https://rolivajobs.com/jobs/engineering-manager-ii-whatsapp-highlevel-ffd30ddd-b7fa-4cab-a81e-3857a317e414?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/beedd6df-f9f3-4e18-9820-0e6a296487d8/apply) |
 
-### Machine learning engineer (8)
-
-| Company | Role | Location | Eligibility | Posted | Link |
-|---|---|---|---|---|---|
-| NewRocket | Lead AI/ML Engineer | India - Remote | India | 2026-11-02 | [Details](https://rolivajobs.com/jobs/lead-ai-ml-engineer-newrocket-f5ad00cd-3ef4-47b1-9960-c347130fd17d?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.newrocket.com/careers/job?gh_jid=6238261004&gh_jid=6238261004) |
-| Kantiv | Senior AI Engineer - Chat &amp; Agent Systems | Remote - India | India | 2026-10-30 | [Details](https://rolivajobs.com/jobs/senior-ai-engineer-chat-agent-systems-kantiv-a2bf32ce-fb9e-4677-98e4-8e35b5bdc12e?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/kantiv/09204463-408e-4673-9ce7-82c22741497d/application) |
-| Twilio | Principal, Machine Learning Engineer (L5) | Remote - India | India | 2026-10-08 | [Details](https://rolivajobs.com/jobs/principal-machine-learning-engineer-l5-twilio-cf8cf6d8-7b7c-48f5-b4eb-8ea7ae3eb9cb?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/twilio/jobs/8258597) |
-| Level Ai | Senior Machine Learning Engineer - NLP (Bengaluru/Noida) | India, Remote | India | 2026-08-12 | [Details](https://rolivajobs.com/jobs/senior-machine-learning-engineer-nlp-bengaluru-noida-level-ai-b8fdd224-0162-4644-a66a-69d72f7dc984?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/Level-AI/73fe922e-7a59-477f-b343-4c79db0c9a0c/application) |
-| Level Ai | Senior Machine Learning Engineer (Bangalore/Noida Location) | India, Remote | India | 2026-08-12 | [Details](https://rolivajobs.com/jobs/senior-machine-learning-engineer-bangalore-noida-location-level-ai-46a17707-53c5-497a-81b6-3bfb57e6428a?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/Level-AI/88ae7a53-dc09-43a4-94d8-4a9f792e5926/application) |
-| Level Ai | Sr. Machine Learning Engineer (Speech) - AI (Bangalore/Noida Locations) | India, Remote | India | 2026-08-12 | [Details](https://rolivajobs.com/jobs/sr-machine-learning-engineer-speech-ai-bangalore-noida-locations-level-40d66f91-54d1-4c0c-9953-a3fbce9c6b0a?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/Level-AI/ca929224-a050-487e-85c3-72969ad935ea/application) |
-| ‎ConnectWise | Principal Machine Learning Engineer | IND, Remote | India | 2026-07-01 | [Details](https://rolivajobs.com/jobs/principal-machine-learning-engineer-connectwise-f3eaf768-854f-48ae-b51f-110b31fd8864?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/connectwise/jobs/4707883005) |
-| Coinbase | Machine Learning Engineer | Remote - India | India | 2026-06-22 | [Details](https://rolivajobs.com/jobs/machine-learning-engineer-coinbase-f55cc77d-504b-45e9-a828-8175cffe3962?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187) |
-
 ### QA and test engineer (8)
 
 | Company | Role | Location | Eligibility | Posted | Link |
@@ -149,7 +151,7 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | HighLevel | Senior SDET Manager | India | India | 2026-10-23 | [Details](https://rolivajobs.com/jobs/senior-sdet-manager-highlevel-18f7883e-52b1-473d-a69d-aef9d0e4779d?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/c7972450-4798-49a4-8389-cf74d5b7d7a5/apply) |
 | HighLevel | SDET Manager II | India | India | 2026-10-01 | [Details](https://rolivajobs.com/jobs/sdet-manager-ii-highlevel-38b06c7a-8bd4-4e88-9588-5d99f9f4c733?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/7d30dacd-ee0e-4a40-a7ab-d13c737566ee/apply) |
 | Valtech | QA Lead Engineer | India - Remote | India | 2026-09-24 | [Details](https://rolivajobs.com/jobs/qa-lead-engineer-valtech-a49cc1bd-0595-45b2-8dbc-c64f0350d110?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4982533101) |
-| HighLevel | Director, SDET | India | India | 2026-08-13 | [Details](https://rolivajobs.com/jobs/director-sdet-highlevel-79d49674-dfe6-4b70-b300-62388edc21e5?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/1690c983-943c-4eb9-b9dc-0fef04118442/apply) |
+| HighLevel | Sr. SDET Manager - Email Systems | India | India | 2026-08-13 | [Details](https://rolivajobs.com/jobs/sr-sdet-manager-email-systems-highlevel-79d49674-dfe6-4b70-b300-62388edc21e5?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/1690c983-943c-4eb9-b9dc-0fef04118442/apply) |
 
 ### Customer support (7)
 
@@ -208,7 +210,7 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
-| Weave | Senior Product Designer | India | India | 2026-11-16 | [Details](https://rolivajobs.com/jobs/senior-product-designer-weave-977ed7b6-a683-4bad-85e9-d68a3388187d?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/weave/52f2f7e3-d7d1-4fee-bff4-42aac1545b10/application) |
+| Weave | Senior Product Designer | India | India | 2026-11-18 | [Details](https://rolivajobs.com/jobs/senior-product-designer-weave-977ed7b6-a683-4bad-85e9-d68a3388187d?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/weave/52f2f7e3-d7d1-4fee-bff4-42aac1545b10/application) |
 | HighLevel | Sr. Product Designer | India | India | 2026-10-07 | [Details](https://rolivajobs.com/jobs/sr-product-designer-highlevel-b5069de5-b2df-4e77-bb36-4d469933d7e9?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/0ef426a8-6be5-4eb2-b28c-27cc96a18bd2/apply) |
 | HighLevel | Lead Product Designer | India | India | 2026-08-17 | [Details](https://rolivajobs.com/jobs/lead-product-designer-highlevel-4d2c2670-16d8-48fb-bb25-a7437fd7f0f4?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/4eac1849-29f4-4556-95fa-db283607c936/apply) |
 | Signoz | Sr Product Designer | India | India | 2026-06-30 | [Details](https://rolivajobs.com/jobs/sr-product-designer-signoz-e25032f2-2972-44dc-9354-55ff5f07a428?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/SigNoz/ea04f41f-62c2-40a2-996f-6d7389d80124/application) |
@@ -217,7 +219,7 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
-| HighLevel | Project Manager | India | India | 2026-10-29 | [Details](https://rolivajobs.com/jobs/project-manager-highlevel-32fd5a40-92f4-4b14-b533-4369eede9b5e?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/be759a1b-2177-49dd-8040-45c3389491eb/apply) |
+| HighLevel | Sr. Project Manager | India | India | 2026-10-29 | [Details](https://rolivajobs.com/jobs/sr-project-manager-highlevel-32fd5a40-92f4-4b14-b533-4369eede9b5e?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/be759a1b-2177-49dd-8040-45c3389491eb/apply) |
 | Aptura | Project Management AI Research Contributor | Global | Worldwide | 2026-10-19 | [Details](https://rolivajobs.com/jobs/project-management-ai-research-contributor-aptura-197587af-60b5-4201-85dd-27f9db8bc11b?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/aptura/8f1a4314-7b11-4092-932c-d43144f66171/application) |
 | Turing | Strategic Project Lead - Code | India - Remote | India | 2026-08-26 | [Details](https://rolivajobs.com/jobs/strategic-project-lead-code-turing-2f97b5d9-7fe6-4174-8ad7-b4b232fc6e97?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/turing/jobs/6142224004) |
 
@@ -237,13 +239,13 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
-| Kantiv | Senior Product Marketing Manager | Remote - India | India | 2026-08-31 | [Details](https://rolivajobs.com/jobs/senior-product-marketing-manager-kantiv-cb229903-5502-4147-b05f-2a9243a67bfe?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/kantiv/4dc19ed0-bc80-4553-93d8-0fd206f7c281/application) |
+| Weave | Product Marketing Manager | India | India | 2026-11-17 | [Details](https://rolivajobs.com/jobs/product-marketing-manager-weave-0fba853a-c762-410c-b947-81b79864bbb2?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/weave/985f788d-aaab-41dd-9680-127a35967479/application) |
 
 ### Program manager (1)
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
-| phData | Senior Program Manager | India - Remote | India | 2026-11-13 | [Details](https://rolivajobs.com/jobs/senior-program-manager-phdata-ad353676-b772-4bbe-a64b-67987c94d141?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.phdata.io/jobs?gh_jid=8266464) |
+| phData | Sr. Program Manager | India - Remote | India | 2026-11-13 | [Details](https://rolivajobs.com/jobs/sr-program-manager-phdata-ad353676-b772-4bbe-a64b-67987c94d141?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.phdata.io/jobs?gh_jid=8266464) |
 
 ### Recruiter (1)
 
@@ -257,12 +259,14 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 |---|---|---|---|---|---|
 | Outmarket | Security Engineer | Remote US | India | 2026-06-20 | [Details](https://rolivajobs.com/jobs/security-engineer-outmarket-d743ddb6-cafc-4fad-a1cd-30d12ca723bf?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/outmarket/bba04db6-c2da-4abc-92e6-af14ee02a3b5/application) |
 
-### Other roles (159)
+### Other roles (157)
 
 | Company | Role | Location | Eligibility | Posted | Link |
 |---|---|---|---|---|---|
-| GitLab | Senior Candidate Experience Specialist, APJ | Remote, India | India | 2026-11-17 | [Details](https://rolivajobs.com/jobs/senior-candidate-experience-specialist-apj-gitlab-4d0febe2-67e3-4598-8ba0-c03fb5a50ad5?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8943636002) |
+| Bullpen Talent | Financial Modeler (DCF) | India | India | 2026-11-17 | [Details](https://rolivajobs.com/jobs/financial-modeler-dcf-bullpen-talent-5d17a432-affd-4b81-873b-501c0f36b7ed?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/bullpen-talent/8b84165b-9364-41dd-a308-b3863093edcd/application) |
+| GitLab | Candidate Experience Specialist, Team Lead (APJ) | Remote, India | India | 2026-11-17 | [Details](https://rolivajobs.com/jobs/candidate-experience-specialist-team-lead-apj-gitlab-4d0febe2-67e3-4598-8ba0-c03fb5a50ad5?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8943636002) |
 | HighLevel | Director, Cloud Infrastructure | India | India | 2026-11-17 | [Details](https://rolivajobs.com/jobs/director-cloud-infrastructure-highlevel-044adb8f-c1e1-47b5-b0ca-38adad78ef6f?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/ea8ed99e-59bf-4c23-8cb6-71609f2d9313/apply) |
+| Twilio | Fast Track Operations Specialist 2 | Remote - India | India | 2026-11-17 | [Details](https://rolivajobs.com/jobs/fast-track-operations-specialist-2-twilio-e5d8704e-c0c9-448f-800d-5646928f9834?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/twilio/jobs/8358938) |
 | Twilio | Staff, Technical Account Manager | Remote - India | India | 2026-11-17 | [Details](https://rolivajobs.com/jobs/staff-technical-account-manager-twilio-454abc27-7759-4454-b52b-35e9f94f0173?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/twilio/jobs/8385881) |
 | ElevenLabs | Deployment Strategist Lead - India | India | India | 2026-11-16 | [Details](https://rolivajobs.com/jobs/deployment-strategist-lead-india-elevenlabs-13ad662f-117a-4939-8769-da31115937ef?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/ElevenLabs/6b5a902d-49ea-4fa9-ab67-d6e88c361695/application) |
 | GitLab | Customer Success Engineer, India | Remote, India | India | 2026-11-16 | [Details](https://rolivajobs.com/jobs/customer-success-engineer-india-gitlab-4480e230-7ea3-4d2e-b004-55abed1a8a87?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8926443002) |
@@ -280,7 +284,6 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Turing | Technical Delivery Lead, Emerging | India - Remote | India | 2026-11-10 | [Details](https://rolivajobs.com/jobs/technical-delivery-lead-emerging-turing-af633605-0092-4489-8af0-c7eef4b09844?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/turing/jobs/6241507004) |
 | BTSE | Listing Business Development Manager | APAC | APAC | 2026-11-09 | [Details](https://rolivajobs.com/jobs/listing-business-development-manager-btse-ab1f6ad1-c25e-4d42-8756-60759cb42a94?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/BTSE/8cc49283-4de0-40db-a45e-c5d09551a103/apply) |
 | Neo4j | Lead Technical Onboarding Engineer | Remote: India | India | 2026-11-09 | [Details](https://rolivajobs.com/jobs/lead-technical-onboarding-engineer-neo4j-c0bb0689-94d4-445d-991d-a19461393163?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://boards.greenhouse.io/neo4j/jobs/4704398006?gh_jid=4704398006) |
-| SonicWall | Senior Collections Analyst | India - Remote | India | 2026-11-09 | [Details](https://rolivajobs.com/jobs/senior-collections-analyst-sonicwall-7f897adb-5d8b-4fbd-8280-a288856f38de?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/sonicwall/jobs/8366047) |
 | Bullpen Talent | Financial Modelling Analyst – Private Equity &amp; Credit (Remote) | India | India | 2026-11-06 | [Details](https://rolivajobs.com/jobs/financial-modelling-analyst-private-equity-credit-remote-bullpen-talen-c8f880ed-f362-4e85-a0c6-7d3bd330baae?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/bullpen-talent/0708a2e5-1bfd-4214-8b25-b0a84acfcfd2/application) |
 | Precision for Medicine | Analyst, Business &amp; Competitive Intelligence | Remote, India | India | 2026-11-06 | [Details](https://rolivajobs.com/jobs/analyst-business-competitive-intelligence-precision-for-medicine-179d9498-8233-400d-a962-81255e4ead2e?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/pfm/jobs/6206249004) |
 | Precision Medicine Group | Analyst, Business &amp; Competitive Intelligence | Remote, India | India | 2026-11-06 | [Details](https://rolivajobs.com/jobs/analyst-business-competitive-intelligence-precision-medicine-group-15aa112e-b933-4719-81d8-55738eca7d01?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6206241004) |
@@ -306,7 +309,6 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Riveron | Senior Associate - EPM (OneStream) | India | India | 2026-10-26 | [Details](https://rolivajobs.com/jobs/senior-associate-epm-onestream-riveron-ba865a1d-9aab-457e-bbdc-c243fc1b5301?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/riveron/ece40b9a-db60-4723-8b76-bc3c167f9dd9/application) |
 | Terac | Hospitality Professionals: Interview on Guest Experience Operations | India | India | 2026-10-26 | [Details](https://rolivajobs.com/jobs/hospitality-professionals-interview-on-guest-experience-operations-ter-71ef4b04-6365-4d80-aed4-5e5b33d87591?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/terac/d1d6c13b-ec02-4823-9955-440ab4e0a368/application) |
 | Zscaler | Manager, Investor Relations &amp; Strategic Finance | Remote - India | India | 2026-10-26 | [Details](https://rolivajobs.com/jobs/manager-investor-relations-strategic-finance-zscaler-a525e871-1023-445e-b730-f639b70df08f?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5268694007) |
-| HighLevel | Customer Support Apprentice | India | India | 2026-10-24 | [Details](https://rolivajobs.com/jobs/customer-support-apprentice-highlevel-28c869ee-1e59-4c1c-8f9c-60e5a3030717?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/bef12ecf-8d42-4c51-89a4-08ece9f3d82f/apply) |
 | Kantiv | Executive Assistant | Remote - India | India | 2026-10-23 | [Details](https://rolivajobs.com/jobs/executive-assistant-kantiv-f9131752-e030-4f4e-818c-7eb8ed4c6987?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/kantiv/cd50312c-4710-487b-b77a-ad55b6214e7b/application) |
 | Aptura | Expression of Interest | Global | Worldwide | 2026-10-22 | [Details](https://rolivajobs.com/jobs/expression-of-interest-aptura-46d0d135-084f-4151-9b1b-69f69c122adb?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/aptura/bdee3ec1-c487-4195-b80b-efc4acf0d87e/application) |
 | Kantiv | Sales Development Representative | Remote - India | India | 2026-10-22 | [Details](https://rolivajobs.com/jobs/sales-development-representative-kantiv-dc289e34-9c8f-4875-8880-bd7eded0d1f2?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/kantiv/3babc809-c055-497d-b9c4-8cd4ebe58777/application) |
@@ -361,7 +363,6 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | HighLevel | Senior Software Development Engineer ( Labs) | India | India | 2026-09-25 | [Details](https://rolivajobs.com/jobs/senior-software-development-engineer-labs-highlevel-a6b6960d-4d47-4806-a17b-de6907b350ad?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/830505ba-65b7-4e0b-8681-f84eaef2a337/apply) |
 | HighLevel | Sr. SDE - Platform | India | India | 2026-09-25 | [Details](https://rolivajobs.com/jobs/sr-sde-platform-highlevel-ca37f791-3273-4d79-a756-f9a31690681f?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/39718784-e43b-43b6-9fee-5a33975e7640/apply) |
 | Valtech | Senior Automation Testing | India - Remote | India | 2026-09-24 | [Details](https://rolivajobs.com/jobs/senior-automation-testing-valtech-8e0db8c9-862e-485b-9b8f-422aec528835?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4983354101) |
-| Redis | Field Partner Leader, MEA | India | India | 2026-09-23 | [Details](https://rolivajobs.com/jobs/field-partner-leader-mea-redis-cd21f3d7-c007-47ac-8f3d-992d88fa97b9?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/Redis/f2098a68-9a93-4f41-8f3c-cabfcaebb2ee/application) |
 | Twilio | Personalized Support Engineer | Remote - India | India | 2026-09-23 | [Details](https://rolivajobs.com/jobs/personalized-support-engineer-twilio-83766b9e-dde0-4cff-bd7c-1c9df484c1c2?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/twilio/jobs/8213730) |
 | Wiz, Inc. | Senior Solutions Support Engineer | Remote - India | India | 2026-09-23 | [Details](https://rolivajobs.com/jobs/senior-solutions-support-engineer-wiz-inc-a4b0555b-df58-421d-bd2a-746af39abead?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://www.wiz.io/careers/job/4714932006/:title?gh_jid=4714932006) |
 | HighLevel | Sr. SDE - Ticketing (Fullstack) | India | India | 2026-09-21 | [Details](https://rolivajobs.com/jobs/sr-sde-ticketing-fullstack-highlevel-c2261b1c-bf9b-427d-8691-c90a88b9050a?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.lever.co/gohighlevel/9b47be08-219e-4c47-94cb-8a915cdfcab8/apply) |
@@ -395,7 +396,6 @@ A daily-updated list of **remote roles whose own listing says they are open to c
 | Kong | Strategic Account Director – PSU/Government | New Delhi, India | India | 2026-09-03 | [Details](https://rolivajobs.com/jobs/strategic-account-director-psu-government-kong-30b8fc3c-7c6b-4cfe-8ece-09968800ec80?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/kong/b435e044-45ab-4395-a681-24131c63ca0e/application) |
 | Fresh Prints | Finance Manager | India (Remote) | India | 2026-08-27 | [Details](https://rolivajobs.com/jobs/finance-manager-fresh-prints-8189a7f7-2c8f-4320-a7ba-a20adb8e0add?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/freshprints/jobs/6166509004) |
 | Bitwarden | Implementation Engineer, Customer Support (APAC) | Remote, APAC | APAC | 2026-08-25 | [Details](https://rolivajobs.com/jobs/implementation-engineer-customer-support-apac-bitwarden-c02f0813-b9c4-46b4-a950-5c1821950068?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://bitwarden.com/careers/7867093003/?gh_jid=7867093003) |
-| DevRev | Senior Technical Specialist, AI Solutions : Delhi | India Remote | India | 2026-08-24 | [Details](https://rolivajobs.com/jobs/senior-technical-specialist-ai-solutions-delhi-devrev-4f20df53-c494-473c-9060-a32a701da172?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/devrev/jobs/6139491004) |
 | Ocrolus Inc. | GTM Engineer, Growth Marketing | Remote - IND | India | 2026-08-24 | [Details](https://rolivajobs.com/jobs/gtm-engineer-growth-marketing-ocrolus-inc-b82d8926-ec1d-4b9c-8386-6438b32dcced?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/ocrolusinc/jobs/6148169004) |
 | ElevenLabs | Offline Media Buyer | United States | India | 2026-08-20 | [Details](https://rolivajobs.com/jobs/offline-media-buyer-elevenlabs-9099c7f9-ca88-4a80-9fea-72e3e7bae469?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://jobs.ashbyhq.com/ElevenLabs/e2bc0a9f-15b5-49a1-a796-2dc9b2f5b7ac/application) |
 | MinIO | Field Chief Technology Officer (Field CTO) | Remote - Bengaluru, India | Region of India | 2026-08-20 | [Details](https://rolivajobs.com/jobs/field-chief-technology-officer-field-cto-minio-06f0128c-2d5c-48e6-b143-c71893de1ebe?utm_source=github&utm_medium=list&utm_campaign=remote-india) · [Apply](https://job-boards.greenhouse.io/minio/jobs/5380066008) |
